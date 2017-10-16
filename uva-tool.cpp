@@ -15,7 +15,7 @@
  * --------------------------------------------------------------------
  *  29 Feb 2017 0.2         Completed, not tested, BASH
  *  02 Apr 2017 0.4         Without bash script, fully C++, system() used
- *  05 Oct 2017 0.6			Cleanize, nlohmann/json used
+ *  05 Oct 2017 0.6         Cleanize, nlohmann/json used
  *
  *
  *                 ██╗███████╗███╗   ██╗██╗███╗   ██╗
