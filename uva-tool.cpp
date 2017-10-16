@@ -141,7 +141,8 @@ public:
         ifstream fp("/home/jenin/.uva-tool/pid-to-num.cvs");
 
         if (!fp) {
-            cerr << "Unable to open file : /home/jenin/.uva-tool/pid-to-num.cvs\n";
+            cerr << "Unable to open file : /home/jenin/.uva-tool/" << \
+                 "pid-to-num.cvs\n";
             throw 1;
         }
 
@@ -188,7 +189,6 @@ private:
     }
 
     void verdict(int ver) {
-        //if () {
         if (ver == 90)
             cout << "\x1b[38;2;0;195;0m\033[1mAccepted\033[0m\x1b[0m\t";
         else if (ver == 80)
@@ -215,37 +215,11 @@ private:
             cout << "\x1b[38;2;96;96;96m\033[1mSubmission error\033[0m\x1b[0m ";
         else  cout << "UNKNOWN VERDICT\t";
     }
-    //else {
-    //if (ver == 90)
-    //    cout << "\x1b[38;2;0;195;0m\033[1mAccepted\033[0m\x1b[0m\t";
-    //else if (ver == 80)
-    //    cout << "\x1b[38;2;102;102;0m\033[1mPresentationE\033[0m\x1b[0m\t";
-    //else if (ver == 70)
-    //    cout << "\x1b[38;2;255;0;0m\033[1mWrong answer\033[0m\x1b[0m\t";
-    //else if (ver == 60)
-    //    cout << "\x1b[38;2;51;51;255m\033[1mMemory limit\033[0m\x1b[0m\t";
-    //else if (ver == 50)
-    //    cout << "\x1b[38;2;0;0;255m\033[1mTime limit\033[0m\x1b[0m\t";
-    //else if (ver == 45)
-    //    cout << "\x1b[38;2;96;96;96m\033[1mOutput limit\033[0m\x1b[0m\t";
-    //else if (ver == 40)
-    //    cout << "\x1b[38;2;0;204;204m\033[1mRuntime error\033[0m\x1b[0m\t";
-    //else if (ver == 30)
-    //    cout << "\x1b[38;2;204;204;0m\033[1mCompile error\033[0m\x1b[0m\t";
-    //else if (ver == 35)
-    //    cout << "\x1b[38;2;96;96;96m\033[1mRestricted function\033[0m\x1b[0m\t";
-    //else if (ver == 20 || ver == 0)
-    //    cout << "\x1b[38;2;96;96;96m\033[1mIn queue\033[0m\x1b[0m\t";
-    //else if (ver == 15)
-    //    cout << "\x1b[38;2;96;96;96m\033[1mCan't be judged\033[0m\x1b[0\t";
-    //else if (ver == 10)
-    //    cout << "\x1b[38;2;96;96;96m\033[1mSubmission error\033[0m\x1b[0m ";
-    //else  cout << "UNKNOWN VERDICT\t";}
-    //}
+
     void runtime(int rt, int ver) {
         double runt = (double) (rt) / 1000.0;
-        if (ver == 40 || ver == 45 || ver == 50 || ver == 60 || ver == 70 || ver == 80
-                || ver == 90 )
+        if (ver == 40 || ver == 45 || ver == 50 || ver == 60 || ver == 70 || \
+                ver == 80 || ver == 90 )
             cout << left << setw(6) << fixed << setprecision(3) << runt << "\t";
         else cout << left << setw(8) << "-";
     }
@@ -285,8 +259,10 @@ public:
     void show(Problem &input) {
         problem = &input;
         cout << left << setw(11) << "Sub ID" << setw(40) << "Problem\t" << \
-             "Verdict\t\t" << "Runtime\t" << "Rank\t" << "Language   " << "Date\n";
-        cout << "==========================================================================================================================\n";
+             "Verdict\t\t" << "Runtime\t" << "Rank\t" << "Language   " << \
+             "Date\n";
+        cout << "=========================================================\
+=================================================================\n";
         for (int i = range - 1; i >= 0; i--) {
             sid(json_subs["subs"][i][0]);
             problem_name(json_subs["subs"][i][1]);
@@ -322,8 +298,8 @@ void hunt(string name, string range) {
 class submit {
 private:
     string cookie_jar = "~/.uva-tool/uva.onlinejudge.org_cookie.txt";
-    string submitlink =
-        "https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=25&page=save_submission";
+    string submitlink = "https://uva.onlinejudge.org/index.php\
+?option=com_onlinejudge&Itemid=25&page=save_submission";
     string formdata() {
         string cmd = "curl -f -L -s http://uva.onlinejudge.org |";
         cmd += " grep -B8 'id=\"mod_login_remember\"' | awk '{print $3 \" \" $4}'";
@@ -383,7 +359,8 @@ public:
         string cmd = "curl -X POST -f -L -s --compressed ";
         cmd += "--cookie-jar " + cookie_jar + " --data \"";
         cmd += data;
-        cmd += "\" \"https://uva.onlinejudge.org/index.php?option=com_comprofiler&task=login\"";
+        cmd += "\" \"https://uva.onlinejudge.org/index.php\
+?option=com_comprofiler&task=login\"";
         string str = system_exec(cmd.c_str());
         if (str.find("My Account") != string::npos
                 and str.find("Logout") != string::npos) {
@@ -394,7 +371,8 @@ public:
 
     void problem_submit(string pnumber, string ppath, string plang) {
         string cmd =
-            "curl -X POST -f -L -s -w '%{url_effective}' --compressed --cookie "\
+            "curl -X POST -f -L -s -w '%{url_effective}' " \
+            "--compressed --cookie " \
             + cookie_jar + " --cookie-jar " + cookie_jar + \
             " --form localid=" + pnumber + " --form language=" + plang + \
             " --form \"codeupl=@" + ppath + "\" \"" + submitlink + "\"";
