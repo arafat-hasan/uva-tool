@@ -1,0 +1,4831 @@
+36~100~The 3n + 1 problem
+37~101~The Blocks Problem
+38~102~Ecological Bin Packing
+39~103~Stacking Boxes
+40~104~Arbitrage
+41~105~The Skyline Problem
+42~106~Fermat vs. Pythagoras
+43~107~The Cat in the Hat
+44~108~Maximum Sum
+45~109~SCUD Busters
+46~110~Meta-Loopless Sorts
+47~111~History Grading
+48~112~Tree Summing
+49~113~Power of Cryptography
+50~114~Simulation Wizardry
+51~115~Climbing Trees
+52~116~Unidirectional TSP
+53~117~The Postal Worker Rings Once
+54~118~Mutant Flatworld Explorers
+55~119~Greedy Gift Givers
+56~120~Stacks of Flapjacks
+57~121~Pipe Fitters
+58~122~Trees on the level
+59~123~Searching Quickly
+60~124~Following Orders
+61~125~Numbering Paths
+62~126~The Errant Physicist
+63~127~"Accordian" Patience
+64~128~Software CRC
+65~129~Krypton Factor
+66~130~Roman Roulette
+67~131~The Psychic Poker Player
+68~132~Bumpy Objects
+69~133~The Dole Queue
+70~134~Loglan-A Logical Language
+71~135~No Rectangles
+72~136~Ugly Numbers
+73~137~Polygons
+74~138~Street Numbers
+75~139~Telephone Tangles
+76~140~Bandwidth
+77~141~The Spot Game
+78~142~Mouse Clicks
+79~143~Orchard Trees
+80~144~Student Grants
+81~145~Gondwanaland Telecom
+82~146~ID Codes
+83~147~Dollars
+84~148~Anagram checker
+85~149~Forests
+86~150~Double Time
+87~151~Power Crisis
+88~152~Tree's a Crowd
+89~153~Permalex
+90~154~Recycling
+91~155~All Squares
+92~156~Ananagrams
+93~157~Route Finding
+94~158~Calendar
+95~159~Word Crosses
+96~160~Factors and Factorials
+97~161~Traffic Lights
+98~162~Beggar My Neighbour
+99~163~City Directions
+100~164~String Computer
+101~165~Stamps
+102~166~Making Change
+103~167~The Sultan's Successors
+104~168~Theseus and the Minotaur
+105~169~Xenosemantics
+106~170~Clock Patience
+107~171~Car Trialling
+108~172~Calculator Language
+109~173~Network Wars
+110~174~Strategy
+111~175~Keywords
+112~176~City Navigation
+113~177~Paper Folding
+114~178~Shuffling Patience
+115~179~Code Breaking
+116~180~Eeny Meeny
+117~181~Hearts
+118~182~Bonus Bonds
+119~183~Bit Maps
+120~184~Laser Lines
+121~185~Roman Numerals
+122~186~Trip Routing
+123~187~Transaction Processing
+124~188~Perfect Hash
+125~189~Pascal Program Lengths
+126~190~Circle Through Three Points
+127~191~Intersection
+128~192~Synchronous Design
+129~193~Graph Coloring
+130~194~Triangle
+131~195~Anagram
+132~196~Spreadsheet
+133~197~Cube
+134~198~Peter's Calculator
+135~199~Partial differential equations
+136~200~Rare Order
+137~201~Squares
+138~202~Repeating Decimals
+139~203~Running Lights Visibility Calculator
+140~204~Robot Crash
+141~205~Getting There
+142~206~Meals on Wheels Routing System
+143~207~PGA Tour Prize Money
+144~208~Firetruck
+145~209~Triangular Vertices
+146~210~Concurrency Simulator
+147~211~The Domino Effect
+148~212~Use of Hospital Facilities
+149~213~Message Decoding
+150~214~Code Generation
+151~215~Spreadsheet Calculator
+152~216~Getting in Line
+153~217~Radio Direction Finder
+154~218~Moth Eradication
+155~219~Department of Redundancy Department
+156~220~Othello
+157~221~Urban Elevations
+158~222~Budget Travel
+159~223~Classifying Lots in a Subdivision
+160~224~Kissin' Cousins
+161~225~Golygons
+162~226~MIDI Preprocessing
+163~227~Puzzle
+164~228~Resource Allocation
+165~229~Scanner
+166~230~Borrowers
+167~231~Testing the CATCHER
+168~232~Crossword Answers
+169~233~Package Pricing
+170~234~Switching Channels
+171~235~Typesetting
+172~236~VTAS - Vessel Traffic Advisory Service
+173~237~Monitoring Wheelchair Patients
+174~238~Jill's Bike
+175~239~Tempus et mobilius. Time and motion
+176~240~Variable Radix Huffman Encoding
+177~241~Sail Race
+178~242~Stamps and Envelope Size
+179~243~Theseus and the Minotaur (II)
+180~244~Train Time
+181~245~Uncompress
+182~246~10-20-30
+183~247~Calling Circles
+184~248~Cutting Corners
+185~249~Bang the Drum Slowly
+186~250~Pattern Matching Prelims
+187~251~Nondeterministic Trellis Automata
+188~252~Trucking
+189~253~Cube painting
+190~254~Towers of Hanoi
+191~255~Correct Move
+192~256~Quirksome Squares
+193~257~Palinwords
+194~258~Mirror Maze
+195~259~Software Allocation
+196~260~Il Gioco dell'X
+197~261~The Window Property
+198~262~Transferable Voting
+199~263~Number Chains
+200~264~Count on Cantor
+201~265~Dining Diplomats
+202~266~Stamping Out Stamps
+203~267~Of(f) Course!
+204~268~Double Trouble
+205~269~Counting Patterns
+206~270~Lining Up
+207~271~Simply Syntax
+208~272~TEX Quotes
+209~273~Jack Straws
+210~274~Cat and Mouse
+211~275~Expanding Fractions
+212~276~Egyptian Multiplication
+213~277~Cabinets
+214~278~Chess
+215~279~Spin
+216~280~Vertex
+217~281~Rubik's Cube
+218~282~Rename
+219~283~Compress
+220~284~Logic
+221~285~Crosswords
+222~286~Dead Or Not -- That Is The Question
+223~287~Text Comparsion
+224~288~Arithmetic Operations With Large Integers
+225~289~A Very Nasty Text Formatter
+226~290~Palindroms <---> smordnilaP
+227~291~The House Of Santa Claus
+228~292~Presentation Error
+229~293~Bits
+230~294~Divisors
+231~295~Fatman
+232~296~Safebreaker
+233~297~Quadtrees
+234~298~Race Tracks
+235~299~Train Swapping
+236~300~Maya Calendar
+237~301~Transportation
+238~302~John's trip
+239~303~Pipe
+240~304~Department
+241~305~Joseph
+242~306~Cipher
+243~307~Sticks
+244~308~Tin Cutter
+245~309~FORCAL
+246~310~L--system
+247~311~Packets
+248~312~Crosswords (II)
+249~313~Intervals
+250~314~Robot
+251~315~Network
+252~316~Stars
+253~317~Hexagon
+254~318~Domino Effect
+255~319~Pendulum
+256~320~Border
+257~321~The New Villa
+258~322~Ships
+259~323~Jury Compromise
+260~324~Factorial Frequencies
+261~325~Identifying Legal Pascal Real Constants
+262~326~Extrapolation Using a Difference Table
+263~327~Evaluating Simple C Expressions
+264~328~The Finite State Text Processing Machine
+265~329~PostScript Emulation
+266~330~Inventory Maintenance
+267~331~Mapping the Swaps
+268~332~Rational Numbers from Repeating Fractions
+269~333~Recognizing Good ISBNs
+270~334~Identifying Concurrent Events
+271~335~Processing MX Records
+272~336~A Node Too Far
+273~337~Interpreting Control Sequences
+274~338~Long Multiplication
+275~339~SameGame Simulation
+276~340~Master-Mind Hints
+277~341~Non-Stop Travel
+278~342~HTML Syntax Checking
+279~343~What Base Is This?
+280~344~Roman Digititis
+281~345~It's Ir-Resist-Able!
+282~346~Getting Chorded
+283~347~Run
+284~348~Optimal Array Multiplication Sequence
+285~349~Transferable Voting (II)
+286~350~Pseudo-Random Numbers
+287~351~"Cheapest" Scores
+288~352~The Seasonal War
+289~353~Pesky Palindromes
+290~354~Crazy Calculator
+291~355~The Bases Are Loaded
+292~356~Square Pegs And Round Holes
+293~357~Let Me Count The Ways
+294~358~Don't Have A Cow
+295~359~Sex Assignments And Breeding Experiments
+296~360~Don't Get Hives From This One!
+297~361~Cops and Robbers
+298~362~18000 Seconds Remaining
+299~363~Approximate Matches
+300~364~Constitutional Computing
+301~365~Welfare Reform
+302~366~Cutting Up
+303~367~Halting Factor Replacement Systems
+304~368~Indexing Web Pages
+305~369~Combinations
+306~370~Bingo
+307~371~Ackermann Functions
+308~372~WhatFix Notation
+309~373~Romulan Spelling
+310~374~Big Mod
+311~375~Inscribed Circles and Isosceles Triangles
+312~376~More Triangles ... THE AMBIGUOUS CASE
+313~377~Cowculations
+314~378~Intersecting Lines
+315~379~Hi-Q
+316~380~Call Forwarding
+317~381~Making the Grade
+318~382~Perfection
+319~383~Shipping Routes
+320~384~Slurpys
+321~385~DNA Translation
+322~386~Perfect Cubes
+323~387~A Puzzling Problem
+324~388~Galactic Import
+325~389~Basically Speaking
+326~390~Letter Sequence Analysis
+327~391~Mark-up
+328~392~Polynomial Showdown
+329~393~The Doors
+330~394~Mapmaker
+331~395~Board Silly
+332~396~Top Dog
+333~397~Equation Elation
+334~398~18-Wheeler Caravans (aka Semigroups)
+335~399~Another Puzzling Problem
+341~400~Unix ls
+342~401~Palindromes
+343~402~M*A*S*H
+344~403~Postscript
+345~404~Radar Scopes
+346~405~Message Routing
+347~406~Prime Cuts
+348~407~Gears on a Board
+349~408~Uniform Generator
+350~409~Excuses Excuses!
+351~410~Station Balance
+352~411~Centipede Collisions
+353~412~Pi
+354~413~Up and Down Sequences
+355~414~Machined Surfaces
+356~415~Sunrise
+357~416~LED Test
+358~417~Word Index
+359~418~Molecules
+360~419~Matching Meetings
+361~420~Supercomputer Selection The Sequel
+362~421~Polygonal Puzzle
+363~422~Word-Search Wonder
+364~423~MPI Maelstrom
+365~424~Integer Inquiry
+366~425~Enigmatic Encryption
+367~426~Fifth Bank of Swamp County
+368~427~FlatLand Piano Movers
+369~428~Swamp County Roofs
+370~429~Word Transformation
+371~430~Swamp County Supervisors
+372~431~Trial of the Millennium
+373~432~Modern Art
+374~433~Bank (Not Quite O.C.R.)
+375~434~Matty's Blocks
+376~435~Block Voting
+377~436~Arbitrage (II)
+378~437~The Tower of Babylon
+379~438~The Circumference of the Circle
+380~439~Knight Moves
+381~440~Eeny Meeny Moo
+382~441~Lotto
+383~442~Matrix Chain Multiplication
+384~443~Humble Numbers
+385~444~Encoder and Decoder
+386~445~Marvelous Mazes
+387~446~Kibbles "n" Bits "n" Bits "n" Bits
+388~447~Population Explosion
+389~448~OOPS!
+390~449~Majoring in Scales
+391~450~Little Black Book
+392~451~Poker Solitaire Evaluator
+393~452~Project Scheduling
+394~453~Intersecting Circles
+395~454~Anagrams
+396~455~Periodic Strings
+397~456~Robotic Stacker
+398~457~Linear Cellular Automata
+399~458~The Decoder
+400~459~Graph Connectivity
+401~460~Overlapping Rectangles
+402~461~The Reservation Maker
+403~462~Bridge Hand Evaluator
+404~463~Polynomial Factorization
+405~464~Sentence/Phrase Generator
+406~465~Overflow
+407~466~Mirror Mirror
+408~467~Synching Signals
+409~468~Key to Success
+410~469~Wetlands of Florida
+411~470~Nasty Virus
+412~471~Magic Numbers
+413~472~Simultaneous Equations
+414~473~Raucous Rockers
+415~474~Heads / Tails Probability
+416~475~Wild Thing
+417~476~Points in Figures: Rectangles
+418~477~Points in Figures: Rectangles and Circles
+419~478~Points in Figures: Rectangles Circles Triangles
+420~479~Irrigation Flow Rates
+421~480~Tempus Fugit
+422~481~What Goes Up
+423~482~Permutation Arrays
+424~483~Word Scramble
+425~484~The Department of Redundancy Department
+426~485~Pascal's Triangle of Death
+427~486~English-Number Translator
+428~487~Boggle Blitz
+429~488~Triangle Wave
+430~489~Hangman Judge
+431~490~Rotating Sentences
+432~491~Tile Topology
+433~492~Pig-Latin
+434~493~Rational Spiral
+435~494~Kindergarten Counting Game
+436~495~Fibonacci Freeze
+437~496~Simply Subsets
+438~497~Strategic Defense Initiative
+439~498~Polly the Polynomial
+440~499~What's The Frequency Kenneth?
+441~500~Table
+442~501~Black Box
+443~502~DEL command
+444~503~Parallelepiped walk
+445~504~Random number
+446~505~Moscow time
+447~506~System Dependencies
+448~507~Jill Rides Again
+449~508~Morse Mismatches
+450~509~RAID!
+451~510~Optimal Routing
+452~511~Do You Know the Way to San Jose?
+453~512~Spreadsheet Tracking
+454~513~Window Frames
+455~514~Rails
+456~515~King
+457~516~Prime Land
+458~517~Word
+459~518~Time
+460~519~Puzzle (II)
+461~520~Append
+462~521~Gossiping
+463~522~Schedule Problem
+464~523~Minimum Transport Cost
+465~524~Prime Ring Problem
+466~525~Milk Bottle Data
+467~526~String Distance and Transform Process
+468~527~The partition of a cake
+469~528~The Problem of Train Setout
+470~529~Addition Chains
+471~530~Binomial Showdown
+472~531~Compromise
+473~532~Dungeon Master
+474~533~Equation Solver
+475~534~Frogger
+476~535~Globetrotter
+477~536~Tree Recovery
+478~537~Artificial Intelligence?
+479~538~Balancing Bank Accounts
+480~539~The Settlers of Catan
+481~540~Team Queue
+482~541~Error Correction
+483~542~France '98
+484~543~Goldbach's Conjecture
+485~544~Heavy Cargo
+486~545~Heads
+487~546~Image Recognizer
+488~547~DDF
+489~548~Tree
+490~549~Evaluating an Equations Board
+491~550~Multiplying by Rotation
+492~551~Nesting a Bunch of Brackets
+493~552~Filling the Gaps
+494~553~Simply proportion
+495~554~Caesar Cypher
+496~555~Bridge Hands
+497~556~Amazing
+498~557~Burger
+499~558~Wormholes
+500~559~Squares (II)
+501~560~Magic
+502~561~Jackpot
+503~562~Dividing coins
+504~563~Crimewave
+505~564~Gaston
+506~565~Pizza Anyone?
+507~566~Adam's Genes
+508~567~Risk
+509~568~Just the Facts
+510~569~Horse Shoe Scoring
+511~570~Stats
+512~571~Jugs
+513~572~Oil Deposits
+514~573~The Snail
+515~574~Sum It Up
+516~575~Skew Binary
+517~576~Haiku Review
+518~577~WIMP
+519~578~Polygon Puzzler
+520~579~Clock Hands
+521~580~Critical Mass
+522~581~Word Search
+523~582~Randomly Wired Neural Nets
+524~583~Prime Factors
+525~584~Bowling
+526~585~Triangles
+527~586~Instant Complexity
+528~587~There's treasure everywhere!
+529~588~Video Surveillance
+530~589~Pushing Boxes
+531~590~Always on the run
+532~591~Box of Bricks
+533~592~Island of Logic
+534~593~MBone
+535~594~One Little Two Little Three Little Endians
+536~595~A Major Problem
+537~596~The Incredible Hull
+538~597~Last Name First Please
+539~598~Bundling Newspapers
+540~599~The Forrest for the Trees
+541~600~A Duckpin Tournament
+542~601~The PATH
+543~602~What Day Is It?
+544~603~Parking Lot
+545~604~The Boggle Game
+546~605~The Rotating Disk
+547~606~Keeps Going and Going and ...
+548~607~Scheduling Lectures
+549~608~Counterfeit Dollar
+550~609~Metal Cutting
+551~610~Street Directions
+552~611~Parallel Deadlock
+553~612~DNA Sorting
+554~613~Numbers That Count
+555~614~Mapping the Route
+556~615~Is It A Tree?
+557~616~Coconuts Revisited
+558~617~Nonstop Travel
+559~618~Doing Windows
+560~619~Numerically Speaking
+561~620~Cellular Structure
+562~621~Secret Research
+563~622~Grammar Evaluation
+564~623~500!
+565~624~CD
+566~625~Compression
+567~626~Ecosystem
+568~627~The Net
+569~628~Passwords
+570~629~Test
+571~630~Anagrams (II)
+572~631~Microzoft Calendar
+573~632~Compression (II)
+574~633~A Chess Knight
+575~634~Polygon
+576~635~Clock solitaire
+577~636~Squares (III)
+578~637~Booklet Printing
+579~638~Finding Rectangles
+580~639~Don't Get Rooked
+581~640~Self Numbers
+582~641~Do the Untwist
+583~642~Word Amalgamation
+584~643~Bulk Mailing
+585~644~Immediate Decodability
+586~645~File Mapping
+587~646~The Gourmet Club
+588~647~Chutes and Ladders
+589~648~Stamps (II)
+590~649~You Who?
+591~650~Bowl
+592~651~Deck
+593~652~Eight
+594~653~Gizilch
+595~654~Ratio
+596~655~Scrabble
+597~656~Optimal Programs
+598~657~The die is cast
+599~658~It's not a Bug it's a Feature!
+600~659~Reflections
+601~660~Going in circles on Alpha Centauri
+602~661~Blowing Fuses
+603~662~Fast Food
+604~663~Sorting Slides
+605~664~Single-Player Games
+606~665~False coin
+607~666~Rating
+608~667~Fence
+609~668~Parliament
+610~669~Defragment
+611~670~The dog task
+612~671~Spell checker
+613~672~Gangsters
+614~673~Parentheses Balance
+615~674~Coin Change
+616~675~Convex Hull of the Polygon
+617~676~Horse Step Maze
+618~677~All Walks of length "n" from the first node
+619~678~Schedule of Taiwan Baseball League
+620~679~Dropping Balls
+621~680~Movement of Reading Head
+622~681~Convex Hull Finding
+623~682~Whoever-pick-the-last-one-lose
+624~683~Character Decoding
+625~684~Integral Determinant
+626~685~Least Path Cost
+627~686~Goldbach's Conjecture (II)
+628~687~Lattice Practices
+629~688~Mobile Phone Coverage
+630~689~Napoleon's Grumble
+631~690~Pipeline Scheduling
+632~691~Triangle Partition
+633~692~BUT We Need a Diagram
+634~693~Digital Racing Circuit
+635~694~The Collatz Sequence
+636~695~Placing the Ops
+637~696~How Many Knights
+638~697~Jack and Jill
+639~698~Index
+640~699~The Falling Leaves
+641~700~Date Bugs
+642~701~The Archeologists' Dilemma
+643~702~The Vindictive Coach
+644~703~Triple Ties: The Organizer's Nightmare
+645~704~Colour Hash
+646~705~Slash Maze
+647~706~LC-Display
+648~707~Robbery
+649~708~Dreisam Equations
+650~709~Formatting Text
+651~710~The Game
+652~711~Dividing up
+653~712~S-Trees
+654~713~Adding Reversed Numbers
+655~714~Copying Books
+656~715~Substitution Cipher
+657~716~Commedia dell' arte
+658~717~Calculating Expressions on Turing Machine
+659~718~Skyscraper Floors
+660~719~Glass Beads
+661~720~Hares and Foxes
+662~721~Invitation Cards
+663~722~Lakes
+664~723~Comment Removal
+665~724~Reverse
+666~725~Division
+667~726~Decode
+668~727~Equation
+669~728~Scatter Point Plot
+670~729~The Hamming Distance Problem
+671~730~Morse Code Generation
+672~731~Numerical Summation of a Series
+673~732~Anagrams by Stack
+674~733~Follow the Folding Dot
+675~734~The Programmer's Hex
+676~735~Dart-a-Mania
+677~736~Lost in Space
+678~737~Gleaming the Cubes
+679~738~A Logical Problem
+680~739~Soundex Indexing
+681~740~Baudot Data Communication Code
+682~741~Burrows Wheeler Decoder
+683~742~Domino Game
+684~743~The MTM Machine
+685~744~Triangular Museum
+686~745~Numeric Puzzles Again!
+687~746~Polygon Visibility
+688~747~Grid Soccer
+689~748~Exponentiation
+690~749~Machine Repair Simulation
+691~750~8 Queens Chess Problem
+692~751~Triangle War
+693~752~Unscrambling Images
+694~753~A Plug for UNIX
+695~754~Treasure Hunt
+696~755~487--3279
+697~756~Biorhythms
+698~757~Gone Fishing
+699~758~The Same Game
+700~759~The Return of the Roman Empire
+701~760~DNA Sequencing
+702~761~Transform those strings
+703~762~We Ship Cheap
+704~763~Fibinary Numbers
+705~764~Pentominos
+706~765~References
+707~766~Sum of powers
+708~767~Game
+709~768~Crossword
+710~769~Magic of David Copperfield
+711~770~Puncher
+712~771~Flying Stars
+713~772~Divide et unita
+714~773~The JustaPox Language
+715~774~Driving in City Squares
+716~775~Hamiltonian Cycle
+717~776~Monkeys in a Regular Forest
+718~777~Codebreakers
+719~778~Recording a tape
+720~779~Wily Hacker's Problem
+721~780~Sentence Generator
+722~781~Optimisation
+723~782~Contour Painting
+724~783~Trains
+725~784~Maze Exploration
+726~785~Grid Colouring
+727~786~Working with Relations
+728~787~Maximum Sub-sequence Product
+729~788~One Day Tours
+730~789~Indexing
+731~790~Head Judge Headache
+732~791~Term Reductions
+733~792~Program Modules
+734~793~Network Connections
+735~794~Straightest Paths
+736~795~Sandorf's Cipher
+737~796~Critical Links
+738~797~Two Way Traffic
+739~798~Tile Puzzle
+740~799~Safari Holiday
+741~800~Crystal Clear
+742~801~Flight Planning
+743~802~Lead or Gold
+744~803~Page Selection by Keyword Matching
+745~804~Petri Net Simulation
+746~805~Polygon Intersections
+747~806~Spatial Structures
+748~807~Towers of Powers
+749~808~Bee Breeding
+750~809~Bullet Hole
+751~810~A Dicey Problem
+752~811~The Fortified Forest
+753~812~Trade on Verweggistan
+754~813~Robot
+755~814~The Letter Carrier's Rounds
+756~815~Flooded!
+757~816~Abbott's Revenge
+758~817~According to Bartjens
+759~818~Cutting Chains
+760~819~Gifts Large and Small
+761~820~Internet Bandwidth
+762~821~Page Hopping
+763~822~Queue and A
+764~823~Stopper Stumper
+765~824~Coast Tracker
+766~825~Walking on the Safe Side
+767~826~Symbolic Numerical System
+768~827~Buddy Memory Allocator
+769~828~Deciphering Messages
+770~829~Almost Balanced Trees
+771~830~Shark
+772~831~Document Validator
+773~832~Financial Risk
+774~833~Water Falls
+775~834~Continued Fractions
+776~835~Square of Primes
+777~836~Largest Submatrix
+778~837~Light and Transparencies
+779~838~Worm World
+780~839~Not so Mobile
+781~840~Deadlock Detection
+782~841~Snake
+783~842~Crossword Puzzles
+784~843~Crypt Kicker
+785~844~Pousse
+786~845~Gas Station Numbers
+787~846~Steps
+788~847~A Multiplication Game
+789~848~Fmt
+790~849~Radar Tracking
+791~850~Crypt Kicker II
+792~851~Maze
+793~852~Deciding victory in Go
+794~853~DVD Subtitles
+795~854~Worse Code
+796~855~Lunch in Grid City
+797~856~The Vigenère Cipher
+798~857~Quantiser
+799~858~Berry Picking
+800~859~Chinese Checkers
+801~860~Entropy Text Analyzer
+802~861~Little Bishops
+803~862~Origami
+804~863~Process Scheduling
+805~864~Scheme Pretty-Printing
+806~865~Substitution Cypher
+807~866~Intersecting Line Segments
+808~867~Storing Images in a Sequence
+809~868~Numerical Maze
+810~869~Airline Comparison
+811~870~Intersecting Rectangles
+812~871~Counting Cells in a Blob
+813~872~Ordering
+814~873~Loan (II)
+815~874~2D Representations
+816~875~Monopoly
+817~876~Balanced Expressions
+818~877~Offset Polygons
+819~878~Rotating Tetris Pieces
+820~879~Circuit Nets
+821~880~Cantor Fractions
+822~881~Points Polygons and Containers
+823~882~The Mailbox Manufacturers Problem
+824~883~Overlapping Rectangles
+825~884~Factorial Factors
+826~885~Telephone Directory Alphabetization
+827~886~Named Extension Dialing
+828~887~Revolutionary Calendar
+829~888~Donkey
+830~889~Islands
+831~890~Maze (II)
+832~891~Syntrax
+833~892~Finding words
+834~893~Y3K Problem
+835~894~Juggling Trams
+836~895~Word Problem
+837~896~Board Game
+838~897~Anagrammatic Primes
+839~898~Hole Cutter
+840~899~Colour Circles
+841~900~Brick Wall Patterns
+842~901~From Databases to XML
+843~902~Password Search
+844~903~Spiral of Numbers
+845~904~Overlapping Air Traffic Control Zones
+846~905~Tacos Panchita
+847~906~Rational Neighbor
+848~907~Winterim Backpacking Trip
+849~908~Re-connecting Computer Sites
+850~909~The BitPack Data Compression Problem
+851~910~TV game
+852~911~Multinomial Coefficients
+853~912~Live From Mars
+854~913~Joana and the Odd Numbers
+855~914~Jumping Champion
+856~915~Stack of Cylinders
+857~916~Dividing Land
+858~917~Euro 2004
+859~918~ASCII Mandelbrot
+860~919~Cutting Polyominoes
+861~920~Sunny Mountains
+862~921~A Word Puzzle in the Sunny Mountains
+863~922~Rectangle by the Ocean
+864~923~One Against Many
+865~924~Spreading The News
+866~925~No more prerequisites please!
+867~926~Walking Around Wisely
+868~927~Integer Sequences from Addition of Terms
+869~928~Eternal Truths
+870~929~Number Maze
+871~930~Polynomial Roots
+872~931~The Probable n-Ascendants
+873~932~Checking the N-Queens Problem
+874~933~Water Flow
+875~934~Overlapping Areas
+876~935~Smart Strategy
+877~936~Mars for Sale
+878~937~Kriss Kross Puzzle
+879~938~Gilix
+880~939~Genes
+881~940~Autobiographical Numbers
+882~941~Permutations
+883~942~Cyclic Numbers
+884~943~Number Format Translator
+885~944~Happy Numbers
+886~945~Loading a Cargo Ship
+887~946~A Pile of Boxes
+888~947~Master Mind Helper
+889~948~Fibonaccimal Base
+890~949~Getaway
+891~950~Tweedle Numbers
+892~951~The Pieces of the Puzzle
+893~952~Uno game
+894~953~The Incredible Pile Machine
+895~954~Tetravex solver
+896~955~Interpreting Old Maps
+897~956~The Minimum Slot Machine
+898~957~Popes
+899~958~A Homer's Holiday
+900~959~Car Rallying
+901~960~Gaussian Primes
+902~961~Ambiguous or Incomplete Inductive Definitions
+903~962~Taxicab Numbers
+904~963~Spelling Corrector
+905~964~Custom Language
+906~965~Police Road Blocks
+907~966~Lost Inheritances
+908~967~Circular
+909~968~Constellations
+910~969~AlienAlgebra
+911~970~Particles
+912~971~Towers
+913~972~Horizon Line
+914~973~The Guessing Game
+915~974~Kaprekar Numbers
+916~975~Gutenberg Clumsy Helper
+917~976~Bridge Building
+918~977~Old West Rumours
+919~978~Lemmings Battle!
+920~979~The Abominable Triangleman
+921~980~X-Express
+922~981~Systematic Cyclic Redundancy Check Codes
+923~982~Cube
+924~983~Localized Summing for Blurring
+925~984~Finding Haplotypes
+926~985~Round and Round Maze
+927~986~How Many?
+928~987~Maternity
+929~988~Many Paths One Destination
+930~989~Su Doku
+931~990~Diving for Gold
+932~991~Safe Salutations
+933~992~Customer Service Cost Evaluation
+934~993~Product of digits
+935~994~POP
+936~995~Super Divisible Numbers
+937~996~Find the Sequence
+938~997~Show the Sequence
+939~998~Dendogram
+940~999~Book signatures
+941~10000~Longest Paths
+942~10001~Garden of Eden
+943~10002~Center of Masses
+944~10003~Cutting Sticks
+945~10004~Bicoloring
+946~10005~Packing polygons
+947~10006~Carmichael Numbers
+948~10007~Count the Trees
+949~10008~What's Cryptanalysis?
+950~10009~All Roads Lead Where?
+951~10010~Where's Waldorf?
+952~10011~Where Can You Hide?
+953~10012~How Big Is It?
+954~10013~Super long sums
+955~10014~Simple calculations
+956~10015~Joseph's Cousin
+957~10016~Flip-Flop the Squarelotron
+958~10017~The Never Ending Towers of Hanoi
+959~10018~Reverse and Add
+960~10019~Funny Encryption Method
+961~10020~Minimal coverage
+962~10021~Cube in the labirint
+963~10022~Delta-wave
+964~10023~Square root
+965~10024~Curling up the cube
+966~10025~The ? 1 ? 2 ? ... ? n = k problem
+967~10026~Shoemaker's Problem
+968~10027~Language Cardinality
+969~10028~Demerit Points
+970~10029~Edit Step Ladders
+971~10030~Computer Dialogue
+972~10031~Saskatchewan
+973~10032~Tug of War
+974~10033~Interpreter
+975~10034~Freckles
+976~10035~Primary Arithmetic
+977~10036~Divisibility
+978~10037~Bridge
+979~10038~Jolly Jumpers
+980~10039~Railroads
+981~10040~Ouroboros Snake
+982~10041~Vito's Family
+983~10042~Smith Numbers
+984~10043~Chainsaw Massacre
+985~10044~Erdos Numbers
+986~10045~Echo
+987~10046~Fold-up Patterns
+988~10047~The Monocycle
+989~10048~Audiophobia
+990~10049~Self-describing Sequence
+991~10050~Hartals
+992~10051~Tower of Cubes
+993~10052~Inviting Politicians
+994~10053~Envelopes
+995~10054~The Necklace
+996~10055~Hashmat the Brave Warrior
+997~10056~What is the Probability ?
+998~10057~A mid-summer night's dream.
+999~10058~Jimmi's Riddles
+1000~10059~The Hazard of CSE Department!
+1001~10060~A hole to catch a man
+1002~10061~How many zero's and how many digits ?
+1003~10062~Tell me the frequencies!
+1004~10063~Knuth's Permutation
+1005~10064~Traveling in another Dimension
+1006~10065~Useless Tile Packers
+1007~10066~The Twin Towers
+1008~10067~Playing with Wheels
+1009~10068~The Treasure Hunt
+1010~10069~Distinct Subsequences
+1011~10070~Leap Year or Not Leap Year and ...
+1012~10071~Back to High School Physics
+1013~10072~Bob Laptop Woolmer and Eddie Desktop Barlow
+1014~10073~Constrained Exchange Sort
+1015~10074~Take the Land
+1016~10075~Airlines
+1017~10076~The Bumpy Robot
+1018~10077~The Stern-Brocot Number System
+1019~10078~The Art Gallery
+1020~10079~Pizza Cutting
+1021~10080~Gopher II
+1022~10081~Tight Words
+1023~10082~WERTYU
+1024~10083~Division
+1025~10084~Hotter Colder
+1026~10085~The most distant state
+1027~10086~Test the Rods
+1028~10087~The Tajmahal of ++Y2k
+1029~10088~Trees on My Island
+1030~10089~Repackaging
+1031~10090~Marbles
+1032~10091~The Valentine's Day
+1033~10092~The Problem with the Problem Setter
+1034~10093~An Easy Problem!
+1035~10094~Place the Guards
+1036~10095~Saving the Planet
+1037~10096~The Richest Man of the Universe
+1038~10097~The Color Game
+1039~10098~Generating Fast
+1040~10099~The Tourist Guide
+1041~10100~Longest Match
+1042~10101~Bangla Numbers
+1043~10102~The path in the colored field
+1044~10103~Karpovich blocks
+1045~10104~Euclid Problem
+1046~10105~Polynomial Coefficients
+1047~10106~Product
+1048~10107~What is the Median?
+1049~10108~The Mosquito Killer Mosquitos
+1050~10109~Solving Systems of Linear Equations
+1051~10110~Light more light
+1052~10111~Find the Winning Move
+1053~10112~Myacm Triangles
+1054~10113~Exchange Rates
+1055~10114~Loansome Car Buyer
+1056~10115~Automatic Editing
+1057~10116~Robot Motion
+1058~10117~Nice Milk
+1059~10118~Free Candies
+1060~10119~Farewell my friend
+1061~10120~Gift?!
+1062~10121~Legendary Pokemon
+1063~10122~Mysterious Mountain
+1064~10123~No Tipping
+1065~10124~Subway
+1066~10125~Sumsets
+1067~10126~Zipf's Law
+1068~10127~Ones
+1069~10128~Queue
+1070~10129~Play on Words
+1071~10130~SuperSale
+1072~10131~Is Bigger Smarter?
+1073~10132~File Fragmentation
+1074~10133~Audubon's Stormy Arctic Trip
+1075~10134~AutoFish
+1076~10135~Herding Frosh
+1077~10136~Chocolate Chip Cookies
+1078~10137~The Trip
+1079~10138~CDVII
+1080~10139~Factovisors
+1081~10140~Prime Distance
+1082~10141~Request for Proposal
+1083~10142~Australian Voting
+1084~10143~Loan
+1085~10144~Expression
+1086~10145~Lock Manager
+1087~10146~Dictionary
+1088~10147~Highways
+1089~10148~Advertisement
+1090~10149~Yahtzee
+1091~10150~Doublets
+1092~10151~Spaghetti
+1093~10152~ShellSort
+1094~10153~New Horizons
+1095~10154~Weights and Measures
+1096~10155~Green Eggs and Ham
+1097~10156~Sala-ma-Sond A Nice Little Pond
+1098~10157~Expressions
+1099~10158~War
+1100~10159~Star
+1101~10160~Servicing Stations
+1102~10161~Ant on a Chessboard
+1103~10162~Last Digit
+1104~10163~Storage Keepers
+1105~10164~Number Game
+1106~10165~Stone Game
+1107~10166~Travel
+1108~10167~Birthday Cake
+1109~10168~Summation of Four Primes
+1110~10169~Urn-ball Probabilities!
+1111~10170~The Hotel with Infinite Rooms
+1112~10171~Meeting Prof. Miguel...
+1113~10172~The Lonesome Cargo Distributor
+1114~10173~Smallest Bounding Rectangle
+1115~10174~Couple-Bachelor-Spinster Numbers.
+1116~10175~Sphere
+1117~10176~Ocean Deep! - Make it shallow!!
+1118~10177~(2/3/4)-D Sqr/Rects/Cubes/Boxes?
+1119~10178~Count the Faces.
+1120~10179~Irreducable Basic Fractions
+1121~10180~Rope Crisis in Ropeland!
+1122~10181~15-Puzzle Problem
+1123~10182~Bee Maja
+1124~10183~How Many Fibs?
+1125~10184~Equidistance
+1126~10185~Phylogenetic Trees Inherited
+1127~10186~Euro Cup 2000
+1128~10187~From Dusk Till Dawn
+1129~10188~Automated Judge Script
+1130~10189~Minesweeper
+1131~10190~Divide But Not Quite Conquer!
+1132~10191~Longest Nap
+1133~10192~Vacation
+1134~10193~All You Need Is Love
+1135~10194~Football (aka Soccer)
+1136~10195~The Knights Of The Round Table
+1137~10196~Check The Check
+1138~10197~Learning Portuguese
+1139~10198~Counting
+1140~10199~Tourist Guide
+1141~10200~Prime Time
+1142~10201~Adventures in Moving - Part IV
+1143~10202~Pairsumonious Numbers
+1144~10203~Snow Clearing
+1145~10204~Adventures in Moving - Part V
+1146~10205~Stack 'em Up
+1147~10206~Stars
+1148~10207~The Unreal Tournament
+1149~10208~Liar or Not Liar that is the...
+1150~10209~Is This Integration ?
+1151~10210~Romeo and Juliet !
+1152~10211~Divisibility Testing! Wow!
+1153~10212~The Last Non-zero Digit.
+1154~10213~How Many Pieces of Land ?
+1155~10214~Trees in a Wood.
+1156~10215~The Largest/Smallest Box ...
+1157~10216~The Optimal Coffee Shop!!
+1158~10217~A Dinner with Schwarzenegger!!!
+1159~10218~Let's Dance !!!
+1160~10219~Find the ways !
+1161~10220~I Love Big Numbers !
+1162~10221~Satellites
+1163~10222~Decode the Mad man
+1164~10223~How many nodes ?
+1165~10224~Return of the Jedi
+1166~10225~Discrete Logging
+1167~10226~Hardwood Species
+1168~10227~Forests
+1169~10228~A Star not a Tree?
+1170~10229~Modular Fibonacci
+1171~10230~Savage Garden
+1172~10231~Matrix World
+1173~10232~Bit-wise Sequence
+1174~10233~Dermuba Triangle
+1175~10234~Frequent Substrings
+1176~10235~Simply Emirp
+1177~10236~The Fibonacci Primes
+1178~10237~Bishops
+1179~10238~Throw the Dice
+1180~10239~The Book-shelver's Problem
+1181~10240~The n-Dimensional Cities
+1182~10241~Semi-triangular and also Square
+1183~10242~Fourth Point !!
+1184~10243~Fire! Fire!! Fire!!!
+1185~10244~First Love !!!
+1186~10245~The Closest Pair Problem
+1187~10246~Asterix and Obelix
+1188~10247~Complete Tree Labeling
+1189~10248~The Integer All-time Champ
+1190~10249~The Grand Dinner
+1191~10250~The Other Two Trees
+1192~10251~Min-Max Cake
+1193~10252~Common Permutation
+1194~10253~Series-Parallel Networks
+1195~10254~The Priest Mathematician
+1196~10255~The knight's Tour
+1197~10256~The Great Divide
+1198~10257~Dick and Jane
+1199~10258~Contest Scoreboard
+1200~10259~Hippity Hopscotch
+1201~10260~Soundex
+1202~10261~Ferry Loading
+1203~10262~Suffidromes
+1204~10263~Railway
+1205~10264~The Most Potent Corner
+1206~10265~Toroidal Chess Queens' Problem
+1207~10266~Surveying
+1208~10267~Graphical Editor
+1209~10268~498-bis
+1210~10269~Adventure of Super Mario
+1211~10270~Bigger Square Please...
+1212~10271~Chopsticks
+1213~10272~DDR King
+1214~10273~Eat or Not to Eat?
+1215~10274~Fans and Gems
+1216~10275~Guess the Number!
+1217~10276~Hanoi Tower Troubles Again!
+1218~10277~Boastin' Red Socks
+1219~10278~Fire Station
+1220~10279~Mine Sweeper
+1221~10280~Old Wine Into New Bottles
+1222~10281~Average Speed
+1223~10282~Babelfish
+1224~10283~The Kissing Circles
+1225~10284~Chessboard in FEN
+1226~10285~Longest Run on a Snowboard
+1227~10286~Trouble with a Pentagon
+1228~10287~Gifts in a Hexagonal Box
+1229~10288~Coupons
+1230~10289~A Square and Equilateral Triangles
+1231~10290~{Sum+=i++} to Reach N
+1232~10291~Cut the Legs
+1233~10292~The Gossiping System
+1234~10293~Word Length and Frequency
+1235~10294~Arif in Dhaka (First Love Part 2)
+1236~10295~Hay Points
+1237~10296~Jogging Trails
+1238~10297~Beavergnaw
+1239~10298~Power Strings
+1240~10299~Relatives
+1241~10300~Ecological Premium
+1242~10301~Rings and Glue
+1243~10302~Summation of Polynomials
+1244~10303~How Many Trees?
+1245~10304~Optimal Binary Search Tree
+1246~10305~Ordering Tasks
+1247~10306~e-Coins
+1248~10307~Killing Aliens in Borg Maze
+1249~10308~Roads in the North
+1250~10309~Turn the Lights Off
+1251~10310~Dog and Gopher
+1252~10311~Goldbach and Euler
+1253~10312~Expression Bracketing
+1254~10313~Pay the Price
+1255~10314~Three Pigs
+1256~10315~Poker Hands
+1257~10316~Airline Hub
+1258~10317~Equating Equations
+1259~10318~Security Panel
+1260~10319~Manhattan
+1261~10320~Cow Trouble! Help Please!!
+1262~10321~Polygon Intersection
+1263~10322~The Four in One Stadium
+1264~10323~Factorial! You Must be Kidding!!!
+1265~10324~Zeros and Ones
+1266~10325~The Lottery
+1267~10326~The Polynomial Equation
+1268~10327~Flip Sort
+1269~10328~Coin Toss
+1270~10329~Combinatorial Expression
+1271~10330~Power Transmission
+1272~10331~The Flyover Construction
+1273~10332~The Absent Minded Professor
+1274~10333~The Tower of ASCII
+1275~10334~Ray Through Glasses
+1276~10335~Ray Inside a Polygon
+1277~10336~Rank the Languages
+1278~10337~Flight Planner
+1279~10338~Mischievous Children
+1280~10339~Watching Watches
+1281~10340~All in All
+1282~10341~Solve It
+1283~10342~Always Late
+1284~10343~Base64 Decoding
+1285~10344~23 out of 5
+1286~10345~Cricket/Football Goes Down
+1287~10346~Peter's Smokes
+1288~10347~Medians
+1289~10348~Submarines
+1290~10349~Antenna Placement
+1291~10350~Liftless EME
+1292~10351~Cutting Diamonds
+1293~10352~Count the eWords
+1294~10353~Circles in Hexagon :-)
+1295~10354~Avoiding Your Boss
+1296~10355~Superman
+1297~10356~Rough Roads
+1298~10357~Playball !!!
+1299~10358~Matrix
+1300~10359~Tiling
+1301~10360~Rat Attack
+1302~10361~Automatic Poetry
+1303~10362~Trains
+1304~10363~Tic Tac Toe
+1305~10364~Square
+1306~10365~Blocks
+1307~10366~Faucet Flow
+1308~10367~Equations
+1309~10368~Euclid's Game
+1310~10369~Arctic Network
+1311~10370~Above Average
+1312~10371~Time Zones
+1313~10372~Leaps Tall Buildings (in a single bound)
+1314~10373~The Brick Stops Here
+1315~10374~Election
+1316~10375~Choose and divide
+1317~10376~Snakes
+1318~10377~Maze Traversal
+1319~10378~Complex Numbers
+1320~10379~Pit Stop Strategy
+1321~10380~Shogi Tournament
+1322~10381~The Rock
+1323~10382~Watering Grass
+1324~10383~Queen vs Rook
+1325~10384~The Wall Pushers
+1326~10385~Duathlon
+1327~10386~Circles in Triangle
+1328~10387~Billiard
+1329~10388~Snap
+1330~10389~Subway
+1331~10390~Bean Counting
+1332~10391~Compound Words
+1333~10392~Factoring Large Numbers
+1334~10393~The One-Handed Typist
+1335~10394~Twin Primes
+1336~10395~Titans in Danger
+1337~10396~Vampire Numbers
+1338~10397~Connect the Campus
+1339~10398~The Golden Pentagon
+1340~10399~Optimus Prime
+1341~10400~Game Show Math
+1342~10401~Injured Queen Problem
+1343~10402~Triangle Covering
+1344~10403~Escape from Tut's Tomb
+1345~10404~Bachet's Game
+1346~10405~Longest Common Subsequence
+1347~10406~Cutting tabletops
+1348~10407~Simple division
+1349~10408~Farey sequences
+1350~10409~Die Game
+1351~10410~Tree Reconstruction
+1352~10411~Another Game of Tetris
+1353~10412~Big Big Trees
+1354~10413~Crazy Savages
+1355~10414~Denki Blocks
+1356~10415~Eb Alto Saxophone Player
+1357~10416~Folding My T-Shirt
+1358~10417~Gift Exchanging
+1359~10418~Hyper Toy Soldiers
+1360~10419~Sum-up the Primes
+1361~10420~List of Conquests
+1362~10421~Critical Wave
+1363~10422~Knights in FEN
+1364~10423~Peter Takes a Tramway
+1365~10424~Love Calculator
+1366~10425~Mobile Destroyer
+1367~10426~Knights' Nightmare
+1368~10427~Naughty Sleepy Boys
+1369~10428~The Roots
+1370~10429~Mohr's Circle
+1371~10430~Dear GOD
+1372~10431~Normal Distribution
+1373~10432~Polygon Inside A Circle
+1374~10433~Automorphic Numbers
+1375~10434~Working With Specific Gravity
+1376~10435~Compare Directories
+1377~10436~Cheapest way
+1378~10437~Playing With Fraction
+1379~10438~Meta Editor
+1380~10439~Temple of Dune
+1381~10440~Ferry Loading II
+1382~10441~Catenyms
+1383~10442~Basic
+1384~10443~Rock
+1385~10444~Multi-peg Towers of Hanoi
+1386~10445~Make Polygon
+1387~10446~The Marriage Interview :-)
+1388~10447~Sum-up the Primes (II)
+1389~10448~Unique World
+1390~10449~Traffic
+1391~10450~World Cup Noise
+1392~10451~Ancient Village Sports
+1393~10452~Marcus
+1394~10453~Make Palindrome
+1395~10454~Trexpression
+1396~10455~Gray Code
+1397~10456~Intelligent Cats
+1398~10457~Magic Car
+1399~10458~Cricket Ranking
+1400~10459~The Tree Root
+1401~10460~Find the Permuted String
+1402~10461~Difference
+1403~10462~Is There A Second Way Left?
+1404~10463~Aztec Knights
+1405~10464~Big Big Real Numbers
+1406~10465~Homer Simpson
+1407~10466~How Far?
+1408~10467~Parse Tree
+1409~10468~Rigid Circle Packing
+1410~10469~To Carry or not to Carry
+1411~10470~Shifted Coefficient Number System
+1412~10471~Can't be too GREEDY
+1413~10472~Fastest Vs Cheapest
+1414~10473~Simple Base Conversion
+1415~10474~Where is the Marble?
+1416~10475~Help the Leaders
+1417~10476~Spam or Not Spam
+1418~10477~The Hybrid Knight
+1419~10478~The Falling Pillars
+1420~10479~The Hendrie Sequence
+1421~10480~Sabotage
+1422~10481~The Gift Wrappers of Hollywood
+1423~10482~The Candyman Can
+1424~10483~The Sum Equals the Product
+1425~10484~Divisibility of Factors
+1426~10485~Painting with CSE
+1427~10486~Mountain Village
+1428~10487~Closest Sums
+1429~10488~Swimming Gopher
+1430~10489~Boxes of Chocolates
+1431~10490~Mr. Azad and his Son!!!!!
+1432~10491~Cows and Cars
+1433~10492~Optimal Mastermind Strategy
+1434~10493~Cats with or without Hats
+1435~10494~If We Were a Child Again
+1436~10495~Conic Distance
+1437~10496~Collecting Beepers
+1438~10497~Sweet Child Makes Trouble
+1439~10498~Happiness
+1440~10499~The Land of Justice
+1441~10500~Robot maps
+1442~10501~Simplified Shisen-Sho
+1443~10502~Counting Rectangles
+1444~10503~The dominoes solitaire
+1445~10504~Hidden squares
+1446~10505~Montesco vs Capuleto
+1447~10506~The Ouroboros problem
+1448~10507~Waking up brain
+1449~10508~Word Morphing
+1450~10509~R U Kidding Mr. Feynman?
+1451~10510~Cactus
+1452~10511~Councilling
+1453~10512~A Day in Math-land
+1454~10513~Bangladesh Sequences
+1455~10514~River Crossing
+1456~10515~Powers Et Al.
+1457~10516~Another Counting Problem
+1458~10517~Wind of Change!
+1459~10518~How Many Calls?
+1460~10519~!! Really Strange !!
+1461~10520~Determine it
+1462~10521~Continuously Growing Fractions
+1463~10522~Height to Area
+1464~10523~Very Easy !!!
+1465~10524~Matrix Reloaded
+1466~10525~New to Bangladesh?
+1467~10526~Intellectual Property
+1468~10527~Persistent Numbers
+1469~10528~Major Scales
+1470~10529~Dumb Bones
+1471~10530~Guessing Game
+1472~10531~Maze Statistics
+1473~10532~Combination! Once Again
+1474~10533~Digit Primes
+1475~10534~Wavio Sequence
+1476~10535~Shooter
+1477~10536~Game of Euler
+1478~10537~The Toll! Revisited
+1479~10538~Powerful Magic Squares
+1480~10539~Almost Prime Numbers
+1481~10540~Flowers of a Beautiful Mind
+1482~10541~Stripe
+1483~10542~Hyper-drive
+1484~10543~Traveling Politician
+1485~10544~Numbering the Paths
+1486~10545~Maximal Quadrilateral
+1487~10546~The Eagle's Nest
+1488~10547~Hidden Truth in Recurrence
+1489~10548~Find the Right Changes
+1490~10549~Russian Dolls
+1491~10550~Combination Lock
+1492~10551~Basic Remains
+1493~10552~Genealogical Research
+1494~10553~Treasure Map
+1495~10554~Calories from Fat
+1496~10555~Dead Fraction
+1497~10556~Biometrics
+1498~10557~XYZZY
+1499~10558~A Brief Gerrymander
+1500~10559~Blocks
+1501~10560~Minimum Weight
+1502~10561~Treblecross
+1503~10562~Undraw the Trees
+1504~10563~Least Squares
+1505~10564~Paths through the Hourglass
+1506~10565~Matrix
+1507~10566~Crossed Ladders
+1508~10567~Helping Fill Bates
+1509~10568~n Group k
+1510~10569~Number Theory
+1511~10570~Meeting with Aliens
+1512~10571~Products
+1513~10572~Black &amp; White
+1514~10573~Geometry Paradox
+1515~10574~Counting Rectangles
+1516~10575~Polylops
+1517~10576~Y2K Accounting Bug
+1518~10577~Bounding box
+1519~10578~The Game of 31
+1520~10579~Fibonacci Numbers
+1521~10580~Ransom Note
+1522~10581~Partitioning for fun and profit
+1523~10582~ASCII Labyrinth
+1524~10583~Ubiquitous Religions
+1525~10584~Text Formalization
+1526~10585~Center of symmetry
+1527~10586~Polynomial Remains
+1528~10587~Mayor's posters
+1529~10588~Queuing at the doctors
+1530~10589~Area
+1531~10590~Boxes of Chocolates Again
+1532~10591~Happy Number
+1533~10592~Freedom Fighter
+1534~10593~Kites
+1535~10594~Data Flow
+1536~10595~Knight on the Bee Board
+1537~10596~Morning Walk
+1538~10597~Right Words
+1539~10598~Find the Latitude
+1540~10599~Robots(II)
+1541~10600~ACM Contest and Blackout
+1542~10601~Cubes
+1543~10602~Editor Nottoobad
+1544~10603~Fill
+1545~10604~Chemical Reaction
+1546~10605~Mines For Diamonds
+1547~10606~Opening Doors
+1548~10607~Siege
+1549~10608~Friends
+1550~10609~Fractal
+1551~10610~Gopher and Hawks
+1552~10611~The Playboy Chimp
+1553~10612~Paper Folding
+1554~10613~Mushroom Misery
+1555~10614~Dreadful Vectors
+1556~10615~Rooks
+1557~10616~Divisible Group Sums
+1558~10617~Again Palindrome
+1559~10618~Tango Tango Insurrection
+1560~10619~Advanced Causal Measurements
+1561~10620~A Flea on a Chessboard
+1562~10621~Jack and Jill
+1563~10622~Perfect P-th Powers
+1564~10623~Thinking Backward
+1565~10624~Super Number
+1566~10625~GNU = GNU'sNotUnix
+1567~10626~Buying Coke
+1568~10627~Infinite Race
+1569~10628~Quadrills
+1570~10629~Truckin'
+1571~10630~Millennium Ceremony
+1572~10631~Normals
+1573~10632~Pyramid
+1574~10633~Rare Easy Problem
+1575~10634~Say NO to Memorization
+1576~10635~Prince and Princess
+1577~10636~Stretching Geometry
+1578~10637~Coprimes
+1579~10638~The Trip II
+1580~10639~Square Puzzle
+1581~10640~Planes around the World
+1582~10641~Barisal Stadium
+1583~10642~Can You Solve It?
+1584~10643~Facing Problem With Trees
+1585~10644~Floor Tiles
+1586~10645~Menu
+1587~10646~What is the Card?
+1588~10647~Optimal House Placement
+1589~10648~Chocolate Box
+1590~10649~Danger Point
+1591~10650~Determinate Prime
+1592~10651~Pebble Solitaire
+1593~10652~Board Wrapping
+1594~10653~Bombs! NO they are Mines!!
+1595~10654~The Uxuhul Voting System
+1596~10655~Contemplation! Algebra
+1597~10656~Maximum Sum (II)
+1598~10657~Prince Frog II
+1599~10658~ReArrange
+1600~10659~Fitting Text into Slides
+1601~10660~Citizen attention offices
+1602~10661~The Perspectographer
+1603~10662~The Wedding
+1604~10663~Non-Powerful Subsets
+1605~10664~Luggage
+1606~10665~Diatribe against Pigeonholes
+1607~10666~The Eurocup is Here!
+1608~10667~Largest Block
+1609~10668~Expanding Rods
+1610~10669~Three powers
+1611~10670~Work Reduction
+1612~10671~Grid Speed
+1613~10672~Marbles on a tree
+1614~10673~Play with Floor and Ceil
+1615~10674~Tangents
+1616~10675~Revenge of Faucet Flow
+1617~10676~Grid Points
+1618~10677~Base Equality
+1619~10678~The Grazing Cow
+1620~10679~I Love Strings!!
+1621~10680~LCM
+1622~10681~Teobaldo's Trip
+1623~10682~Forr
+1624~10683~The decadary watch
+1625~10684~The jackpot
+1626~10685~Nature
+1627~10686~SQF Problems
+1628~10687~Monitoring the Amazon
+1629~10688~The Poor Giant
+1630~10689~Yet another Number Sequence
+1631~10690~Expression Again
+1632~10691~Subway
+1633~10692~Huge Mods
+1634~10693~Traffic Volume
+1635~10694~Combinatorial Summation
+1636~10695~Find the Point
+1637~10696~f91
+1638~10697~Firemen barracks
+1639~10698~Football Sort
+1640~10699~Count the factors
+1641~10700~Camel trading
+1642~10701~Pre in and post
+1643~10702~Travelling Salesman
+1644~10703~Free spots
+1645~10704~Traffic!
+1646~10705~The Fun Number System
+1647~10706~Number Sequence
+1648~10707~2D-Nim
+1649~10708~Cheetah
+1650~10709~Intersection is Not that Easy
+1651~10710~Chinese Shuffle
+1652~10711~Stitching
+1653~10712~Count the Numbers
+1654~10713~Map
+1655~10714~Ants
+1656~10715~Cat
+1657~10716~Evil Straw Warts Live
+1658~10717~Mint
+1659~10718~Bit Mask
+1660~10719~Quotient Polynomial
+1661~10720~Graph Construction
+1662~10721~Bar Codes
+1663~10722~Super Lucky Numbers
+1664~10723~Cyborg Genes
+1665~10724~Road Construction
+1666~10725~Triangular Square
+1667~10726~Coco Monkey
+1668~10727~Practice
+1669~10728~Help!
+1670~10729~Treequivalence
+1671~10730~Antiarithmetic?
+1672~10731~Test
+1673~10732~The Strange Research
+1674~10733~The Colored Cubes
+1675~10734~Triangle Partitioning
+1676~10735~Euler Circuit
+1677~10736~Series of PI
+1678~10737~The Difference Engine
+1679~10738~Riemann vs Mertens
+1680~10739~String to Palindrome
+1681~10740~Not the Best
+1682~10741~Magic Cube
+1683~10742~The New Rule in Euphomia
+1684~10743~Blocks on Blocks
+1685~10744~The Optimal Super-Highway
+1686~10745~Dominant Strings
+1687~10746~Crime Wave - The Sequel
+1688~10747~Maximum Subsequence
+1689~10748~Knights Roaming
+1690~10749~Automobile Travelling
+1691~10750~Beautiful Points
+1692~10751~Chessboard
+1693~10752~Distant Jumping
+1694~10753~Exponential Function
+1695~10754~Fantastic Sequence
+1696~10755~Garbage Heap
+1697~10756~HardNumbers
+1698~10757~Interpreting SQL
+1699~10758~Journey
+1700~10759~Dice Throwing
+1701~10760~Translation or rotation
+1702~10761~Broken Keyboard
+1703~10762~Treasure Castle
+1704~10763~Foreign Exchange
+1705~10764~Signed-digit numbers
+1706~10765~Doves and bombs
+1707~10766~Organising the Organisation
+1708~10767~Barcelona's trams
+1709~10768~Planarity
+1710~10769~Pillars
+1711~10770~Sokoban
+1712~10771~Barbarian tribes
+1713~10772~Rose windows
+1714~10773~Back to Intermediate Math
+1715~10774~Repeated Josephus
+1716~10775~Mystical Matrix
+1717~10776~Determine The Combination
+1718~10777~God! Save me
+1719~10778~Mathemagicland
+1720~10779~Collectors Problem
+1721~10780~Again Prime? No Time.
+1722~10781~Global Positioning System
+1723~10782~Send More Money
+1724~10783~Odd Sum
+1725~10784~Diagonal
+1726~10785~The Mad Numerologist
+1727~10786~Qualify for the Champions League
+1728~10787~Modular Equations
+1729~10788~Parenthesizing Palindromes
+1730~10789~Prime Frequency
+1731~10790~How Many Points of Intersection?
+1732~10791~Minimum Sum LCM
+1733~10792~The Laurel-Hardy Story
+1734~10793~The Orc Attack
+1735~10794~The Deadly Olympic Returns!!!
+1736~10795~A Different Task
+1737~10796~Right Hand Rule
+1738~10797~Peaceful Sharing
+1739~10798~Be wary of Roses
+1740~10799~OOPS! They did it Again...
+1741~10800~Not That Kind of Graph
+1742~10801~Lift Hopping
+1743~10802~Lex Smallest Drive
+1744~10803~Thunder Mountain
+1745~10804~Gopher Strategy
+1746~10805~Cockroach Escape Networks
+1747~10806~Dijkstra Dijkstra.
+1748~10807~Prim
+1749~10808~Rational Resistors
+1750~10809~Great Circle
+1751~10810~Ultra-QuickSort
+1752~10811~Up the Ante
+1753~10812~Beat the Spread!
+1754~10813~Traditional BINGO
+1755~10814~Simplifying Fractions
+1756~10815~Andy's First Dictionary
+1757~10816~Travel in Desert
+1758~10817~Headmaster's Headache
+1759~10818~Dora Trip
+1760~10819~Trouble of 13-Dots
+1761~10820~Send a Table
+1762~10821~Constructing BST
+1763~10822~Planet of the Rock Paper and Scissors
+1764~10823~Of Circles and Squares
+1765~10824~Regular Polygon
+1766~10825~Anagram and Multiplication
+1767~10826~Hot or Cold?
+1768~10827~Maximum sum on a torus
+1769~10828~Back to Kernighan-Ritchie
+1770~10829~L-Gap Substrings
+1771~10830~A New Function
+1772~10831~Gerg's Cake
+1773~10832~Yoyodyne
+1774~10833~Lunar Forest
+1775~10834~The Story of Two Coins
+1776~10835~Playing with Coins
+1777~10836~The Maximum Term
+1778~10837~A Research Problem
+1779~10838~The Pawn Chess
+1780~10839~The Curse of Barbosa
+1781~10840~Multi-stage Compressor
+1782~10841~Lift Hopping in the Real World
+1783~10842~Traffic Flow
+1784~10843~Anne's game
+1785~10844~Bloques
+1786~10845~The crusades
+1787~10846~Reading time from a clock
+1788~10847~Basic Tautologies
+1789~10848~Make Palindrome Checker
+1790~10849~Move the bishop
+1791~10850~The Gossipy Gossipers Gossip Gossips
+1792~10851~2D Hieroglyphs decoder
+1793~10852~Less Prime
+1794~10853~Pablito nailed a nail
+1795~10854~Number of Paths
+1796~10855~Rotated square
+1797~10856~Recover Factorial
+1798~10857~Easter Eggs
+1799~10858~Unique Factorization
+1800~10859~Placing Lampposts
+1801~10860~Many a Little makes a Mickle
+1802~10861~Security by Ambiguity
+1803~10862~Connect the Cable Wires
+1804~10863~Shovelling Snow
+1805~10864~The Predator
+1806~10865~Brownie Points
+1807~10866~Magic Bitstrings
+1808~10867~Cutting a Polygon
+1809~10868~Bungee Jumping
+1810~10869~Brownie Points II
+1811~10870~Recurrences
+1812~10871~Primed Subsequence
+1813~10872~Triangles
+1814~10873~Splat Inc.
+1815~10874~Segments
+1816~10875~Big Math
+1817~10876~Factory Robot
+1818~10877~Diceoids
+1819~10878~Decode the tape
+1820~10879~Code Refactoring
+1821~10880~Colin and Ryan
+1822~10881~Piotr's Ants
+1823~10882~Koerner's Pub
+1824~10883~Supermean
+1825~10884~Persephone
+1826~10885~Martin the Gardener
+1827~10886~Standard Deviation
+1828~10887~Concatenation of Languages
+1829~10888~Warehouse
+1830~10889~The Lost Gift
+1831~10890~Maze
+1832~10891~Game of Sum
+1833~10892~LCM Cardinality
+1834~10893~Creating Sudoku Puzzles
+1835~10894~Save Hridoy
+1836~10895~Matrix Transpose
+1837~10896~Known Plaintext Attack
+1838~10897~Travelling Distance
+1839~10898~Combo Deal
+1840~10899~Billiard again
+1841~10900~So you want to be a 2n-aire?
+1842~10901~Ferry Loading III
+1843~10902~Pick-up Sticks
+1844~10903~Rock-Paper-Scissors Tournament
+1845~10904~Structural Equivalence
+1846~10905~Children's Game
+1847~10906~Strange Integration
+1848~10907~Art Gallery
+1849~10908~Largest Square
+1850~10909~Lucky Number
+1851~10910~Marks Distribution
+1852~10911~Forming Quiz Teams
+1853~10912~Simple Minded Hashing
+1854~10913~Walking on a Grid
+1855~10914~Abundance and Perfect Numbers
+1856~10915~War on Weather
+1857~10916~Factstone Benchmark
+1858~10917~Walk Through the Forest
+1859~10918~Tri Tiling
+1860~10919~Prerequisites?
+1861~10920~Spiral Tap
+1862~10921~Find the Telephone
+1863~10922~2 the 9s
+1864~10923~Seven Seas
+1865~10924~Prime Words
+1866~10925~Krakovia
+1867~10926~How Many Dependencies?
+1868~10927~Bright Lights
+1869~10928~My Dear Neighbours
+1870~10929~You can say 11
+1871~10930~A-Sequence
+1872~10931~Parity
+1873~10932~Calculator
+1874~10933~Volleyball
+1875~10934~Dropping water balloons
+1876~10935~Throwing cards away I
+1877~10936~Land surveyor's job
+1878~10937~Blackbeard the Pirate
+1879~10938~Flea circus
+1880~10939~Ants Aphids and a Ladybug
+1881~10940~Throwing cards away II
+1882~10941~Words adjustment
+1883~10942~Can of Beans
+1884~10943~How do you add?
+1885~10944~Nuts for nuts..
+1886~10945~Mother bear
+1887~10946~You want what filled?
+1888~10947~Bear with me again..
+1889~10948~The primary problem
+1890~10949~Kids in a Grid
+1891~10950~Bad Code
+1892~10951~Polynomial GCD
+1893~10952~Pattern Transformations
+1894~10953~Stochastic Digit Generator
+1895~10954~Add All
+1896~10955~Playfair Cipher
+1897~10956~Prime Suspect
+1898~10957~So Doku Checker
+1899~10958~How Many Solutions?
+1900~10959~The Party Part I
+1901~10960~The Party Part II
+1902~10961~Chasing After Don Giovanni
+1903~10962~Don Giovanni's Last Dinner
+1904~10963~The Swallowing Ground
+1905~10964~Strange Planet
+1906~10965~Khepel's Problem
+1907~10966~3KP-BASH Project
+1908~10967~The Great Escape
+1909~10968~KuPellaKeS
+1910~10969~Sweet Dream
+1911~10970~Big Chocolate
+1912~10971~Building Construction
+1913~10972~RevolC FaeLoN
+1914~10973~Triangle Counting
+1915~10974~The Ridiculous Game
+1916~10975~Dueue's Quiz
+1917~10976~Fractions Again?!
+1918~10977~Enchanted Forest
+1919~10978~Let's Play Magic!
+1920~10979~How Many Triangles?
+1921~10980~Lowest Price in Town
+1922~10981~String Morphing
+1923~10982~Troublemakers
+1924~10983~Buy one get the rest free
+1925~10984~Double NP-hard
+1926~10985~Rings'n'Ropes
+1927~10986~Sending email
+1928~10987~Antifloyd
+1929~10988~From G to H and back
+1930~10989~Bomb Divide and Conquer
+1931~10990~Another New Function
+1932~10991~Region
+1933~10992~The Ghost of Programmers
+1934~10993~Ignoring Digits
+1935~10994~Simple Addition
+1936~10995~Educational Journey
+1937~10996~Go
+1938~10997~Medals
+1939~10998~Flipping Colors
+1940~10999~Crabbles
+1941~11000~Bee
+1942~11001~Necklace
+1943~11002~Towards Zero
+1944~11003~Boxes
+1945~11004~Changing Roadmap
+1946~11005~Cheapest Base
+1947~11006~Wheel Good
+1948~11007~Mini Cube
+1949~11008~Antimatter Ray Clearcutting
+1950~11009~Geometry Once Again
+1951~11010~Tic-Tac-Tough
+1952~11011~Numerical Methods! A Satire
+1953~11012~Cosmic Cabbages
+1954~11013~Get Straight
+1955~11014~Make a Crystal
+1956~11015~05-2 Rendezvous
+1957~11016~Square Counting
+1958~11017~A Greener World
+1959~11018~Mars Buggy
+1960~11019~Matrix Matcher
+1961~11020~Efficient Solutions
+1962~11021~Tribles
+1963~11022~String Factoring
+1964~11023~Multisets and Sequences
+1965~11024~Circular Lock
+1966~11025~Mr. And Mrs. Hamilton
+1967~11026~A Grouping Problem
+1968~11027~Palindromic Permutation
+1969~11028~Sum of Product
+1970~11029~Leading and Trailing
+1971~11030~Predator II
+1972~11031~Looking for a Subset
+1973~11032~Function Overloading
+1974~11033~Help my Brother
+1975~11034~Ferry Loading IV
+1976~11035~Card Hands
+1977~11036~Eventually Periodic Sequence
+1978~11037~Point of View in Flatland
+1979~11038~How Many O's?
+1980~11039~Building designing
+1981~11040~Add bricks in the wall
+1982~11041~Quarter-Finals with Brazil!? No!!!
+1983~11042~Complex difficult and complicated
+1984~11043~Fast and Easy Data Compressor
+1985~11044~Searching for Nessy
+1986~11045~My T-shirt suits me
+1987~11046~Numbers and operations
+1988~11047~The Scrooge Co Problem
+1989~11048~Automatic Correction of Misspellings
+1990~11049~Basic wall maze
+1991~11050~Construct the wall maze
+1992~11051~Dihedral groups
+1993~11052~Economic phone calls
+1994~11053~Flavius Josephus Reloaded
+1995~11054~Wine trading in Gergovia
+1996~11055~Homogeneous squares
+1997~11056~Formula 1
+1998~11057~Exact Sum
+1999~11058~Encoding
+2000~11059~Maximum Product
+2001~11060~Beverages
+2002~11061~Playing War
+2003~11062~Andy's Second Dictionary
+2004~11063~B2-Sequence
+2005~11064~Number Theory
+2006~11065~A Gentlemen's Agreement
+2007~11066~Aragorn
+2008~11067~Little Red Riding Hood
+2009~11068~An Easy Task
+2010~11069~A Graph Problem
+2011~11070~The Good Old Times
+2012~11071~Permutation Representation
+2013~11072~Points
+2014~11073~Euler's Totient Function
+2015~11074~Draw Grid
+2016~11075~Collage
+2017~11076~Add Again
+2018~11077~Find the Permutations
+2019~11078~Open Credit System
+2020~11079~What's the Time?
+2021~11080~Place the Guards
+2022~11081~Strings
+2023~11082~Matrix Decompressing
+2024~11083~Zeroes Revisited
+2025~11084~Anagram Division
+2026~11085~Back to the 8-Queens
+2027~11086~Composite Prime
+2028~11087~Divisibility Testing
+2029~11088~End up with More Teams
+2030~11089~Fi-binary Number
+2031~11090~Going in Cycle!!
+2032~11091~How many Knight Placing?
+2033~11092~IIUC HexWorld
+2034~11093~Just Finish it up
+2035~11094~Continents
+2036~11095~Tabriz City
+2037~11096~Nails
+2038~11097~Poor My Problem! :-(
+2039~11098~Battle II
+2040~11099~Next Same-Factored
+2041~11100~The Trip 2007
+2042~11101~Mall Mania
+2043~11102~Moonshine
+2044~11103~WFF 'N PROOF
+2045~11104~Cousins
+2046~11105~Semi-prime H-numbers
+2047~11106~Rectilinear Polygon
+2048~11107~Life Forms
+2049~11108~Tautology
+2050~11109~Rinse
+2051~11110~Equidivisions
+2052~11111~Generalized Matrioshkas
+2053~11112~Babylonian Roulette
+2054~11113~Continuous Fractions
+2055~11114~Polygon Encoder
+2056~11115~Uncle Jack
+2057~11116~Babel Towers
+2058~11117~Little Quilt
+2059~11118~Prisoners Boxes and Pieces of Paper
+2060~11119~Chemical Attraction
+2061~11120~Very Funny Mr. Feynman
+2062~11121~Base -2
+2063~11122~Tri Tri
+2064~11123~Counting Trapizoid
+2065~11124~Troubles for Modern Days Problemsetters
+2066~11125~Arrange Some Marbles
+2067~11126~Relaxed Golf
+2068~11127~Triple-Free Binary Strings
+2069~11128~Faulty Computer
+2070~11129~An antiarithmetic permutation
+2071~11130~Billiard bounces
+2072~11131~Close Relatives
+2073~11132~Dice from pennies
+2074~11133~Eigensequence
+2075~11134~Fabled Rooks
+2076~11135~Gopher that walks and swims
+2077~11136~Hoax or what
+2078~11137~Ingenuous Cubrency
+2079~11138~Nuts and Bolts
+2080~11139~Counting Quadrilaterals
+2081~11140~Little Ali's Little Brother!
+2082~11141~Sugar Cubes
+2083~11142~MineSweeper II
+2084~11143~Subtitles
+2085~11144~S.O.S.
+2086~11145~AvreniM
+2087~11146~Insurrection
+2088~11147~KuPellaKeS BST
+2089~11148~Moliu Fractions
+2090~11149~Power of Matrix
+2091~11150~Cola
+2092~11151~Longest Palindrome
+2093~11152~Colourful Flowers
+2094~11153~Museums
+2095~11154~An Octal World
+2096~11155~Be Efficient
+2097~11156~Continuous Drawing
+2098~11157~Dynamic Frog
+2099~11158~Elegant Permuted Sum
+2100~11159~Factors and Multiples
+2101~11160~Going Together
+2102~11161~Help My Brother (II)
+2103~11162~Independent Attacking Zones
+2104~11163~Jaguar King
+2105~11164~Kingdom Division
+2106~11165~Galactic Travel
+2107~11166~Power Signs
+2108~11167~Monkeys in the Emei Mountain
+2109~11168~Airport
+2110~11169~Deal or No Deal
+2111~11170~Cos(NA)
+2112~11171~SMS
+2113~11172~Relational Operator
+2114~11173~Grey Codes
+2115~11174~Stand in a Line
+2116~11175~From D to E and Back
+2117~11176~Winning Streak
+2118~11177~Fighting Against a Polygonal Monster
+2119~11178~Morley's Theorem
+2120~11179~Bit Stream
+2121~11180~Base i-1
+2122~11181~Probability|Given
+2123~11182~Zeroes III
+2124~11183~Teen Girl Squad
+2125~11184~Joyful Ride
+2126~11185~Ternary
+2127~11186~Circum Triangle
+2128~11187~Water Crisis
+2129~11188~A Strange Opera House
+2130~11189~A Simple Pendulum
+2131~11190~Series of Powers
+2132~11191~Square
+2133~11192~Group Reverse
+2134~11193~Infinix
+2135~11194~Stone Grid
+2136~11195~Another n-Queen Problem
+2137~11196~Birthday Cake
+2138~11197~Counting RNA sequences
+2139~11198~Dancing Digits
+2140~11199~Equations in Disguise
+2141~11200~Sapitaur's labyrinth
+2142~11201~The problem of the crazy linguist
+2143~11202~The least possible effort
+2144~11203~Can you decide it for ME?
+2145~11204~Musical instruments
+2146~11205~The broken pedometer
+2147~11206~Coloring the map but not anyhow
+2148~11207~The easiest way
+2149~11208~Airplane Scheduling
+2150~11209~Be Together Again and Forever
+2151~11210~Chinese Mahjong
+2152~11211~Digital Logic
+2153~11212~Editing a Book
+2154~11213~Flipull
+2155~11214~Guarding the Chessboard
+2156~11215~How Many Numbers?
+2157~11216~Irrigation
+2158~11217~Jewel Magnetizer
+2159~11218~KTV
+2160~11219~How old are you?
+2161~11220~Decoding the message.
+2162~11221~Magic square palindromes.
+2163~11222~Only I did it!
+2164~11223~O: dah dah dah!
+2165~11224~Let's swim!
+2166~11225~Tarot scores.
+2167~11226~Reaching the fix-point.
+2168~11227~The silver bullet.
+2169~11228~Transportation system.
+2170~11229~Improved tic-tac-toe.
+2171~11230~Annoying painting tool
+2172~11231~Black and white painting
+2173~11232~Cylinder
+2174~11233~Deli Deli
+2175~11234~Expressions
+2176~11235~Frequent values
+2177~11236~Grocery store
+2178~11237~Halloween treats
+2179~11238~Innoumerous bowling games
+2180~11239~Open Source
+2181~11240~Antimonotonicity
+2182~11241~Humidex
+2183~11242~Tour de France
+2184~11243~Texas Trip
+2201~11244~Counting Stars
+2202~11245~Anti-Arithmetic-Sequence 
+2203~11246~K-Multiple Free set 
+2204~11247~Income Tax 
+2205~11248~Frequency Hopping
+2206~11249~Game
+2207~11250~Working with Small Numbers
+2208~11251~Fractions
+2209~11252~Take Me Home (To the Place I Belong)
+2220~11253~Fractal
+2221~11254~Consecutive Integers
+2222~11255~Necklace
+2223~11256~Repetitive Multiple
+2224~11257~New Marketing Plan
+2225~11258~String Partition
+2226~11259~Coin Changing Again
+2227~11260~Odd Root Sum
+2228~11261~Bishops
+2229~11262~Weird Fence
+2230~11263~Nested Rectangles
+2231~11264~Coin Collector
+2232~11265~The Sultan's Problem
+2233~11266~Equations
+2234~11267~The Hire-a-Coder Business Model
+2235~11268~Reliable Network
+2236~11269~Setting Problems
+2245~11270~Tiling Dominoes
+2246~11271~Lattice of Resistors
+2247~11272~Summing the Lengths of the Longest Increasing Subsequence of Permutations
+2248~11273~Warping N Dimensional Space
+2249~11274~Infinite Resistor Network
+2250~11275~3D Triangles
+2251~11276~Magical Seven
+2252~11277~Cyclic Polygons
+2253~11278~One-Handed Typist
+2254~11279~Keyboard Comparison
+2255~11280~Flying to Fredericton
+2256~11281~Triangular Pegs in Round Holes
+2257~11282~Mixing Invitations
+2258~11283~Playing Boggle
+2259~11284~Shopping Trip
+2260~11285~Exchange Rates
+2261~11286~Conformity
+2262~11287~Pseudoprime Numbers
+2263~11288~Carpool
+2264~11289~Friend or Foe?
+2265~11290~Gangs
+2266~11291~Smeech
+2267~11292~Dragon of Loowater
+2268~11293~Tournament
+2269~11294~Wedding
+2270~11295~Anti Monotonicity Revisited
+2271~11296~Counting Solutions to an Integral Equation
+2272~11297~Census
+2273~11298~Dissecting a Hexagon
+2274~11299~Separating Rods
+2275~11300~Spreading the Wealth
+2276~11301~Great Wall of China
+2277~11302~Hexadecimal Digits of an Integral
+2278~11303~Permutations
+2279~11304~Difussing Nuclear Bombs on Planet X
+2280~11305~Chess on Planet X
+2281~11306~Optimal Marriage on Planet X
+2282~11307~Alternative Arborescence
+2283~11308~Bankrupt Baker
+2284~11309~Counting Chaos
+2285~11310~Delivery Debacle
+2286~11311~Exclusively Edible
+2287~11312~Flipping Frustration
+2288~11313~Gourmet Games
+2289~11314~Hardly Hard
+2290~11315~Attacker
+2291~11316~Prime Frog
+2292~11317~GCD+LCM
+2293~11318~Marble Game
+2294~11319~Stupid Sequence
+2295~11320~Hidden Triangles
+2296~11321~Sort! Sort!! and Sort!!!
+2297~11322~Romeo and Juliet
+2298~11323~Satisfying Constraints
+2299~11324~The Largest Clique
+2300~11325~This Means War!
+2301~11326~Laser Pointer
+2302~11327~Enumerating Rational Numbers
+2303~11328~Drawing Straws at the Office
+2304~11329~Curious Fleas
+2305~11330~Andy's Shoes
+2306~11331~The Joys of Farming
+2307~11332~Summing Digits
+2308~11333~Alphametics
+2309~11334~Antenna in the Cinoc Mountains
+2310~11335~Discrete Pursuit
+2311~11336~DRM
+2312~11337~Greatest Hits!
+2313~11338~Minefield
+2314~11339~Sonnet Rhyme Verifier
+2315~11340~Newspaper
+2316~11341~Term Strategy
+2317~11342~Three-square
+2318~11343~Isolated Segments
+2319~11344~The Huge One
+2320~11345~Rectangles
+2321~11346~Probability
+2322~11347~Multifactorials
+2323~11348~Exhibition
+2324~11349~Symmetric Matrix
+2325~11350~Stern-Brocot Tree
+2326~11351~Last Man Standing
+2327~11352~Crazy King
+2338~11353~A Different Kind of Sorting
+2339~11354~Bond
+2340~11355~Cool Points
+2341~11356~Dates
+2342~11357~Ensuring Truth
+2343~11358~Faster Processing Feasibility
+2344~11359~Guards Imbecile Guards
+2345~11360~Have Fun with Matrices
+2346~11361~Investigating Div-Sum Property
+2347~11362~Phone List
+2348~11363~Cuckoo Hashing
+2349~11364~Parking
+2350~11365~Copying DNA
+2351~11366~Circle of Debt
+2352~11367~Full Tank?
+2353~11368~Nested Dolls
+2354~11369~Shopaholic
+2355~11370~Moogle
+2366~11371~Number Theory for Newbies
+2367~11372~Arranging a Contest
+2368~11373~Happy Birthday
+2369~11374~Airport Express
+2370~11375~Matches
+2371~11376~Tilt!
+2372~11377~Airport Setup
+2373~11378~Bey Battle
+2374~11379~Chichi's Home Work
+2375~11380~Down Went The Titanic
+2376~11381~Elegant Strings
+2377~11382~Fear of The Dark
+2378~11383~Golden Tiger Claw
+2379~11384~Help is needed for Dexter
+2380~11385~Da Vinci Code
+2381~11386~Triples
+2382~11387~The 3-Regular Graph
+2383~11388~GCD LCM
+2384~11389~The Bus Driver Problem
+2385~11390~The Sultan's Feast
+2386~11391~Blobs in the Board
+2387~11392~Binary*3 Type Multiple
+2388~11393~Tri-Isomorphism
+2389~11394~Digit Blocks
+2390~11395~Sigma Function
+2391~11396~Claw Decomposition
+2392~11397~Reconstructing Binary Forests
+2393~11398~The Base-1 Number System
+2394~11399~What be thy Name O Dear Tree?
+2395~11400~Lighting System Design
+2396~11401~Triangle Counting
+2397~11402~Ahoy Pirates!
+2398~11403~Binary Multiplication
+2399~11404~Palindromic Subsequence
+2400~11405~Can U Win?
+2401~11406~Best Trap
+2402~11407~Squares
+2403~11408~Count DePrimes
+2404~11409~Ball Passing
+2405~11410~LAEncoding
+2406~11411~MiniMice
+2407~11412~Dig the Holes
+2408~11413~Fill the Containers
+2409~11414~Dream
+2410~11415~Count the Factorials
+2411~11416~Excel Evaluation
+2412~11417~GCD
+2413~11418~Clever Naming Patterns
+2414~11419~SAM I AM
+2415~11420~Chest of Drawers
+2416~11421~Arranging Cards
+2417~11422~Escaping from Fractal Bacterium
+2418~11423~Cache Simulator
+2419~11424~GCD - Extreme (I)
+2420~11425~Collecting Luggage EXTREME!!!
+2421~11426~GCD - Extreme (II)
+2422~11427~Expect the Expected
+2423~11428~Cubes
+2424~11429~Randomness
+2425~11430~ETS Problem setting
+2426~11431~Partitioning a Number
+2427~11432~Busy Programmer
+2428~11433~The Dicey Dice
+2429~11434~Careless Postman Problem
+2430~11435~Network EXTREME!!!
+2431~11436~Cubes - EXTREME!!!
+2432~11437~Triangle Fun
+2433~11438~Integer Transmission EXTREME
+2434~11439~Maximizing the ICPC
+2435~11440~Help Tomisu
+2436~11441~Encoding/Decoding
+2437~11442~Linear Diophantine Tidbits
+2438~11443~Tree in a Grid
+2439~11444~Sum
+2440~11445~Water Tanks EXTREME
+2441~11446~Where is the 'back' button?
+2442~11447~Reservoir logs
+2443~11448~Who said crisis?
+2444~11449~Go Alonso go!
+2445~11450~Wedding shopping
+2446~11451~Water restrictions
+2447~11452~Dancing the Cheeky-Cheeky
+2448~11453~Traveling fishmonger
+2449~11454~Very well informed domino player
+2450~11455~Behold my quadrangle
+2451~11456~Trainsorting
+2452~11457~Classified
+2453~11458~Hot Spot
+2454~11459~Snakes and Ladders
+2455~11460~Balance
+2456~11461~Square Numbers
+2457~11462~Age Sort
+2458~11463~Commandos
+2459~11464~Even Parity
+2460~11465~Count the Polygons
+2461~11466~Largest Prime Divisor
+2462~11467~Pythagorean Triangles
+2463~11468~Substring
+2464~11469~Treasure Hunt
+2465~11470~Square Sums
+2466~11471~Arrange the Tiles
+2467~11472~Beautiful Numbers
+2468~11473~Campus Roads
+2469~11474~Dying Tree
+2470~11475~Extend to Palindrome
+2471~11476~Factorizing Larget Integers
+2472~11477~Game of Rectangles
+2473~11478~Halum
+2474~11479~Is this the easiest problem?
+2475~11480~Jimmy's Balls
+2476~11481~Arrange the Numbers
+2477~11482~Building a Triangular Museum
+2478~11483~Code Creator
+2479~11484~Document Object Model
+2480~11485~Extreme Discrete Summation
+2481~11486~Finding Paths in Grid
+2482~11487~Gathering Food
+2483~11488~Hyper Prefix Sets
+2484~11489~Integer Game
+2485~11490~Just Another Problem
+2486~11491~Erasing and Winning
+2487~11492~Babel
+2488~11493~The Club Ballroom
+2489~11494~Queen
+2490~11495~Bubbles and Buckets
+2491~11496~Musical Loop
+2492~11497~Set
+2493~11498~Division of Nlogonia
+2494~11499~Longest Increasing Sequence
+2495~11500~Vampires
+2496~11501~Laurel Creek
+2497~11502~Rocket Stages
+2498~11503~Virtual Friends
+2499~11504~Dominos
+2500~11505~Logo
+2501~11506~Angry Programmer
+2502~11507~Bender B. Rodríguez Problem
+2503~11508~Life on Mars?
+2504~11509~Touring Robot
+2505~11510~Erdös Unit Fractions
+2506~11511~Frieze Patterns
+2507~11512~GATTACA
+2508~11513~9 Puzzle
+2509~11514~Batman
+2510~11515~Cranes
+2511~11516~WiFi
+2512~11517~Exact Change
+2513~11518~Dominos 2
+2514~11519~Logo 2
+2515~11520~Fill the Square
+2516~11521~Compressor
+2517~11522~Pyramid Number
+2518~11523~Recycling
+2519~11524~InCircle
+2520~11525~Permutation
+2521~11526~H(n)
+2522~11527~Morning Walk
+2523~11528~Switch Grid
+2524~11529~Strange Tax Calculation
+2525~11530~SMS Typing
+2526~11531~Solve the Broken Maze
+2527~11532~Simple Adjacency Maximization
+2528~11533~Special Number
+2529~11534~Say Goodbye to Tic-Tac-Toe
+2530~11535~Set of Marbles
+2531~11536~Smallest Sub-Array
+2532~11537~Secret Problemsetters' Union
+2533~11538~Chess Queen
+2534~11539~Another Word Game
+2535~11540~Sultan's Chandelier
+2536~11541~Decoding
+2537~11542~Square
+2538~11543~Two Points And Curious MumboJumbo
+2539~11544~Recruiter's Problem
+2540~11545~Avoiding Jungle in the Dark
+2541~11546~Olympic Swimming
+2542~11547~Automatic Answer
+2543~11548~Blackboard Bonanza
+2544~11549~Calculator Conundrum
+2545~11550~Demanding Dilemma
+2546~11551~Experienced Endeavour
+2547~11552~Fewest Flops
+2548~11553~Grid Game
+2549~11554~Hapless Hedonism
+2591~11555~Aspen Avenue
+2592~11556~Best Compression Ever
+2593~11557~Code Theft
+2594~11558~Dinner
+2595~11559~Event Planning
+2596~11560~Fixing the Bugs
+2597~11561~Getting Gold
+2598~11562~Hard Evidence
+2599~11563~Introspective Caching
+2600~11564~Just A Few More Triangles!
+2612~11565~Simple Equations
+2613~11566~Let's Yum Cha!
+2614~11567~Moliu Number Generator
+2615~11568~Pincer Attack!!
+2616~11569~Lovely Hint
+2617~11570~Sudoku without numbers?
+2618~11571~Simple Equations - Extreme!!
+2619~11572~Unique Snowflakes
+2620~11573~Ocean Currents
+2621~11574~Colliding Traffic
+2622~11575~Zerg Rush!!!
+2623~11576~Scrolling Sign
+2624~11577~Letter Frequency
+2625~11578~Situp Benches
+2626~11579~Triangle Trouble
+2627~11580~Finding the Transmitter
+2628~11581~Grid Successors
+2629~11582~Colossal Fibonacci Numbers!
+2630~11583~Alien DNA
+2631~11584~Partitioning by Palindromes
+2632~11585~Nurikabe
+2633~11586~Train Tracks
+2634~11587~Brick Game
+2635~11588~Image Coding
+2636~11589~Save the President
+2637~11590~Prefix Lookup
+2638~11591~Bulb Inside a Grid
+2639~11592~Bulb inside a Grid (II)
+2640~11593~Fractions
+2641~11594~All Pairs Maximum Flow
+2642~11595~Crossing Streets EXTREME
+2643~11596~Convex Orthogonal Polygon
+2644~11597~Spanning Subtree
+2645~11598~Optimal Segments
+2646~11599~Triangle and Polynomial
+2647~11600~Masud Rana
+2648~11601~Avoiding Overlaps
+2649~11602~SMS for Blind
+2650~11603~Its all about the Bandwidth
+2651~11604~General Sultan
+2652~11605~Lights inside a 3d Grid
+2653~11606~Atoms
+2654~11607~Cutting Cakes
+2655~11608~No Problem
+2656~11609~Teams
+2657~11610~Reverse Prime
+2658~11611~Colored Tiles
+2659~11612~Sultan and Khairun Shundori
+2660~11613~Acme Corporation
+2661~11614~Etruscan Warriors Never Play Chess
+2662~11615~Family Tree
+2663~11616~Roman Numerals
+2664~11617~An Odd Love
+2665~11618~The Amazing Triangle Counting Machine
+2666~11619~SPAM! (or not)
+2667~11620~City of Egocentrics
+2668~11621~Small Factors
+2669~11622~Le Compte est Bon
+2670~11623~Tic Tac Toe
+2671~11624~Fire!
+2672~11625~Nice Prefixes
+2673~11626~Convex Hull
+2674~11627~Slalom
+2675~11628~Another lottery
+2676~11629~Ballot evaluation
+2677~11630~Cyclic antimonotonic permutations
+2678~11631~Dark roads
+2679~11632~Elias gamma coding
+2680~11633~Food portion sizes
+2681~11634~Generate random numbers
+2682~11635~Hotel booking
+2683~11636~Hello World!
+2684~11637~Garbage Remembering Exam
+2685~11638~Temperature Monitoring
+2686~11639~Guard the Land
+2687~11640~Mayor Election
+2688~11641~Looking for a New Place
+2689~11642~Bangladesh Premier League
+2690~11643~Knight Tour
+2691~11644~Pyragrid
+2692~11645~Bits
+2693~11646~Athletics Track
+2694~11647~Judgment Day
+2695~11648~Divide The Land
+2696~11649~Home! Sweet Home!
+2697~11650~Mirror Clock
+2698~11651~Krypton Number System
+2699~11652~Power Faster
+2700~11653~Stick Makes Gold
+2701~11654~Arithmetic Subsequence
+2702~11655~Waterland
+2703~11656~Message in the Enemy Territory
+2704~11657~Rational Billiard
+2705~11658~Best Coalitions
+2706~11659~Informants
+2707~11660~Look-and-Say sequences
+2708~11661~Burger Time?
+2709~11662~Triangular Grid
+2710~11663~GrayInc
+2711~11664~Langton's Ant
+2712~11665~Chinese Ink
+2713~11666~Logarithms
+2714~11667~Income Tax Hazard II
+2715~11668~How Many Teams
+2716~11669~Non Decreasing Prime Sequence
+2717~11670~Physics Experiment
+2718~11671~Sign of Matrix
+2719~11672~Dynamic Summation
+2720~11673~Enemy at the Gateway
+2721~11674~In-Ellipse
+2722~11675~Happy Friends
+2723~11676~Deadly Attack
+2724~11677~Alarm Clock
+2725~11678~Cards' Exchange
+2726~11679~Sub-prime
+2727~11680~Dragster
+2728~11681~Tower for Cellular Telephony
+2729~11682~Shift Register
+2730~11683~Laser Sculpture
+2731~11684~MC part deux
+2732~11685~Moveable maze
+2733~11686~Pick up sticks
+2734~11687~Digits
+2735~11688~Rotate to root
+2736~11689~Soda Surpler
+2737~11690~Money Matters
+2738~11691~Allergy Test
+2739~11692~Rain Fall
+2740~11693~Speedy Escape
+2741~11694~Gokigen Naname
+2742~11695~Flight Planning
+2743~11696~Beacons
+2744~11697~Playfair Cipher
+2745~11698~Code Permutations
+2746~11699~Rooks
+2747~11700~Pipes
+2748~11701~Cantor
+2749~11702~Meltdown
+2750~11703~sqrt log sin
+2751~11704~Caper pizza
+2752~11705~Grasshopper
+2753~11706~Party Night
+2754~11707~Pachinko
+2755~11708~Lexicographical ranking
+2756~11709~Trust groups
+2757~11710~Expensive subway
+2758~11711~Turing
+2759~11712~Gnirut
+2760~11713~Abstract Names
+2761~11714~Blind Sorting
+2762~11715~Car
+2763~11716~Digital Fortress
+2764~11717~Energy Saving Microcontroller
+2765~11718~Fantasy of a Summation
+2766~11719~Gridland Airports
+2767~11720~How Many Ways
+2768~11721~Instant View of Big Bang
+2769~11722~Joining with Friend
+2812~1522~Lights (extreme)
+2823~11723~Numbering Roads
+2824~11724~Evaluate the Expression
+2825~11725~Colorful Board
+2826~11726~Crime Scene
+2827~11727~Cost Cutting
+2828~11728~Alternate Task
+2829~11729~Commando War
+2830~11730~Number Transformation
+2831~11731~Ex-circles
+2832~11732~"strcmp()" Anyone?
+2833~11733~Airports
+2834~11734~Big Number of Teams will Solve This
+2835~11735~Corner the Queens
+2836~11736~Debugging RAM
+2837~11737~Extreme Primitive Society
+2838~11738~Few Teams will Solve this
+2839~11739~Giving Candies
+2840~11740~How Dark Can it Be?
+2841~11741~Ignore the Blocks
+2842~11742~Social Constraints
+2843~11743~Credit Check
+2844~11744~Parallel Carry Adder
+2845~11745~Slitherlin
+2846~11746~Finding the Transmitter Again
+2847~11747~Heavy Cycle Edges
+2848~11748~Rigging Elections
+2849~11749~Poor Trade Advisor
+2850~11750~Red-Blue Tree
+2851~11751~Installing Diagnostic Software
+2852~11752~The Super Powers
+2853~11753~Creating Palindrome
+2854~11754~Code Feat
+2855~11755~Table Tennis
+2856~11756~Bounded by Lines
+2857~11757~Winger Trial
+2858~11758~Left Right
+2859~11759~IBM Fencing
+2860~11760~Brother Arif Please feed us!
+2861~11761~Super Heronian Triangle
+2862~11762~Race to 1
+2863~11763~Hats Off
+2864~11764~Jumping Mario
+2865~11765~Component Placement
+2866~11766~Racing Car Computer
+2867~11767~World of Knots
+2868~11768~Lattice Point or Not
+2869~11769~All Souls Night
+2870~11770~Lighting Away
+2871~11771~Dhaka Bots
+2872~11772~A Bee Love Story
+2873~11773~King's Wish
+2874~11774~Doom's Day
+2875~11775~Unique Story
+2876~11776~Oh Your Royal Greediness!
+2877~11777~Automate the Grades
+2878~11778~Graph Coloring in HSL
+2879~11779~Lost File
+2880~11780~Miles 2 Km
+2881~11781~Books
+2882~11782~Optimal Cut
+2883~11783~Nails
+2884~11784~Escape
+2885~11785~Hypercube
+2886~11786~Global Raining at Bididibus
+2887~11787~Numeral Hieroglyphs
+2888~11788~The League Will Be Decided Tomorrow!
+2889~11789~Texas Hold'em Poker Solitaire
+2890~11790~Murcia's Skyline
+2891~11791~Looking for a Good Plot
+2892~11792~Krochanska is Here!
+2893~11793~Electoral Districts
+2894~11794~Dazzling Puzzle
+2895~11795~Mega Man's Mission
+2896~11796~Dog Distance
+2897~11797~Drutojan Express
+2898~11798~Colorful Board 2
+2899~11799~Horror Dash
+2900~11800~Determine the Shape
+2901~11801~A Problemsetter Blind with Emotion
+2902~11802~All Your Bases Belong to Us
+2903~11803~The Great Merger
+2904~11804~Argentina
+2905~11805~Bafana Bafana
+2906~11806~Cheerleaders
+2907~11807~Dumb Eucelics' Pyramid Walk
+2908~11808~Ensuring Victory
+2909~11809~Floating-Point Numbers
+2910~11810~Gentle ping to the old King
+2911~11811~Hello Mafia
+2912~11812~Innovative Procession Management
+2913~11813~Shopping
+2914~11814~Stack Machine
+2915~11815~Ideas
+2916~11816~HST
+2917~11817~Tunnelling the Earth
+2918~11818~Game --- Mouse and Cheese
+2919~11819~Bisectors
+2920~11820~Warp Speed
+2921~11821~High-Precision Number
+2922~11822~Configurations
+2923~11823~Two Longest Paths
+2924~11824~A Minimum Land Price
+2925~11825~Hackers' Crackdown
+2926~11826~Shuffle
+2927~11827~Maximum GCD
+2928~11828~Palindrome Again
+2929~11829~L's in a Circle
+2930~11830~Contract Revision
+2931~11831~Sticker Collector Robot
+2932~11832~Account Book
+2933~11833~Route Change
+2934~11834~Elevator
+2935~11835~Formula 1
+2936~11836~Star War
+2937~11837~Musical Plagiarism
+2938~11838~Come and Go
+2939~11839~Optical Reader
+2940~11840~Tic-tac-toe
+2941~11841~Y-game
+2942~11842~Flatland
+2943~11843~Guessing Game
+2944~11844~The Melding Plague
+2945~11845~Preferential Romance
+2946~11846~Finding Seats Again
+2947~11847~Cut the Silver Bar
+2948~11848~Cargo Trains
+2949~11849~CD
+2950~11850~Alaska
+2951~11851~Celebrity Split
+2952~11852~Knight's Trip
+2953~11853~Paintball
+2954~11854~Egypt
+2955~11855~Buzzwords
+2956~11856~Ferry Loading V
+2957~11857~Driving Range
+2958~11858~Frosh Week
+2959~11859~Division Game
+2960~11860~Document Analyzer
+2961~11861~Explosion
+2962~11862~Airbus vs Boeing
+2963~11863~Prime Game
+2964~11864~Probability Calculation
+2965~11865~Stream My Contest
+2966~11866~Triangle
+2967~11867~Politeness
+2979~11868~Game of Blocks
+2980~11869~SOAP Response
+2981~11870~Antonyms
+2982~11871~New Land
+2983~11872~Where to Run
+2984~11873~Gift Packing
+2985~11874~Travel Company
+2986~11875~Brick Game
+2987~11876~N + NOD (N)
+2988~11888~Abnormal 89's
+2989~11889~Benefit
+2990~11890~Calculus Simplified
+2991~11891~Deep in Jungles
+2992~11892~ENimEN
+2993~11893~Fabulous DAGy
+2994~11894~Genius MJ
+2995~11895~Honorary Tickets
+2996~11896~Inglorious Gangs
+2997~11897~Jingling Dominoes
+2998~11898~Killer Problem
+2999~11877~The Coco-Cola Store
+3000~11878~Homework Checker
+3001~11879~Multiple of 17
+3002~11880~Ball in a Rectangle
+3003~11881~Internal Rate of Return
+3004~11882~Biggest Number
+3005~11883~Repairing a Road
+3006~11884~A Shooting Game
+3007~11885~Number of Battlefields
+3008~11886~Infinite Dictionaries
+3009~11887~Tetrahedrons and Spheres
+3050~11899~Writing the Whole pi
+3051~11900~Boiled Eggs
+3052~11901~Ellipse Hazard
+3053~11902~Dominator
+3054~11903~e-Friends
+3055~11904~One Unit Machine
+3056~11905~Map Coloring
+3057~11906~Knight in a War Grid
+3058~11907~Collision of Bacteria
+3059~11908~Skyscraper
+3060~11909~Soya Milk
+3061~11910~Closest Fractions
+3062~11911~Farther or Closer
+3063~11912~Chutes and Ladders
+3064~11913~Tape Recording
+3065~11914~An Amazing Race
+3066~11915~Recurrence
+3067~11916~Emoogle Grid
+3068~11917~Do Your Own Homework
+3069~11918~Traveler of Gridland
+3070~11919~Hybrid Salientia
+3071~11920~0 s 1 s and ? Marks
+3072~11921~Save the Princess
+3073~11922~Permutation Transformer
+3074~11923~Roundabout
+3075~11924~Unlock the Winning Pot
+3076~11925~Generating Permutations
+3077~11926~Multitasking
+3078~11927~Games Are Important
+3079~11928~The Busy Dog
+3080~11929~Ambiguous Forests
+3081~11930~Rectangles
+3082~11931~Maze Escape
+3083~11932~Net Profit
+3084~11933~Splitting Numbers
+3085~11934~Magic Formula
+3086~11935~Through the Desert
+3087~11936~The Lazy Lumberjacks
+3088~11937~Balanced ScoreCard
+3089~11938~Hammock in the Forest
+3090~11939~Landing Navigation
+3091~11940~Face the Maze
+3092~11941~Creating a Quadtree
+3093~11942~Lumberjack Sequencing
+3094~11943~The heart flu
+3095~11944~$ 10 to Win?
+3096~11945~Financial Management
+3097~11946~Code Number
+3098~11947~Cancer or Scorpio
+3099~11948~Reading a Quadtree
+3100~11949~Calculating IRR
+3101~11950~Neverland
+3102~11951~Area
+3103~11952~Arithmetic
+3104~11953~Battleships
+3105~11954~Binary Calculator
+3106~11955~Binomial Theorem
+3107~11956~Brainfuck
+3108~11957~Checkers
+3109~11958~Coming Home
+3110~11959~Dice
+3111~11960~Divisor Game
+3112~11961~DNA
+3113~11962~DNA II
+3114~11963~Emigration
+3115~11964~Equation
+3116~11965~Extra Spaces
+3117~11966~Galactic Bonding
+3118~11967~Hic-Hac-Hoe
+3119~11968~In The Airport
+3120~11969~LAMApbo
+3121~11970~Lucky Numbers
+3122~11971~Polygon
+3123~11972~Round Trip
+3124~11973~Sierpinski Carpet
+3125~11974~Switch The Lights
+3126~11975~Tele-loto
+3127~11976~Time Deposit
+3128~11977~Story of Tomisu Ghost
+3129~11978~Fukushima Nuclear Blast
+3130~11979~Hamming Base
+3131~11980~Mad Scientist
+3132~11981~Corrupted Friendship
+3133~11982~Fantasy Cricket
+3134~11983~Weird Advertisement
+3135~11984~A Change in Thermal Unit
+3136~11985~Prime Independence
+3137~11986~Save from Radiation
+3138~11987~Almost Union-Find
+3139~11988~Broken Keyboard (a.k.a. Beiju Text)
+3140~11989~Cake Cutting
+3141~11990~``Dynamic'' Inversion
+3142~11991~Easy Problem from Rujia Liu?
+3143~11992~Fast Matrix Operations
+3144~11993~Girls' Celebration
+3145~11994~Happy Painting!
+3146~11995~I Can Guess the Data Structure!
+3147~11996~Jewel Magic
+3148~11997~K Smallest Sums
+3149~11998~Rujia Liu loves Wario Land!
+3150~11999~Unlock
+3151~12000~K-Transformed Permutations
+3152~12001~UVa Panel Discussion
+3153~12002~Happy Birthday
+3154~12003~Array Transformer
+3155~12004~Bubble Sort
+3156~12005~Find Solutions
+3157~12006~Paint Brush
+3158~12007~Crossboard Coloring
+3159~12008~Emotional Bishop
+3160~12009~Avaricious Maryanna
+3161~12010~Boring Homework
+3162~12011~Complete the Set
+3163~12012~Detection of Extraterrestrial
+3164~12013~Entertainment
+3165~12014~Fudan Extracurricular Lives
+3166~12015~Google is Feeling Lucky
+3167~12016~Herbicide
+3168~12017~Imitation
+3169~12018~Juice Extractor
+3170~12019~Doom's Day Algorithm
+3171~12020~The Election Day
+3172~12021~Universal Elections
+3173~12022~Ordering T-shirts
+3174~12023~Escher and Tessellations
+3175~12024~Hats
+3176~12025~Wrong Keys
+3177~12026~Radars
+3178~12027~Very Big Perfect Squares
+3179~12028~A Gift from the Setter
+3180~12029~Flying Spaceships
+3181~12030~Help the Winners
+3182~12031~Summation of Four Squares
+3183~12032~The Monkey and the Oiled Bamboo
+3184~12033~Game of CS
+3185~12034~Race
+3186~12035~War Map
+3187~12036~Stable Grid
+3188~12037~Musical Chair
+3189~12038~Batting Practice
+3190~12039~Goldbach's Cardinality
+3191~12040~Again Lucky Numbers
+3192~12041~BFS (Binary Fibonacci String)
+3193~12042~Colorful Eggs
+3194~12043~Divisors
+3195~12044~Extreme Divisors
+3196~12045~Fun with Strings
+3197~12046~Great Numbers
+3198~12047~Highest Paid Toll
+3199~12048~Inhabitants
+3200~12049~Just Prune The List
+3202~12050~Palindrome Numbers
+3203~12051~Mazes in Higher Dimensions
+3204~12052~Cyber cafe
+3205~12053~Unbreakable Floor
+3206~12054~Find the Project
+3207~12055~Strange Research
+3208~12056~Circle Strafing
+3209~12057~Prefix Codes
+3210~12058~Highway Monitor
+3211~12059~Volume Measurement
+3212~12060~All Integer Average
+3213~12061~Overlaying Maps
+3214~12062~Reverse Assignment
+3215~12063~Zeros and Ones
+3216~12064~Count the Points Inside
+3217~12065~Permutation Primes
+3218~12066~The Fairy Tale of ICPC
+3219~12067~Guinea Rats
+3220~12068~Harmonic Mean
+3221~12069~Robots inside the Labyrinth
+3222~12070~Invite Your Friends
+3223~12071~Understanding Recursion
+3224~12072~Matrissor
+3225~12073~Altitude Triangle
+3226~12074~The Ultimate Bamboo Eater
+3227~12075~Counting Triangles
+3228~12076~Unequalled Consumption
+3229~12077~Declaration of Content
+3230~12078~Laserbox
+3231~12079~Bowlstack
+3232~12080~Pesky Heroes
+3233~12081~Reduced ID Numbers
+3234~12082~Tantrix
+3235~12083~Guardian of Decency
+3236~12084~Up the Stairs
+3237~12085~Mobile Casanova
+3238~12086~Potentiometers
+3239~12087~Collecting Marbles
+3240~12088~Expression
+3241~12089~The Luncheon
+3242~12090~Counting Zeroes
+3243~12091~Multiplication
+3244~12092~Paint the Roads
+3245~12093~Protecting Zonk
+3246~12094~Battle of the Triangle
+3247~12095~Sudoku
+3248~12096~The SetStack Computer
+3249~12097~Pie
+3250~12098~Ticket to Ride
+3251~12099~The Bookcase
+3252~12100~Printer Queue
+3253~12101~Prime Path
+3254~12102~Lineland's Airport
+3255~12103~Leonardo's Notebook
+3256~12104~A Rod in a Path
+3257~12105~Bigger is Better
+3258~12106~Collapse!!
+3259~12107~Digit Puzzle
+3260~12108~Extraordinarily Tired Students
+3261~12109~Fairies' Defence
+3262~12110~Gargoyle
+3263~12111~Hidden Music Score
+3264~12112~Iceman
+3265~12113~Overlapping Squares
+3266~12114~Bachelor Arithmetic
+3267~12115~Nested Squares
+3268~12116~The Dumb Grocer
+3269~12117~ACM Puzzles
+3270~12118~Inspector's Dilemma
+3271~12119~The Bells are Ringing
+3272~12120~Photographic Tour
+3273~12121~You are around me ...
+3274~12122~Infinite Matrix
+3275~12123~Magnetic Train Tracks
+3276~12124~Assemble
+3277~12125~March of the Penguins
+3278~12126~Containers
+3279~12127~Youth Hostel Dorm
+3280~12128~Escape from Enemy Territory
+3281~12129~Flight Safety
+3282~12130~Summits
+3283~12131~Obfuscation
+3284~12132~Tower Parking
+3285~12133~Walk
+3286~12134~Find the Format String
+3287~12135~Switch Bulbs
+3288~12136~Schedule of a Married Man
+3289~12137~Puzzles of Triangles
+3290~12138~Chemical Plant
+3291~12139~Clicking Checkboxes
+3292~12140~Magic Rings
+3293~12141~Line Chart
+3294~12142~Mobile Tower
+3295~12143~Stopping Doom's Day
+3296~12144~Almost Shortest Path
+3297~12145~Bases
+3298~12146~Candy
+3299~12147~DNA Sequences
+3300~12148~Electricity
+3301~12149~Feynman
+3302~12150~Pole Position
+3303~12151~Higgs Boson
+3304~12152~Traveling Shoemaker Problem
+3305~12153~Bora Bora
+3306~12154~Shrinking Polygons
+3307~12155~ASCII Diamondi
+3308~12156~Match Maker
+3309~12157~Tariff Plan
+3310~12158~Irreducible Fractions
+3311~12159~Gun Fight
+3312~12160~Unlock the Lock
+3313~12161~Ironman Race in Treeland
+3314~12162~Shooting the Monster
+3315~12163~Addition-Subtraction Game
+3316~12164~The Great Game
+3317~12165~Triangle Hazard
+3318~12166~Equilibrium Mobile
+3319~12167~Proving Equivalences
+3320~12168~Cat vs. Dog
+3321~12169~Disgruntled Judge
+3322~12170~Easy Climb
+3323~12171~Sculpture
+3324~12172~Matchsticks
+3325~12173~White Water Rafting
+3326~12174~Shuffle
+3327~12175~Videopoker
+3328~12176~Bring Your Own Horse
+3329~12177~First Knight
+3330~12178~Postal Charges
+3331~12179~Randomly-priced Tickets
+3332~12180~The Game
+3333~12181~The Merchant Guild
+3334~12182~Toll Road
+3335~12183~Top Secret
+3336~12184~Transcribed Books
+3337~12185~Wizards
+3338~12186~Another Crisis
+3339~12187~Brothers
+3340~12188~Code Lock
+3341~12189~Dinner Hall
+3342~12190~Electric Bill
+3343~12191~File Recover
+3344~12192~Grapevine
+3345~12193~Hooligan
+3346~12194~Isosceles Triangles
+3347~12195~Jingle Composing
+3348~12196~Klingon Levels
+3349~12197~Trick or Treat
+3350~12198~Working at the Restaurant
+3351~12199~Lights
+3352~12200~Darts
+3353~12201~Genetics
+3354~12202~Haunted Graveyard
+3355~12203~Slalom
+3356~12204~Routing
+3357~12205~Happy Telephones
+3358~12206~Stammering Aliens
+3359~12207~That is Your Queue
+3360~12208~How Many Ones Needed?
+3361~12209~Foot Notes
+3362~12210~A Match Making Problem
+3363~12211~Games of Block
+3364~12212~Password Remembering
+3365~12213~Camera in the Museum
+3366~12214~Traffic Jam
+3367~12215~Rectangle of Permutation
+3368~12216~How Many bases?
+3369~12217~Integer Game
+3370~12218~An Industrial Spy
+3371~12219~Common Subexpression Elimination
+3372~12220~Divisible Subsequences
+3373~12221~Fractal
+3374~12222~Mountain Road
+3375~12223~Moving to Nuremberg
+3376~12224~Room Assignments
+3377~12225~Settlers of Catan
+3378~12226~Simple Polygon
+3379~12227~Wormholes
+3380~12228~Assembling Services
+3381~12229~Box Relations
+3382~12230~Crossing Rivers
+3383~12231~Download Manager
+3384~12232~Exclusive-OR
+3385~12233~Final Combat
+3386~12234~Gift Hunting
+3387~12235~Help Bubu
+3388~12236~In a Crazy City
+3389~12237~Jiajia's Robot
+3390~12238~Ants Colony
+3391~12239~Bingo!
+3392~12240~Cocircular Points
+3393~12241~Digits Count
+3394~12242~Electric Needs
+3395~12243~Flowers Flourish from France
+3396~12244~Growing Strings
+3397~12245~Hyperactive Girl
+3398~12246~Ingenious Metro
+3399~12247~Jollo
+3400~12248~Kids' Wishes
+3401~12249~Overlapping Scenes
+3402~12250~Language Detection
+3403~12251~Scientific Experiment
+3404~12252~ABCD Tiles
+3405~12253~Simple Encryption
+3406~12254~Electricity Connection
+3407~12255~Underwater Snipers
+3408~12256~Making Quadrilaterals
+3409~12257~The Queue
+3410~12258~Air Pollution Problem
+3411~12259~Fair Division
+3412~12260~Free Goodies
+3413~12261~High Score
+3414~12262~Hill Driving
+3415~12263~Rankings
+3416~12264~Risk
+3417~12265~Selling Land
+3418~12266~Stock Prices
+3419~12267~Telephone Network
+3420~12268~Wormly
+3421~12269~Lawn mower
+3422~12270~Periodic points
+3423~12271~Comparing answers
+3424~12272~Fake scoreboard
+3425~12273~Palindromic DNA
+3426~12274~Jumping monkey
+3427~12275~Sensor network
+3428~12276~Assembly line
+3429~12277~Locks and keys
+3430~12278~3-sided dice
+3431~12279~Emoogle Balance
+3432~12280~A Digital Satire of Digital Age
+3433~12281~Hyper Box
+3434~12282~OmniGravity
+3435~12283~Halloween Costumes
+3436~12284~Digital Matrix
+3437~12285~Knockout Tournaments
+3438~12286~Optimal Store
+3439~12287~Network Flow
+3440~12288~Hyper Knights
+3441~1000~Airport Configuration
+3442~1001~Say Cheese
+3443~1002~Crossword Puzzle
+3444~1003~Can't Cut Down the Forest for the Trees
+3445~1004~The Geoduck GUI
+3446~1005~A Major Problem
+3447~1006~Fixed Partition Memory Management
+3448~1007~Professor Monotonic's Networks
+3449~1008~A Vexing Problem
+3450~1009~Balloons in a Box
+3451~1010~Undecodable Codes
+3452~1011~Crossing the Desert
+3453~1012~Ferries
+3454~1013~Island Hopping
+3455~1014~Toil for Oil
+3456~1015~Partitions
+3457~1016~Silly Sort
+3458~1017~Merrily We Roll Along!
+3459~1018~Building Bridges
+3460~1019~Light Bulbs
+3461~1020~Riding the Bus
+3462~1021~Eurodiffusion
+3463~1022~Covering Whole Holes
+3464~1023~Combining Images
+3465~1024~A Linking Loader
+3466~1025~A Spy in the Metro
+3467~1026~The Solar System
+3468~1027~Toll
+3469~1028~Carl the Ant
+3470~1029~Heliport
+3471~1030~Image Is Everything
+3472~1031~Insecure in Prague
+3473~1032~Intersecting Dates
+3474~1033~Merging Maps
+3475~1034~Navigation
+3476~1035~Tree-Lined Streets
+3477~1036~Suspense!
+3478~1037~Air Traffic Control
+3479~1038~Eyeball Benders
+3480~1039~Simplified GSM Network
+3481~1040~The Traveling Judges Problem
+3482~1041~cNteSahruPfefrlefe
+3483~1042~Lots of Sunlight
+3484~1043~Crossing Streets
+3485~1044~Tiling the Plane
+3486~1045~The Great Wall Game
+3487~1046~Workshops
+3488~1047~Zones
+3489~1048~Low Cost Air Travel
+3490~1049~Remember the A La Mode!
+3491~1050~Ars Longa
+3492~1051~Bipartite Numbers
+3493~1052~Bit Compressor
+3494~1053~Building a Clock
+3495~1054~Pilgrimage
+3496~1055~Pockets
+3497~1056~Degrees of Separation
+3498~1057~Routing
+3499~1058~Grand Prix
+3500~1059~Jacquard Circuits
+3501~1060~Collecting Luggage
+3502~1061~Consanguine Calculations
+3503~1062~Containers
+3504~1063~Marble Game
+3505~1064~Network
+3506~1065~Raising the Roof
+3507~1066~Problem: Water Tanks
+3508~1067~Tunnels
+3509~1068~Air Conditioning Machinery
+3510~1069~Always an integer
+3511~1070~Conveyor Belt
+3512~1071~The Hare and the Hounds
+3513~1072~Huffman Codes
+3514~1073~Glenbow Museum
+3515~1074~Net Loss
+3516~1075~Painter
+3517~1076~Password Suspects
+3518~1077~The Sky is the Limit
+3519~1078~Steam Roller
+3520~1079~A Careful Approach
+3521~1080~My Bad
+3522~1081~The Return of Carl
+3523~1082~Conduit Packing
+3524~1083~Fare and Balanced
+3525~1084~Deer-Proof Fence
+3526~1085~House of Cards
+3527~1086~The Ministers' Major Mess
+3528~1087~Struts and Springs
+3529~1088~Subway Timing
+3530~1089~Suffix-Replacement Grammars
+3531~1090~APL Lives!
+3532~1091~Barcodes
+3533~1092~Tracking Bio-bots
+3534~1093~Castles
+3535~1094~Channel
+3536~1095~Contour Mapping
+3537~1096~The Islands
+3538~1097~Rain
+3539~1098~Robots on Ice
+3540~1099~Sharing Chocolate
+3541~1100~Paperweight
+3542~1101~To Add or to Multiply
+3543~1102~Affine Mess
+3544~1103~Ancient Messages
+3545~1104~Chips Challenge
+3546~1105~Coffee Central
+3547~1106~Machine Works
+3548~1107~Magic Sticks
+3549~1108~Mining Your Own Business
+3550~1109~Mummy Madness
+3551~1110~Pyramids
+3552~1111~Trash Removal
+3553~1112~Mice and Maze
+3554~1113~Multiple Morse Matches
+3555~1114~Maya Calendar
+3556~1115~Water Shortage
+3557~1116~Puzzle
+3558~1117~Reliable Programs
+3559~1118~Binary Stirling Numbers
+3560~1119~Project File Dependencies
+3561~1120~No Change
+3562~1121~Subsequence
+3563~1122~Left Labyrinths
+3564~1123~Crazy Search
+3565~1124~Celebrity jeopardy
+3566~1125~Sherlock Holmes
+3567~1126~Payment System
+3568~1127~Word Puzzles
+3569~1128~Water Treatment Plants
+3570~1129~Stargates
+3571~1130~Men at work
+3572~1131~Square dance
+3573~1132~Football
+3574~1133~Rent your airplane and make money
+3575~1134~Who's next?
+3576~1135~Computer
+3577~1136~Help R2-D2!
+3578~1137~Phony primes
+3579~1138~Roof
+3580~1139~Stormy Versailles
+3581~1140~Charles Fr&eacute;d&eacute;ric Gros
+3582~1141~Count wireless Links
+3583~1142~Fighting the Heat
+3584~1143~Fighting the Heat II
+3585~1144~Find the Walls
+3586~1145~War
+3587~1146~Now or later
+3588~1147~Crime
+3589~1148~The mysterious X network
+3590~1149~Bin Packing
+3591~1150~On Storing Clothes
+3592~1151~Buy or Build
+3593~1152~4 Values whose Sum is 0
+3594~1153~Keep the Customer Satisfied
+3595~1154~UFO Cubes in Roswell
+3596~1155~Black Box
+3597~1156~Pixel Shuffle
+3598~1157~Consecutive ones
+3599~1158~CubesSquared
+3600~1159~BlindFold
+3601~1160~X-Plosives
+3602~1161~Objective: Berlin
+3603~1162~Transcript
+3604~1163~The Right Tip
+3605~1164~Booby Traps
+3606~1165~Fire Lane
+3607~1166~Gap
+3608~1167~BEATBIT
+3609~1168~Prester John
+3610~1169~Robotruck
+3611~1170~Jumping Hero
+3612~1171~Board Games
+3613~1172~The Bridges of Kolsberg
+3614~1173~The Finest Chef
+3615~1174~IP-TV
+3616~1175~Ladies' Choice
+3617~1176~A Benevolent Josephus
+3618~1177~A General Recurrence Relation
+3619~1178~The Juice Shop
+3620~1179~Minimal Cover of Prime Implicants
+3621~1180~Perfect Numbers
+3622~1181~Rubik's Cube
+3623~1182~Sequence Alignment
+3624~1183~Turn All the Lights Off
+3625~1184~Air Raid
+3626~1185~Big Number
+3627~1186~Chat Rooms
+3628~1187~Diamonds
+3629~1188~Enigmatic Travel
+3630~1189~Find The Multiple
+3631~1190~Get Them All
+3632~1191~Hermes' Colony
+3633~1192~Searching Sequence Database in Molecular Biology
+3634~1193~Radar Installation
+3635~1194~Machine Schedule
+3636~1195~Calling Extraterrestrial Intelligence Again
+3637~1196~Tiling Up Blocks
+3638~1197~The Suspects
+3639~1198~The Geodetic Set Problem
+3640~1199~Elevator Stopping Plan
+3641~1200~A DP Problem
+3642~1201~Taxi Cab Scheme
+3643~1202~Finding Nemo
+3644~1203~Argus
+3645~1204~Fun Game
+3646~1205~Color a Tree
+3647~1206~Boundary Points
+3648~1207~AGTC
+3649~1208~Oreon
+3650~1209~Wordfish
+3651~1210~Sum of Consecutive Prime Numbers
+3652~1211~Atomic Car Race
+3653~1212~Duopoly
+3654~1213~Sum of Different Primes
+3655~1214~Manhattan Wiring
+3656~1215~String Cutting
+3657~1216~The Bug Sensor Problem
+3658~1217~Route Planning
+3659~1218~Perfect Service
+3660~1219~Team Arrangement
+3661~1220~Party at Hali-Bula
+3662~1221~Against Mammoths
+3663~1222~Bribing FIPA
+3664~1223~Editor
+3665~1224~Tile Code
+3666~1225~Digit Counting
+3667~1226~Numerical surprises
+3668~1227~The longest constant gene
+3669~1228~Integer Transmission
+3670~1229~Sub-dictionary
+3671~1230~MODEX
+3672~1231~ACORN
+3673~1232~SKYLINE
+3674~1233~USHER
+3675~1234~RACING
+3676~1235~Anti Brute Force Lock
+3677~1236~Disjoint Paths
+3678~1237~Expert Enough?
+3679~1238~Free Parentheses
+3680~1239~Greatest K-Palindrome Substring
+3681~1240~ICPC Team Strategy
+3682~1241~Jollybee Tournament
+3683~1242~Necklace
+3684~1243~Polynomial-time Reductions
+3685~1244~Palindromic paths
+3686~1245~Pile it down
+3687~1246~Find Terrorists
+3688~1247~Interstar Transport
+3689~1248~Inventory
+3690~1249~Euclid
+3691~1250~Robot Challenge
+3692~1251~Repeated Substitution with Sed
+3693~1252~Twenty Questions
+3694~1253~Infected Land
+3695~1254~Top 10
+3696~1255~Airplane Parking
+3697~1256~Rating Hazard
+3698~1257~Your Ways
+3699~1258~Nowhere Money
+3700~1259~Highway Patrol
+3701~1260~Sales
+3702~1261~String Popping
+3703~1262~Password
+3704~1263~Mines
+3705~1264~Binary Search Tree
+3706~1265~Tour Belt
+3707~1266~Magic Square
+3708~1267~Network
+3709~1268~Clues
+3710~12289~One-Two-Three
+3711~12290~Counting Game
+3712~12291~Polyomino Composer
+3713~12292~Polyomino Decomposer
+3714~12293~Box Game
+3715~12294~RPG battles
+3716~12295~Optimal Symmetric Paths
+3717~12296~Pieces and Discs
+3718~12297~Super Poker
+3719~12298~Super Poker II
+3720~12299~RMQ with Shifts
+3721~1269~In-circles Again
+3722~12300~Smallest Regular Polygon
+3723~12301~An Angular Puzzle
+3724~12302~Nine-Point Circle
+3725~12303~Composite Transformations
+3726~12304~2D Geometry 110 in 1!
+3727~12305~Polishing a Extruded Polygon
+3728~12306~My SketchUp
+3729~12307~Smallest Enclosing Rectangle
+3730~12308~Smallest Enclosing Box
+3731~12309~A Strange Opera House II
+3732~12310~Point Location
+3733~12311~All-Pair Farthest Points
+3734~12312~Bounding Volume Hierarchy
+3735~12313~A Tiny Raytracer
+3736~12314~The Cleaning Robot
+3737~12315~The Starflyer Agents
+3738~12316~Sewing Buttons with Grandma
+3739~12317~Document Compression
+3740~12318~Digital Roulette
+3741~12319~Edgetown's Traffic Jams
+3742~12320~Flight Control
+3743~12321~Gas Stations
+3744~12322~Handgun Shooting Sport
+3745~12323~Inspecting Radars
+3746~12324~Philip J. Fry Problem
+3747~12325~Zombie's Treasure Chest
+3748~12326~Yummy Triangular Pizza
+3749~12327~Xavier is Learning to Count
+3750~12328~Winmine.exe
+3751~12329~Very Boring Homework
+3752~12330~Universal Question Answering System
+3753~12331~Triangles and Quadrangle
+3754~12332~Share the Cakes
+3755~12333~Revenge of Fibonacci
+3756~12334~Quelling Blade
+3757~12335~Lexicographic Order
+3758~12336~Knights in the Zombie Land
+3759~12337~Bob's Beautiful Balls
+3760~12338~Anti-Rhyme Pairs
+3761~12339~Help Hermione
+3762~12340~Integer Grouping
+3763~12341~Next to Never
+3764~12342~Tax Calculator
+3765~12343~Strange Simulation
+3766~12344~Jewel Transportation
+3767~12345~Dynamic len(set(a[L:R]))
+3768~12346~Water Gate Management
+3769~12347~Binary Search Tree
+3770~12348~Fun Coloring
+3771~12349~Twin Apparent Primes!!
+3772~12350~Queen Game
+3773~12351~Spelling Suggestion
+3774~12352~Coalescing Continents
+3775~12353~Fence Making
+3776~12354~Paths in a Tree
+3777~12355~Consecutive Sums
+3778~12356~Army Buddies
+3779~12357~Ball Stacking
+3780~12358~Candy's Candy
+3781~12359~Diccionário Portuñol
+3782~12360~Elecrical Pollution
+3783~12361~File Retrieval
+3784~12362~Garden Fence
+3785~12363~Hedge Mazes
+3786~12364~In Braille
+3787~12365~Jupiter Atacks!
+3788~12366~King's Poker
+3789~12367~Binary Matrix
+3790~12368~Candles
+3791~12369~Cards
+3792~12370~Game of Connect
+3793~12371~Guards
+3794~12372~Packing for Holiday
+3795~12373~Pair of Touching Circles
+3796~12374~Treasure Hunt
+3797~12375~Truchet Tiling
+3798~12376~As Long as I Learn I Live
+3799~12377~Number Coding
+3800~12378~Ball Blasting Game
+3801~12379~Central Post Office
+3802~12380~Glimmr in Distress
+3803~12381~Our Fair Contest!
+3804~12382~Grid of Lamps
+3805~12383~The Game
+3806~12384~Span
+3807~12385~Interesting Sequences
+3808~12386~Smallest Polygon
+3809~12387~Alphabet Soup
+3810~12388~Coin Collecting
+3811~12389~Cybercrime Donut Investigation
+3812~12390~Distributing Ballot Boxes
+3813~12391~Game Set and Match
+3814~12392~Guess the Numbers
+3815~12393~Non-negative Partial Sums
+3816~12394~Peer Review
+3817~12395~Regular Convex Polygon
+3818~12396~Remoteland
+3819~1270~Paint the Map
+3820~1271~Bangle
+3821~1272~Circle Network
+3822~1273~Weiqi
+3823~1274~Color Ropes
+3824~1275~The Revolution of the Ants
+3825~1276~Game Fan
+3826~1277~How Many Days Are There
+3827~1278~Princess and Hero
+3828~12397~Roman Numerals
+3829~12398~NumPuzz I
+3830~12399~NumPuzz II
+3831~12400~3 2 1 0
+3832~12401~Metal Powers
+3833~12402~Parallel Missions
+3834~12403~Save Setu
+3835~12404~Trapezium Drawing
+3836~12405~Scarecrow
+3837~12406~Help Dexter
+3838~12407~Speed Zones
+3839~12408~Multi Round Matches
+3840~12409~Kisu Pari Na - 1
+3841~12410~Disable the Wand
+3842~12411~A Dangerous Maze (II)
+3843~12412~A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)
+3844~12413~Big Decimal Calculator
+3845~12414~Calculating Yuan Fen
+3846~12415~Digit Patterns
+3847~12416~Excessive Space Remover
+3848~12417~Formula Editor
+3849~12418~Game of 999
+3850~12419~Heap Manager
+3851~12420~Item-Based Recommendation
+3852~12421~(Jiandan) Mua (I) - Lexical Analyzer
+3853~12422~(Kengdie) Mua (II) - Expression Evaluator
+3854~12423~(Last) Mua(III) - Full Interpreter
+3855~12424~Answering Queries on a Tree
+3856~12425~Best Friend
+3857~12426~Counting Triangles
+3858~12427~Donkey of the Sultan
+3859~12428~Enemy at the Gates
+3860~12429~Finding Magic Triplets
+3861~12430~Grand Wedding
+3862~12431~Happy 10/9 Day
+3863~12432~Inked Carpets
+3864~12433~Rent a Car
+3865~12434~Infinite Stable Integer
+3866~12435~Consistent Verdicts
+3867~12436~Rip Van Winkle's Code
+3868~12437~Kisu Pari Na 2
+3869~12438~Farey Polygon
+3870~12439~February 29
+3871~12440~Save the Trees
+3872~12441~Superb Sequence
+3873~12442~Forwarding Emails
+3874~12443~Quad
+3875~12444~Bits and Pieces
+3876~12445~Happy 12
+3877~12446~How Many... in 3D!
+3878~12447~Pieces and Bits
+3879~12448~Casino Advantage
+3880~12449~Night Market
+3881~12450~SpaceRecon Tournament
+3882~12451~Let's call SPaDe a SPaDe
+3883~12452~Plants vs. Zombies HD SP
+3884~12453~Simulating Billiard Ball
+3885~12454~Plan B for next SWERC
+3886~12455~Bars
+3887~12456~Mirror codes
+3888~12457~Tennis contest
+3889~12458~Oh my trees!
+3890~12459~Bees' ancestors
+3891~12460~Careful teacher
+3892~1279~Asteroid Rangers
+3893~1280~Curvy Little Bottles
+3894~1281~Bus Tour
+3895~1282~Fibonacci Words
+3896~1283~Infiltration
+3897~1284~Keys
+3898~1285~Minimum Cost Flow
+3899~1286~Room Service
+3900~1287~A Safe Bet
+3901~1288~Shortest Flight Path
+3902~1289~Stacking Plates
+3903~1290~Takeover Wars
+3904~12461~Airplane
+3905~12462~Rectangle
+3906~12463~Little Nephew
+3907~12464~Professor Lazy Ph.D.
+3909~12465~The Turanga Leela Problem
+3910~12466~Ancestors
+3911~12467~Secret Word
+3912~12468~Zapping
+3913~12469~Stones
+3914~12470~Tribonacci
+3915~12471~Association of Strings
+3916~12472~Binary Substring
+3917~12473~Common Palindrome
+3918~12474~Draw and Score
+3919~12475~Elliptic Athletics Track
+3920~12476~Fun with Binary Tree
+3921~12477~Good Measures of Dispersion
+3922~12478~Hardest Problem Ever (Easy)
+3923~12479~Interesting Route
+3924~12480~Just Some Permutations
+3925~12481~K-Neutral Rectangles
+3926~12482~Short Story Competition
+3927~12483~Toboggan of Marbles
+3928~12484~Cards
+3929~12485~Perfect Choir
+3930~12486~Space Elevator
+3931~12487~Midnight Cowboy
+3932~12488~Start Grid
+3933~12489~Combating cancer
+3934~12490~Integral
+3935~12491~Words
+3936~12492~Rubik Cycle
+3937~12493~Stars
+3938~12494~Distinct Substring
+3939~12495~'C' for Count
+3940~12496~Fisherman's Dilemma
+3941~12497~Chatgaiya Postman Problem
+3942~12498~Ant's Shopping Mall
+3943~12499~I am Dumb 3
+3944~12500~Balance the Blocks
+3945~12501~Bulky process of bulk reduction
+3946~12502~Three Families
+3947~12503~Robot Instructions
+3948~12504~Updating a Dictionary
+3949~12505~Searching in sqrt(n)
+3950~12506~Shortest Names
+3951~12507~Kingdoms
+3952~12508~Triangles in the Grid
+3953~12509~Tin Cutter II
+3954~12510~Collecting Coins
+3955~12511~Virus
+3956~12512~Cross-Shaped Tests
+3958~12513~Safe Places
+3959~12514~Cookie
+3960~12515~Movie Police
+3961~12516~Cinema-cola
+3962~12517~Digit Sum
+3963~12518~LCD Extravaganza
+3964~12519~The Farnsworth Parabox
+3965~12520~Square Garden
+3966~12521~Teamface
+3967~12522~The Imperial Problem
+3968~12523~Lazy Professor
+3969~12524~Arranging Heaps
+3970~12525~Boxes and Stones
+3971~12526~Cellphone Typing
+3972~12527~Different Digits
+3973~12528~Environment Protection
+3974~12529~Fix the Pond
+3975~12530~Game of Tiles
+3976~12531~Hours and Minutes
+3977~12532~Interval Product
+3978~12533~Joining Couples
+3979~12534~Binary Matrix 2
+3980~12535~Probability Through Experiments
+3981~12536~Optimal Spaceway
+3982~12537~Radiation
+3983~12538~Version Controlled IDE
+3984~12539~Ultimate Device
+3985~12540~Warp Speed II
+3986~12541~Birthdates
+3987~12542~Prime Substring
+3988~12543~Longest Word
+3989~12544~Beehives
+3990~12545~Bits Equalizer
+3991~12546~LCM Pair Sum
+3992~12547~RNA Secondary Structure
+3993~12548~Old School Days
+3994~12549~Sentry Robots
+3995~12550~How do spiders walk on water?
+3996~12551~Shares
+3997~12552~The Moon of Valencia
+3998~12553~Countdown
+3999~12554~A Special "Happy Birthday" Song!!!
+4000~12555~Baby Me
+4001~12556~"Center" of perimeter midpoints
+4002~12557~Detecting Code Snippets
+4003~12558~Egyptian Fractions (HARD version)
+4004~12559~Finding Black Circles
+4005~12560~Good Friends
+4006~12561~Hadamard Gate
+4007~12562~In an effort to Change History
+4008~12563~Jin Ge Jin Qu hao
+4009~12564~King of Fighters explained
+4010~12565~Lovely Magical Curves
+4011~12566~“Melody Creation”
+4012~12567~Never7, Ever17 and Water
+4013~12568~Optimizing Key Signatur
+4014~12569~Planning mobile robot on Tree (EASY Version)
+4015~12570~Qualle? Quale?
+4016~12571~Brother & Sisters!
+4017~12572~RMQ Overkill
+4018~12573~Sohel Sir's Assignment
+4019~12574~VOID
+4020~12575~Sin Cos Problem
+4021~12576~Simply Loopy
+4022~12577~Hajj-e-Akbar
+4023~12578~10:6:2
+4024~12579~To Infinity and Beyond
+4025~12580~Yell Classico
+4026~12581~Divisibility
+4027~12582~Wedding of Sultan
+4028~12583~Memory Overflow
+4029~12584~Laptop Chargers
+4030~12585~Poker End Games
+4031~12586~Overlapping Characters
+4032~12587~Reduce the Maintenance Cost
+4033~12588~Team Mathematics Olympiad
+4034~12589~Learning Vector
+4035~12590~Guards II
+4036~12591~Beauty of Regular Polyhedron
+4037~1291~Dance Dance Revolution
+4038~1292~Strategic game
+4039~1293~Symbolic Derivation
+4040~1294~Mini-Spreadsheet
+4041~1295~Houses Divided
+4042~1296~Hotline
+4043~1297~The Minimum Number of Rooks
+4044~1298~Triathlon
+4045~1299~Frontier
+4046~1300~Parallel Expectations
+4047~1301~Fishnet
+4048~1302~Gnome Tetravex
+4049~1303~Wall
+4050~1304~Art Gallery
+4051~1305~Chocolate
+4052~1306~The K-League
+4053~1307~Equals are Equals
+4054~1308~Viva Confetti
+4055~1309~Sudoku
+4056~1310~One-way traffic
+4057~1311~Servers
+4058~1312~Cricket Field
+4059~1313~Ghost Busters
+4060~1314~Hidden Password
+4061~1315~Crazy tea party
+4062~1316~Supermarket
+4063~1317~Concert Hall Scheduling
+4064~1318~Monster Trap
+4065~1319~Maximum
+4066~1320~Bundling
+4067~1321~Dice contest
+4068~1322~Minimizing Maximizer
+4069~1323~Vivian's Problem
+4070~1324~Bring Them There
+4071~1325~Hypertransmission
+4072~1326~Jurassic Remains
+4073~1327~King's Quest
+4074~1328~Period
+4075~1329~Corporative Network
+4076~1330~City Game
+4077~1331~Minimax Triangulation
+4078~1332~Kid's Problem
+4079~1333~Model Rocket Height
+4080~1334~Art of War
+4081~1335~Beijing Guards
+4082~1336~Fixing the Great Wall
+4083~1337~Inherit the Spheres
+4084~1338~Crossing Prisms
+4085~1339~Ancient Cipher
+4086~1340~Find the Border
+4087~1341~Different Digits
+4088~1342~That Nice Euler Circuit
+4089~1343~The Rotation Game
+4090~1344~Tian Ji -- The Horse Racing
+4091~1345~Jamie's Contact Groups
+4092~1346~Songs
+4093~1347~Tour
+4094~1348~Tomato Automata
+4095~1349~Optimal Bus Route Design
+4096~1350~Pinary
+4097~1351~String Compression
+4098~1352~Colored Cubes
+4099~1353~Organize Your Train
+4100~1354~Mobile Computing
+4101~1355~Bingo
+4102~1356~Bridge
+4103~1357~Cells
+4104~1358~Generator
+4105~1359~Hills
+4106~1360~Model Rocket Height
+4107~1361~Cactus
+4108~1362~Exploring Pyramids
+4109~1363~Joseph's Problem
+4110~1364~Knights of the Round Table
+4111~1365~Wild West
+4112~1366~Martian Mining
+4113~1367~Nuclear Plants
+4114~1368~DNA Consensus String
+4115~1369~Travel
+4116~1370~Roommate
+4117~1371~Period
+4118~1372~Log Jumping
+4119~1373~How I Wonder What You Are!
+4120~1374~Power Calculus
+4121~1375~The Best Name for Your Baby
+4122~1376~Animal Run
+4123~1377~Ruler
+4124~1378~A Funny Stone Game
+4125~1379~Pitcher Rotation
+4126~1380~A Scheduling Problem
+4127~1381~Balancing the Scale
+4128~1382~Distant Galaxy
+4129~1383~Harmony Forever
+4130~1384~Interesting Yang Hui Triangle
+4131~1385~Billing Tables
+4132~1386~Cellular Automaton
+4133~1387~Driving Directions
+4134~1388~Graveyard
+4135~1389~Hard Life
+4136~1390~Interconnect
+4137~1391~Astronauts
+4138~1392~DNA Regions
+4139~1393~Highways
+4140~1394~And Then There Was One
+4141~1395~Slim Span
+4142~1396~Most Distant Point from the Sea
+4143~1397~The Teacher's Side of Math
+4144~1398~Meteor
+4145~1399~Puzzle
+4146~1400~“Ray, Pass me the dishes!”
+4147~1401~Remember the Word
+4148~1402~Robotic Sort
+4149~1403~Tough Water Level
+4150~1404~Prime k-tuple
+4151~1405~The Ultimate Password
+4152~1406~A Sequence of Numbers
+4153~1407~Caves
+4154~1408~Flight Control
+4155~1409~Go to Class
+4156~1410~Expensive Drink
+4157~1411~Ants
+4158~1412~Fund Management
+4159~1413~Game
+4160~1414~Hanoi Towers
+4161~1415~Gauss Prime
+4162~1416~Warfare And Logistics
+4163~1417~Traffic Jam
+4164~1418~WonderTeam
+4167~1421~Archery
+4168~1422~Processor
+4169~1423~Guess
+4170~1424~Salesmen
+4171~1425~Metal
+4172~1426~Discrete Square Roots
+4173~1427~Parade
+4174~1428~Ping pong
+4175~1429~Timer
+4176~1430~Binary Integer
+4177~1431~Cryptography Reloaded
+4178~1432~Fire-Control System
+4179~1433~Aerodynamics
+4180~1434~YAPTCHA
+4181~1435~Business Cards
+4182~1436~Counting heaps
+4183~1437~String painter
+4184~1438~Asteroids
+4185~1439~Exclusive Access 2
+4186~1440~Inspection
+4187~1441~Accountant notes
+4188~1442~Cav
+4189~1443~Garlands
+4190~1444~Knowledge for the masses
+4191~1445~Cubist Artwork
+4192~1446~Origami Through-Hole
+4193~1447~Malfatti Circles
+4194~1448~Hobby on Rails
+4195~1449~Dominating Patterns
+4196~1450~Airport
+4197~1451~Average
+4198~1452~Jump
+4199~1453~Squares
+4200~1454~Sizeof
+4201~1455~Kingdom
+4202~1456~Cellular Network
+4203~1457~Decrypt Messages
+4204~1458~Exciting Time
+4205~1459~Flowers Placement
+4206~1460~Game Simulator
+4207~1461~Sudoku Extension
+4208~1462~Fuzzy Google Suggest
+4209~1463~Largest Empty Circle on a Segment
+4210~1464~Traffic Real Time Query System
+4211~1465~Searchlights
+4212~1466~String Phone
+4213~1467~Installations
+4214~1468~Restaurant
+4215~1469~Ardenia
+4216~1470~Casting Spells
+4217~1471~Defense Lines
+4218~1472~Hanging Hats
+4219~1473~Dome of Circus
+4220~1474~Evacuation Plan
+4221~1475~Jungle Outpost
+4222~1476~Error Curves
+4223~1477~Snooker Referee
+4224~1478~Delta Wave
+4225~1479~Graph and Queries
+4226~1480~Jewel
+4227~1481~Genome Evolution
+4228~1482~Playing With Stones
+4229~1483~Intersection of Two Prisms
+4230~1484~Alice and Bob's Trip
+4231~1485~Permutation Counting
+4232~1486~Transportation
+4233~1487~Volume
+4234~1488~Shade of Hallelujah Mountain
+4235~1489~Math teacher's homework
+4236~1490~Let the light guide us
+4237~1491~Compress the String
+4238~1492~Adding New Machine
+4239~1493~Draw a Mess
+4240~1494~Qin Shi Huang's National Road System
+4241~1495~Three Kingdom Chess
+4242~1496~Peach Blossom Spring
+4243~1497~A Letter to Programmers
+4244~1498~Activation
+4245~1499~Gem And Prince
+4246~1500~Alice and Bob
+4247~1501~Construct the Great Wall
+4248~1502~GRE Words
+4249~1503~Ji-Tu Problem
+4250~1504~Genghis Khan the Conqueror
+4251~1505~Flood-it!
+4252~1506~Running relay
+4253~1507~Shadow
+4254~1508~Equipment
+4255~1509~Leet
+4256~1510~Neon Sign
+4257~1511~Soju
+4258~1512~ASCII Expression
+4259~1513~Movie collection
+4260~1514~Piece it together
+4261~1515~Pool construction
+4262~1516~Smoking gun
+4263~1517~Tracking RFIDs
+4264~1518~Train delays
+4265~1519~Dictionary Size
+4266~1520~Flights
+4267~1521~GCD Guessing Game
+4268~1419~Ugly Windows
+4269~1420~Priest John's Busiest Day
+4270~12592~Slogan Learning of Princess
+4271~12593~Next Generation Macaw
+4272~12594~Naming Babies
+4273~12595~Galactic Transmission
+4274~12596~Recursive Texting
+4275~12597~Macaw Baby Learns Computer
+4276~12598~Starting School
+4277~12599~Black and White
+4278~12600~Counting Necklaces
+4279~12601~Toll Management II
+4280~12602~Nice Licence Plates
+4281~12603~Bouncing Bowling Ball
+4282~12604~Caesar Cipher
+4283~12605~Ripple Effect
+4284~12606~Evaluating Logic Expressions
+4285~12607~Amazing Maze
+4286~12608~Garbage Collection
+4287~12609~Sequential Thinking
+4288~12610~Attractive Grid
+4289~12611~Beautiful Flag
+4290~12612~Cube Killer
+4291~12613~Distinct Substring 2
+4292~12614~Earn For Future
+4293~12615~Fantastic Network
+4294~12616~Gymman vs Fila
+4295~12617~How Lader
+4296~12618~I Puzzle You
+4297~12619~Just Make A Wish
+4298~1523~Helicopter
+4299~1524~Hot or Cold?
+4300~1525~Falling Leaves
+4301~1526~Edge Detection
+4302~1527~Instruens Fabulam
+4303~1528~Reserve Bookshelf
+4304~1529~Clock
+4305~1530~Floating Point Numbers
+4306~1531~Problem Bee
+4307~1532~A Well-Formed Problem
+4308~1533~Moving Pegs
+4309~1534~Taekwondo
+4310~1535~Lost Lists
+4311~1536~Coins
+4312~1537~Picnic Planning
+4313~1538~Poly-polygonal Numbers
+4314~1539~Rational Approximation
+4315~1540~Checker's Check
+4316~1541~To Bet or Not To Bet
+4317~1542~BSP Trees
+4318~1543~Telescope
+4319~1544~Simple Arithmetics
+4320~1545~The Bulk
+4321~1546~Complete the sequence!
+4322~1547~Direct Visibility
+4323~1548~The Game of Master-Mind
+4324~1549~Lattice Point
+4325~1550~Coin Exchange
+4326~1551~Cog-Wheels
+4327~1552~Interactive Permutation Guessing
+4328~1553~Buffer Manager
+4329~1554~Binary Search
+4330~1555~Garland
+4331~1556~Disk Tree
+4332~1557~Calendar Game
+4333~1558~Number Game
+4334~1559~Nim
+4335~1560~Extended Lights Out
+4336~1561~Cycle Game
+4337~1562~Balanced Chemical Equations
+4338~1563~SETI
+4339~1564~Widget Factory
+4340~1565~Stake Your Claim
+4341~1566~John
+4342~1567~A simple stone game
+4343~12620~Fibonacci Sum
+4344~12621~On a Diet
+4345~12622~Fast Fouriest Transform
+4346~12623~Choosing Presents
+4347~12624~Moon Silhouettes
+4348~12625~Shortest Gas Paths
+4349~12626~I ❤ Pizza
+4350~1568~Domino Puzzle
+4351~1569~Multiple
+4352~12627~Erratic Expansion
+4353~12628~Two Triangles in 3D
+4354~12629~Rectangle XOR Game
+4355~12630~Equilateral Triangle in a Triangle Grid
+4356~12631~Chocolate and Money
+4357~12632~Sum of Totatives
+4358~12633~Super Rooks on Chessboard
+4359~12634~Pairing Boys and Girls
+4360~12635~Bisection Method
+4361~12636~Disguised Giveaway
+4362~1570~Accelerator
+4363~1571~How I Mathematician Wonder What You Are!
+4364~1572~Self-Assembly
+4365~1573~Hey Better Bettor
+4366~1574~Surely You Congest
+4367~1575~Factors
+4368~1576~Harvard
+4369~1577~Low Power
+4370~1578~Map Tiles
+4371~1579~Matryoshka
+4372~1580~Pirate Chest
+4373~1581~Pollution Solution
+4374~1582~Up a Tree
+4375~12646~Zero or One
+4376~12647~Balloon
+4377~12648~Boss
+4378~12649~Folding Machine
+4379~12650~Dangerous Dive
+4380~12651~Triangles
+4381~12652~Lines of Containers
+4382~12653~Buses
+4383~12654~Patches
+4384~12655~Trucks
+4385~12637~30 Minutes or Less
+4386~12638~Gödel's Dream
+4387~12639~Hexagonal Puzzle
+4388~12640~Largest Sum Game
+4389~12641~Reodrnreig Lteetrs in Wrods
+4390~12642~Shuffling Cards
+4391~12643~Tennis Rounds
+4392~12644~Vocabulary
+4393~12645~Water Supply
+4394~12656~Almost Palindrome
+4395~12657~Boxes in a Line
+4396~12658~Character Recognition?
+4397~12659~Damaging Your Spreadsheet (Spreadsheet Tracking II)
+4398~12660~Ears Cutting
+4399~12661~Funny Car Racing
+4400~12662~Good Teacher
+4401~12663~High bridge low bridge
+4402~12664~Interesting Calculator
+4403~12665~Joking with Fermat's Last Theorem
+4404~12666~Killer Puzzle
+4405~12667~Last Blood
+4406~12668~Attacking rooks
+4407~12669~Blogger language
+4408~12670~Counting ones
+4409~12671~Disjoint water supply
+4410~12672~Eleven
+4411~12673~Football
+4412~12674~Go up the ultras
+4413~12675~Hide and seek
+4414~12676~Inverting Huffman
+4415~12677~Join two kingdoms
+4416~12678~Mixing Colours
+4417~12679~It Can Be Arranged
+4418~12680~Shopping Malls
+4419~12681~Decoding the Hallway
+4420~12682~Joe is learning to speak
+4421~12683~Odd and Even Zeroes
+4422~12684~VivoParc
+4423~12685~Binary Tree
+4424~12686~Trending Topic
+4425~12687~Cleaning the Hallway
+4426~12688~Spanning trees in a secure lock pattern
+4427~12689~Teaching Hazard
+4428~12690~Counting Lattice Squares
+4429~12691~Seven Segment Display
+4430~12692~Airport Sort
+4431~12693~Boxes
+4432~12694~Meeting Room Arrangement
+4433~12695~Traveling Fool
+4434~12696~Cabin Baggage
+4435~12697~Minimal Subarray Length
+4436~12698~Safari Park
+4437~12699~See Emily Play
+4438~12700~Banglawash
+4439~12701~The Twin Head Dragon
+4440~12702~Dilation
+4441~12703~Little Rakin
+4442~12704~Little Masters
+4443~12705~Breaking Board
+4444~12706~Zero-Knowledge Protocol
+4445~12707~Block Meh
+4446~12708~GCD The Largest
+4447~12709~Falling Ants
+4448~12710~Game of MJ
+4449~12711~Game of Throne
+4450~12712~Pattern Locker
+4451~12713~Pearl Chains
+4452~12714~Two Points Revisited
+4453~12715~Watching the Kangaroo
+4454~12716~GCD XOR
+4455~12717~Fiasco
+4456~12718~Dromicpalin Substrings
+4457~12719~Fill the Cuboid
+4458~1583~Digit Generator
+4459~1584~Circular Sequence
+4460~1585~Score
+4461~1586~Molar mass
+4462~1587~Box
+4463~1588~Kickdown
+4464~1589~Xiangqi
+4465~1590~IP Networks
+4466~1591~Data Mining
+4467~1592~Database
+4468~1593~Alignment of Code
+4469~1594~Ducci Sequence
+4470~1595~Symmetry
+4471~1596~Bug Hunt
+4472~1597~Searching the Web
+4473~1598~Exchange
+4474~1599~Ideal Path
+4475~1600~Patrol Robot
+4476~1601~The Morning after Halloween
+4477~1602~Lattice Animals
+4478~1603~Square Destroyer
+4479~1604~Cubic Eight-Puzzle
+4480~1605~Building for UN
+4481~1606~Amphiphilic Carbon Molecules
+4482~1607~Gates
+4483~1608~Non-boring sequences
+4484~1609~Foul Play
+4485~1610~Party Games
+4486~1611~Crane
+4487~1612~Guess
+4488~1613~K-Graph Oddity
+4489~1614~Hell on the Markets
+4490~1615~Highway
+4491~1616~Caravan Robbers
+4492~1617~Laptop
+4493~1618~Weak Key
+4494~1619~Feel Good
+4495~1620~Lazy Susan
+4496~1621~Jumping Around
+4497~1622~Robot
+4498~1623~Enter The Dragon
+4499~1624~Knots
+4500~1625~Color Length
+4501~1626~Brackets sequence
+4502~1627~Team them up!
+4503~1628~Pizza Delivery
+4504~1629~Cake slicing
+4505~1630~Folding
+4506~1631~Locker
+4507~1632~Alibaba
+4508~1633~Dyslexic Gollum
+4509~1634~The Picnic
+4510~1635~Irrelevant Elements
+4511~1636~Headshot
+4512~1637~Double Patience
+4513~1638~Pole Arrangement
+4514~1639~Candy
+4515~1640~The Counting Problem
+4516~1641~ASCII Area
+4517~1642~Magical GCD
+4518~1643~Angle and Squares
+4519~1644~Prime Gap
+4520~1645~Count
+4521~1646~Edge Case
+4522~1647~Computer Transformation
+4523~1648~Business Center
+4524~1649~Binomial coefficients
+4525~1650~Number String
+4526~1651~Binary Operation
+4527~1652~Fibonacci System
+4528~1653~Yet Another Multiple Problem
+4529~1654~Pairs of integers
+4530~1655~Exam
+4531~1656~Exponential Towers
+4532~1657~Game
+4533~1658~Admiral
+4534~1659~Help Little Laura
+4535~1660~Cable TV Network
+4536~1661~Equation
+4537~1662~Brackets Removal 
+4538~1663~Purifying Machine
+4539~1664~Conquer a New Region
+4540~1665~Islands
+4541~1666~Walk
+4542~1667~Network Mess
+4543~1668~Let's Go Green
+4544~1669~Holiday's Accommodatio
+4545~1670~Kingdom Roadmap
+4546~1671~History of Languages
+4547~1672~Disjoint Regular Expressions
+4548~1673~str2int
+4549~1674~Lightning Energy Report
+4550~1675~Kingdom Reunion
+4551~1676~GRE Words Revenge
+4552~1677~Cycling
+4553~1678~Huzita Axiom 6
+4554~1679~Easy Geometry
+4555~1680~Journey
+4556~1681~Dictionary
+4557~1682~Exclusive Access
+4558~1683~In case of failure
+4559~1684~Escape Plan
+4560~1685~Enjoyable Commutation
+4561~1686~Tiling
+4562~1687~Slicing Tree
+4563~1688~Roof
+4564~1689~International Event
+4565~1690~Find a Minor
+4566~1691~Hip To Be Square
+4567~1692~Labyrinth of the Minotaur
+4568~1693~XAR
+4569~1694~History course
+4570~1695~Escape
+4571~1696~Traveling Spiders
+4572~12720~Algorithm of Phil
+4573~12721~Cheap B-Subsequence
+4574~12722~Cryptography of the Floating Key
+4575~12723~Dudu the Possum
+4576~12724~Hnelpig Arnde
+4577~12725~Fat and Orial
+4578~12726~One Friend at a Time
+4579~12727~The Sightseeing Tour
+4580~12728~Super Circumference
+4581~12729~Squares Game
+4582~12730~Skyrk's Bar
+4584~12731~Mysterious Space Station
+4585~12732~Guess the Fake Coin
+4586~12733~Guess the Fake Coin II
+4587~12734~Guess the String
+4588~12735~Guess the Missing Number
+4589~12736~Guess the Convex Polygon
+4590~12737~Team star Team moon
+4591~12738~Explore the Dune
+4592~12739~Xmas Gift
+4593~12740~Stone Age
+4594~12741~Weights of Toys
+4595~12742~Mining in Starcraft
+4596~12743~Search For Patterns
+4597~12744~Just Some Permutations - 2
+4598~12745~Wishmaster
+4599~12746~Reconstructing the Grid
+4600~12747~Back to Edit Distance
+4601~12748~Wifi Access
+4602~12749~John's Tree
+4603~12750~Keep Rafa at Chelsea
+4604~12751~An Interesting Game
+4605~12752~Barbarian Horde
+4606~12753~Countree Song
+4607~12754~Display Problem
+4608~12755~Easy Puzzle
+4609~12756~Flat Triangle
+4610~12757~Gotham’s Rail Track
+4611~12758~Help Gollum
+4612~12759~Increasingly Strict Sequence
+4613~12760~Arcurve's Big Project
+4614~12761~Blue Chips
+4615~12762~Counting P-Hulls
+4616~12763~Dicey Dice
+4617~12764~Exercising Emoticons
+4618~12765~Factorial Products
+4619~12766~Grinding Grid
+4620~12767~Harvesting Crops
+4621~12768~Inspired Procrastination
+4622~12769~Kool Konstructions
+4623~12770~Palinagram
+4624~12771~Meeting Point of Circles
+4625~12772~Dynamic accessible Pairs
+4626~12773~Gauss Reborn
+4627~12774~Game of Throne Season 2
+4628~12775~Gift Dilemma
+4629~12776~Query for Divisor-free Numbers
+4630~12777~Palindromic Sums
+4631~12778~Minimum Sum
+4632~12779~The Largest Circle
+4633~12780~Kiano The Clause!
+4634~1697~Baggage
+4635~1698~Buffed Buffet
+4636~1699~Crane Balancing
+4637~1700~Game Strategy
+4638~1701~Maze Reduction
+4639~1702~Messenger
+4640~1703~Metal Processing Plant
+4641~1704~Pachinko
+4642~1705~Sensor Network
+4643~1706~Skiing
+4644~1707~Surveillance
+4645~1708~Wire Crossing
+4646~12781~Alternation Formulae
+4647~12782~Magic Squares
+4648~12783~Weak Links
+4649~12784~Don't Care
+4650~12785~Emacs Plugin
+4651~12786~Friendship Networks
+4652~12787~Looking-Glass House
+4653~12788~Smooth Factor
+4654~12789~Space Invaders
+4655~12790~The "Win-stay and Lose-shift" Strategy
+4656~12791~Lap
+4657~12792~Shuffled Deck
+4658~12793~Confederation
+4659~12794~Miss Worm
+4660~12795~Ecology
+4661~12796~Teletransport
+4662~12797~Letters
+4663~12798~Handball
+4664~12799~RSA
+4665~12800~Cut
+4666~12801~Grandpa Pepe's Pizza
+4667~12802~Gift From the Gods
+4668~12803~Arithmetic Expressions
+4669~12804~The Necronomicon of Computing
+4670~12805~Raiders of the Lost Sign
+4671~12806~Grand Tichu!
+4672~12807~GPS
+4673~12808~Banning Balconing
+4674~12809~Binary Search Tree
+4675~12810~Sumthing
+4676~12811~The Turtle's Journey
+4677~12812~The Largest Diamond-Shaped Kite
+4678~12813~Mocking the Precision
+4679~12814~Greedy's Pizza
+4680~12815~Taking the Stairs
+4681~12816~Isosceles Triangles
+4682~12817~Sleight of Hand
+4683~12818~Arc and Point
+4684~12819~Block Toy
+4685~12820~Cool Word
+4686~12821~Double Shortest Paths
+4687~12822~Extraordinarily large LED
+4688~12823~Four coloring of a map
+4689~12824~Giving directions to the tree
+4690~12825~Happy Robot
+4691~12826~Incomplete Chessboard
+4692~12827~Just another pachinko-like machine
+4693~12828~Kick the ball!
+4694~12829~Just another pachinko-like machine (II)
+4695~12830~A Football Stadium
+4696~12831~Bob the Builder
+4697~12832~Chicken Lover
+4698~12833~Daily Potato
+4699~12834~Extreme Terror
+4700~12835~Fitting Pipes Again
+4701~12836~Gain Battle Power
+4702~12837~Hasmot Ali Professor
+4703~12838~Identity Redemption
+4704~12839~Judge in Queue
+4705~12840~The Archery Puzzle
+4706~12841~In Puzzleland (III)
+4707~12842~The Courier Problem
+4708~12843~Disputed Claims
+4709~12844~Outwitting the Weighing Machine
+4710~12845~The Jolly Friar's Puzzle
+4711~12846~A Daisy Puzzle Game
+4712~12847~Who Will Get the Nomination?
+4713~12848~In Puzzleland (IV)
+4714~12849~Mother's Jam Puzzle
+4715~12850~Skating Puzzle
+4716~12851~The Tinker's Puzzle
+4717~12852~The Miser's Puzzle
+4718~12853~The Pony Cart Problem
+4719~12854~Automated Checking Machine
+4720~12855~Black and white stones
+4721~12856~Counting substhreengs
+4722~12857~Dividing the names
+4723~12858~Even distribution
+4724~12859~Fence the vegetables
+4725~12860~Galaxy collision
+4726~12861~Help cupid
+4727~12862~Intrepid climber
+4728~12863~Journey through the kingdom
+4729~12864~Knights of the Round Table
+4730~12865~Volume Control
+4731~12866~Combination
+4732~12867~Mesh Cutter
+4733~12868~Location
+4734~12869~Zeroes
+4735~12870~Fishing
+4736~12871~Landmine Cleaner
+4737~12872~Hidden Plus Signs
+4738~12873~The Programmers
+4739~12874~Blanket
+4740~12875~Concert Tour
+4741~12876~City
+4742~12877~GREAT + SWERC = PORTO
+4743~12878~Flowery Trails
+4744~12879~Golf Bot
+4745~12880~Book Club
+4746~12881~Ricochet Robots
+4747~12882~City Park
+4748~12883~Playing with Geometry
+4749~12884~Money Transfers
+4750~12885~The Safe Secret
+4751~12886~The Big Painting
+4752~12887~The Soldier's Dilemma
+4753~12888~Count LCM
+4754~12889~Happy Birthday Tutu
+4755~12890~Easy Peasy
+4756~12891~Risk of Trading
+4757~12892~Light Combat Aircraft
+4758~12893~Count It
+4759~12894~Perfect Flag
+4760~12895~Armstrong Number
+4761~12896~Mobile SMS
+4762~12897~Decoding Baby Boos
+4763~12898~And Or
+4764~12899~A game for kids
+4765~12900~Flood in Gridland
+4766~12901~Refraction
+4767~12902~Reverse Polish Notation
+4768~12903~Just Some Permutations
+4769~12904~Load Balancing
+4770~12905~Volume of Revolution
+4771~12906~Maximum Score
+4772~12907~Toby the adventurer
+4773~12908~The book thief
+4774~12909~Numeric Center
+4775~12910~Snakes and Ladders
+4776~12911~Subset sum
+4777~12912~Josephus lottery
+4778~12913~Grounded
+4779~12914~Sum of all permutations
+4780~12915~TripleCorn
+4782~1709~Amalgamated Artichokes
+4783~1710~Asteroids
+4784~1711~Catering
+4785~1712~Cutting Cheese
+4786~1713~Evolution in Parallel
+4787~1714~Keyboarding
+4788~1715~Pipe Stream
+4789~1716~Qanat
+4790~1717~Ship Traffic
+4791~1718~Tile Cutting
+4792~1719~Tours
+4793~1720~Weather Report
+4794~1721~Window Manager
+4795~12916~Perfect Cyclic String
+4796~12917~Prop hunt!
+4797~12918~Lucky Thief
+4798~12919~Making some holes
+4799~12920~Patty's Gift
+4800~12921~Triple shot
+4801~12922~Crossing the river
+4802~12923~The Island
+4803~12924~Immortal Rabbits
+4804~12925~Race against the clock
+4805~12926~Trouble in Terrorist Town
+4806~12927~Points Cover
+4807~12928~Death Star
+4808~12929~Aerial Tramway
+4809~12930~Bigger or Smaller
+4810~12931~Common Area
+4811~12932~Defeat the Wrong Program
+4812~12933~Easy Graph Problem?
+4813~12934~Factorial Division
+4814~12935~Graph Guessing
+4815~12936~Hehe
+4816~12937~Internet of Lights and Switches
+4817~12938~Just Another Easy Problem
+4818~12939~Keep Fit!
+4819~12940~Next Palindromic Numbers
+4820~12941~A Subway for Boroughgraph
+4821~12942~Sub-expression Counting
+4822~12943~Designing an Electronic Device
+4823~12944~Earthquake Disaster
+4824~12945~Farmer Jane
+4825~12946~Peanoland contacting Gaussland
+4826~12947~Texting with Grandma
+4827~12948~Interstellar Travel
+4828~12949~Voting Duels
+4829~12950~Even Obsession
+4830~12951~Stock Market
+4831~12952~Tri-du
+4832~12953~Puzzle
+4833~12954~Spiral
+4834~12955~Factorial
+4835~12956~Curious Guardians
+4836~12957~Rectangle Park
+4837~12958~Ominobox
+4838~12959~Strategy Game
+4839~12960~Palindrome
+4840~12961~Lottery
+4841~12962~Average Reuse Distance
+4842~12963~Astragalus Nitidiflorus
+4843~12964~The Cup Turning Machine
+4844~12965~Angry Bids
+4845~12966~Bishop's walk
+4846~12967~Spray Graphs
+4847~12968~EuroBasket Champions
+4848~12969~Foes of Friends
+4849~12970~Alcoholic Pilots
+4850~12971~Bargaining
+4851~12972~Cuban Challenge
+4852~12973~Drinking Game
+4853~12974~Exquisite Strings
+4854~12975~File Transmission
+4855~12976~Greedy Artisan
+4856~12977~Heavy Luggage
+4857~12978~Incredulous Ed
+4858~12979~Jair vs Chadan
+4859~12980~Keypad Problem
+4860~1722~Family
+4861~1723~Intervals
+4862~1724~Solitaire
+4863~1725~Timetable
+4864~12981~Secret Master Plan
+4865~12982~Build Towers
+4866~12983~The Battle of Chibi
+4867~12984~Pick The Sticks
+4868~12985~Ba Gua Zhen
+4869~12986~The Battle of Guandu
+4870~12987~Ancient Go
+4871~12988~Sudoku
+4872~12989~Mahjong
+4873~12990~Walk Around The Campsite
+4874~12991~Game Rooms
+4875~12992~Huatuo's Medicine
+4876~12993~Morphing Bitmaps
+4877~12994~Palindromic Bases
+4878~12995~Farey Sequence
+4879~12996~Ultimate Mango Challenge
+4880~12997~Train Station
+4881~12998~Tree Weights
+4882~12999~Defense Plan
+4888~13000~VIP Treatment
+4889~13001~Jumping Frogs
+4890~13002~Just Some Permutation 5
+4891~13003~Toll Management (III)
+4892~13004~At most twice
+4893~13005~Blood groups
+4894~13006~Cake cut
+4895~13007~D as in Daedalus
+4896~13008~Exposing corruption
+4897~13009~Fence the vegetables fail
+4898~13010~Galactic taxes
+4899~13011~Height map
+4900~13012~Identifying tea
+4901~13013~Just a bit sorted
+4902~13014~Keep it energized
+4903~13015~Promotions
+4904~13016~Black Vienna
+4905~13017~Canvas Painting
+4906~13018~Dice Cup
+4907~13019~Wooden Signs
+4908~13020~Landscaping
+4909~13021~Game of Cards
+4910~13022~Sheldon Numbers
+4911~13023~Text Processor
+4912~13024~Saint John Festival
+4913~13025~Back to the Past
+4914~13026~Search the Khoj
+4915~13027~Moroccan Wooden Box
+4916~13028~XOR Subset
+4917~13029~Emoticons
+4918~13030~Brain Fry
+4919~13031~Geek Power Inc.
+4920~13032~Marbles in Jars
+4921~13033~Jumping Frogs II
+4922~1726~Automatic Cheater Detection
+4923~1727~Counting Weekend Days
+4924~1728~Toll Management IV
+4925~1729~Owllen
+4926~1730~Sum of MSLCM
+4927~1731~Unique Party
+4928~1732~Honey King
+4929~1733~Design New Capital
+4930~1734~Numbered Cards
+4931~1735~The Hypnotic Spirals
+4932~13034~Solve Everything :-)
+4933~13035~Another Combination Problem
+4934~13036~Birthday Gift to SJ - 2
+4935~13037~Chocolate
+4936~13038~Directed Forest
+4937~13039~Fibonacci Triangle
+4938~13040~Flyovers of Khakha
+4939~13041~Fraction and Sequence
+4940~13042~Ikroch
+4941~13043~Marbles
+4942~13044~Robot Hands
+4943~13045~Drawing Polygon
+4944~13046~Bus Collisions
+4945~13047~Arrows
+4946~13048~Burger Stand
+4947~13049~Combination Lock
+4948~13050~Discovering Paths
+4949~13051~Enchanted Forest
+4950~13052~Fisa Flood
+4951~13053~Gift Box
+4952~13054~Hippo Circus
+4953~13055~Inception
+4954~13056~Jerry's Game
+4955~13057~Prove Them All
+4956~13058~Baking Cakes with Grandma
+4957~13059~Tennis Championship
+4958~13060~Euler Diagrams
+4959~13061~Going Shopping with Grandma (I)
+4960~13062~Going Shopping with Grandma (II)
+4961~13063~Trading Card Game
+4962~13064~Harvest Moon
+4963~13065~Accelleratii Incredibus
+4964~13066~Ant-Man's Sugar Journey
+4965~13067~Prime Kebab Menu
+4966~13068~The Weakest Link
+4967~13069~The calculator machine
+4968~13070~Palm trees in the snow
+4969~13071~Double decker
+4970~13072~Duckindromes
+4971~13073~The Count of the Rose
+4972~13074~Fixed-point theorem
+4973~13075~Ice-cream cones
+4974~13076~The traveller squirrel
+4975~13077~The merchant's riddle
+4976~13078~Feeding chicks
+4977~13079~On the beach!
+4978~13080~Piano keyboard
+4979~13081~XOR Sequence Revisited
+4980~13082~High School Assembly
+4981~13083~Yet another GCDSUM
+4982~13084~Cameras as Invigilators
+4983~13085~Forming Teams
+4984~13086~Pirates of the Mega Ocean
+4985~13087~Virus RNA
+4986~13088~Lexicographically Smallest FPIS
+4987~13089~Golden Coins
+4988~13090~Base of MJ
+4989~13091~No Ball
+4990~13092~Fold the String
+4991~13093~Acronyms
+4992~13094~Tobby Bones
+4993~13095~Tobby and Query
+4994~13096~Standard Deviation
+4995~13097~Tobby and the LED display
+4996~13098~Triangular Test II
+4997~13099~Tobby and the line game
+4998~13100~Painting the Wall
+4999~13101~Tobby on Tree
+5000~13102~Tobby Stones
+5001~13103~Tobby and Seven
+5002~13104~Tobby and Prime Sum
+5003~1736~Balanced Diet
+5004~1737~Branch Assignment
+5005~1738~Ceiling Function
+5006~1739~Clock Breaking
+5007~1740~Forever Young
+5008~1741~Longest Rivers
+5009~1742~Oil
+5010~1743~Polygonal Puzzle
+5011~1744~Road Times
+5012~1745~Spin Doctor
+5013~1746~String Theory
+5014~1747~Swap Space
+5015~1748~What Really Happened on Mars?
+5016~13105~Alliances in Hogwarts
+5017~13106~Vogons
+5018~13107~Royale With Cheese
+5019~13108~Juanma and the Drinking Fountains
+5020~13109~Elephants
+5021~13110~Funny day in Playland
+5022~13111~The price is correct
+5023~13112~Are you ok?
+5024~13113~Presidential Election
+5025~13114~Josephus lottery II
+5026~13115~Sudoku
+5027~13116~Multistory Labyrinth
+5028~13117~ACIS A Contagious vIruS
+5029~13118~Binary Land
+5030~13119~Castaways
+5031~13120~Radiation Alert in Rabbitland
+5032~13121~Eclipsing Gianik Star
+5033~13122~Funny Cardiologist
+5034~13123~Christmas Lights
+5035~13124~socialhare
+5036~13125~Water troubles
+5037~13126~Wildcards
+5038~13127~Bank Robbery
+5039~13128~Tangamandapio
+5040~13129~Subsets
+5041~13130~Cacho
+5042~13131~Divisors
+5043~13132~Laser Mirrors
+5044~13133~ConcatFibos
+5045~13134~Generate Sort and Search
+5046~13135~Homework
+5047~13136~Recurrences
+5048~13137~Progressions
+5049~13138~Kites
+5050~13139~Lucas Numbers
+5051~13140~Squares Lists and Digital Sums
+5052~13141~Growing Trees
+5053~13142~Destroy the Moon to Save the Earth
+5054~13143~Dijkstractions
+5055~13144~Go Boards
+5056~13145~Wuymul Wixcha
+5057~13146~Edid Tistance
+5058~13147~Travel Planning
+5059~13159~Within Arm's Reach
+5060~13160~Bribing Eve
+5061~13161~Candle Box
+5062~13162~Dinner Bet
+5063~13163~Passwords
+5064~13164~Performance Review
+5065~13165~Cairo Corridor
+5066~13166~Pascal's Hyper-Pyramids
+5067~13167~The White Rabbit Pocket Watch
+5068~13168~Risky Lottery
+5069~13169~Balls and Needles
+5070~13148~A Giveaway
+5071~13149~Game of XOR
+5072~13150~National Bomb Defusing Squad
+5073~13151~Rational Grading
+5074~13152~Balanced String
+5075~13153~Number of Connected Components
+5076~13154~Extreme XOR Sum
+5077~13155~Harmonic Matrix
+5078~13156~In the Kingdom of Hirak
+5079~13157~Prime Distance
+5080~13158~8-ball Rack
+5081~13170~Verbal arithmetic
+5082~13171~Pixel Art
+5083~13172~The music teacher
+5084~13173~Secret Santa
+5085~13174~The entertainment of machines
+5086~13175~Children to the top
+5087~13176~Chocolate with almonds
+5088~13177~Orchestral scores
+5089~13178~Is it multiple of 3?
+5090~13179~Smarter than hunger
+5091~13180~The countess’ pearls
+5092~13181~Sleeping in hostels
