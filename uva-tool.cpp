@@ -6,7 +6,7 @@
  * LINK: https://github.com/AHJenin/uva-tool
  *
  * DATE CREATED: 29 Feb 2017
- * LAST MODIFIED: 19-10-17 00:33:45 (+06)
+ * LAST MODIFIED: 19-10-17 01:35:51 (+06)
  *
  * DESCRIPTION:
  *
@@ -59,6 +59,7 @@
 #include <string>
 #include <array>
 #include "include/json.hpp"
+#include <unistd.h> // getlogin()
 
 using namespace std;
 using json = nlohmann::json;
@@ -100,9 +101,10 @@ typedef vector<int>         vi;
 #define MAX             10000005
 
 #ifdef __linux__
+const string szHome = getlogin();
 const string pid_num_cvs = "/usr/share/uva-tool/pid-to-num.cvs";
 const string cookie_file =
-    "/usr/share/uva-tool/uva.onlinejudge.org_cookie.txt";
+    "/home/" + szHome + "/.cache/uva-tool/uva.onlinejudge.org_cookie.txt";
 //const string err = " 2> ~/.uva-tool/err.log";
 const string err = " 2> /dev/null";
 const string curlfunc = "curl";
@@ -354,7 +356,7 @@ private:
 
 public:
     bool logout() {
-        string cmd = "sudo rm " + cookie_jar + " 2>&1";
+        string cmd = "rm " + cookie_jar + " 2>&1";
         string str = system_exec(cmd.c_str());
         if (str == "") return true;
         return false;
@@ -366,7 +368,7 @@ public:
             cout << "Can not connect to www.uva.onlinejudge.org\n";
             return false;
         }
-        string cmd = "sudo " + curlfunc + " -X POST -f -L -s --compressed ";
+        string cmd = curlfunc + " -X POST -f -L -s --compressed ";
         cmd += "--cookie-jar " + cookie_jar + " --data \"";
         cmd += data;
         cmd += "\" \"https://uva.onlinejudge.org/index.php\
@@ -380,7 +382,7 @@ public:
     }
 
     void problem_submit(string pnumber, string ppath, string plang) {
-        string cmd = "sudo " + curlfunc + \
+        string cmd = curlfunc + \
                      " -X POST -f -L -s -w '%{url_effective}' " \
                      "--compressed --cookie " \
                      + cookie_jar + " --cookie-jar " + cookie_jar + \
