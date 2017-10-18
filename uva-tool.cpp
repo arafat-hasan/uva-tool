@@ -6,7 +6,7 @@
  * LINK: https://github.com/AHJenin/uva-tool
  *
  * DATE CREATED: 29 Feb 2017
- * LAST MODIFIED: 05-10-17 15:14:37 (+06)
+ * LAST MODIFIED: 19-10-17 00:20:49 (+06)
  *
  * DESCRIPTION:
  *
@@ -99,6 +99,17 @@ typedef vector<int>         vi;
 #define EPS             1e-7
 #define MAX             10000005
 
+#ifdef __linux__
+const string pid_num_cvs = "/usr/share/uva-tool/pid-to-num.cvs";
+const string cookie_file =
+    "/usr/share/uva-tool/uva.onlinejudge.org_cookie.txt";
+//const string err = " 2> ~/.uva-tool/err.log";
+const string err = " 2> /dev/null";
+const string curlfunc = "curl";
+#elif __WIN32__
+// win
+#endif
+
 ////////////////////////// START HERE //////////////////////////
 
 string system_exec(const char *cmd) {
@@ -138,11 +149,10 @@ private:
 
 public:
     Problem() {
-        ifstream fp("/home/jenin/.uva-tool/pid-to-num.cvs");
+        ifstream fp(pid_num_cvs);
 
         if (!fp) {
-            cerr << "Unable to open file : /home/jenin/.uva-tool/" << \
-                 "pid-to-num.cvs\n";
+            cerr << "Unable to open file : " << pid_num_cvs << "\n";
             throw 1;
         }
 
@@ -279,8 +289,8 @@ public:
 void hunt(string name, string range) {
     string cmd, uid, subs_usr_last, tmp;
     Problem problem;
-    cmd = "curl http://uhunt.onlinejudge.org/api/uname2uid/" + \
-          name + " 2> ~/.uva-tool/err.log";
+    cmd = curlfunc + " http://uhunt.onlinejudge.org/api/uname2uid/" + \
+          name + err;
     uid = system_exec(cmd.c_str());
     if (uid == "") {
         cerr << "Unable to connect or curl executing error\n";
@@ -288,8 +298,8 @@ void hunt(string name, string range) {
     }
 
     cmd.clear();
-    cmd = "curl http://uhunt.onlinejudge.org/api/subs-user-last/" + \
-          uid + "/" + range + " 2> ~/.uva-tool/err.log";
+    cmd = curlfunc + " http://uhunt.onlinejudge.org/api/subs-user-last/" + \
+          uid + "/" + range + err;
     subs_usr_last = system_exec(cmd.c_str());
     Submission usr_last_subs(subs_usr_last);
     usr_last_subs.show(problem);
@@ -297,11 +307,11 @@ void hunt(string name, string range) {
 
 class submit {
 private:
-    string cookie_jar = "~/.uva-tool/uva.onlinejudge.org_cookie.txt";
+    string cookie_jar = cookie_file;
     string submitlink = "https://uva.onlinejudge.org/index.php\
 ?option=com_onlinejudge&Itemid=25&page=save_submission";
     string formdata() {
-        string cmd = "curl -f -L -s http://uva.onlinejudge.org |";
+        string cmd = curlfunc + " -f -L -s http://uva.onlinejudge.org |";
         cmd += " grep -B8 'id=\"mod_login_remember\"' | awk '{print $3 \" \" $4}'";
         string str = system_exec(cmd.c_str());
         if (str == "") return str;
@@ -336,7 +346,7 @@ private:
         cin >> pass;
         cout << "Remember? [y/n] ";
         cin >> remember;
-        remember = (remember == "y" ? "yes" : "no");
+        remember = (remember == "y" or remember == "Y" ? "yes" : "no");
         string usrpass = "username=" + usr + "&passwd=" + pass + \
                          "&remember=" + remember + "&";
         return usrpass + str;
@@ -344,7 +354,7 @@ private:
 
 public:
     bool logout() {
-        string cmd = "rm " + cookie_jar + " 2>&1";
+        string cmd = "sudo rm " + cookie_jar + " 2>&1";
         string str = system_exec(cmd.c_str());
         if (str == "") return true;
         return false;
@@ -356,7 +366,7 @@ public:
             cout << "Can not connect to www.uva.onlinejudge.org\n";
             return false;
         }
-        string cmd = "curl -X POST -f -L -s --compressed ";
+        string cmd = "sudo " + curlfunc + " -X POST -f -L -s --compressed ";
         cmd += "--cookie-jar " + cookie_jar + " --data \"";
         cmd += data;
         cmd += "\" \"https://uva.onlinejudge.org/index.php\
@@ -370,12 +380,12 @@ public:
     }
 
     void problem_submit(string pnumber, string ppath, string plang) {
-        string cmd =
-            "curl -X POST -f -L -s -w '%{url_effective}' " \
-            "--compressed --cookie " \
-            + cookie_jar + " --cookie-jar " + cookie_jar + \
-            " --form localid=" + pnumber + " --form language=" + plang + \
-            " --form \"codeupl=@" + ppath + "\" \"" + submitlink + "\"";
+        string cmd = "sudo " + curlfunc + \
+                     " -X POST -f -L -s -w '%{url_effective}' " \
+                     "--compressed --cookie " \
+                     + cookie_jar + " --cookie-jar " + cookie_jar + \
+                     " --form localid=" + pnumber + " --form language=" + plang + \
+                     " --form \"codeupl=@" + ppath + "\" \"" + submitlink + "\"";
         string str = system_exec(cmd.c_str());
         size_t notlogin = str.find("You are not authorised to view this resource");
         size_t subid = str.find("mosmsg=Submission+received+with+ID+");
