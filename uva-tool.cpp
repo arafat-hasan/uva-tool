@@ -6,7 +6,7 @@
  * LINK: https://github.com/AHJenin/uva-tool
  *
  * DATE CREATED: 29 Feb 2017
- * LAST MODIFIED: 19-10-17 01:35:51 (+06)
+ * LAST MODIFIED: 29-10-17 20:10:58 (+06)
  *
  * DESCRIPTION:
  *
@@ -48,7 +48,7 @@ const string curlfunc = "curl";
 // win
 #endif
 
-////////////////////////// START HERE //////////////////////////
+
 
 string system_exec(const char *cmd) {
     char buffer[128];

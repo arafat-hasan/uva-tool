@@ -23,7 +23,7 @@ Run corresponding commands
 - **Logout:** `uva-tool -logout`
 - **Hunt:** `uva-tool -hunt -u felix_halim -r 10`  
 This will show last 10 submissions of user `felix_halim`
-- **Submit:** Sysntax `uva-tool -submit problem_number problem_path language`  
+- **Submit:** Syntax `uva-tool -submit problem_number problem_path language`  
 Example `uva-tool -submit 100 ~/Desktop/100.cpp 5`  
 This will submit `100.cpp` named file from Desktop directory in C++11 (5 for C++11) language with problem number 100.
 
