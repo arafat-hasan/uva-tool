@@ -22,7 +22,7 @@ General installation process is only available for Linux operating system, Windo
 `git clone https://github.com/AHJenin/uva-tool.git`
 - **Install uva-tool:** In the downloaded folder `uva-tool`, look for `install.sh` file and execute it (C++ compiler needed here, GNU g++ used in testing).  
 `chmod +x install.sh`  
-`./install.sh`
+`./install.sh username`    # Here username is login name in your System
 
 
 
@@ -62,7 +62,8 @@ map <leader>uvo :!uva-tool -logout
 
 ## Integrate with Geany
 
-Copy `geany_uva-tool_run_script.sh` file to `/home/$USER/.config/geany/uva-tool` directory or anywhere else.
+Copy `geany_uva-tool_run_script.sh` file to `/home/$USER/.config/geany/uva-tool` directory or anywhere else.  
+Run command `chmod +x geany_uva-tool_run_script.sh`
 
 Now in geany (open a file i.e a **cpp** file first), go to *Build -> Set Build Commands*, a window opens. In *Execute commands* section at no 2, set this Command, Working directory and Label  
 **Command:** `./geany_uva-tool_run_script.sh  "%f"  "%d"`  
