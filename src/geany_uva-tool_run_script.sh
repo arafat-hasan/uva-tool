@@ -51,30 +51,18 @@ do
 		cd "${2}"
         pathlen=${#1}
         i=$(( pathlen - 1 ))
-
-        while [ $i -gt 0 ];
-        do
-            if [ ${1:i:1} == "." ]
-            then
-                break;
-            fi
-            i=$(( i - 1 ))
-        done
-
         re='^[0-9]+$'
-        i=$(( i - 1 ))
         pnumr=""
 
-        while [ $i -gt 0 ]
+        while [ $i -gt -1 ]
         do  
             tmp=${1:i:1}
-            if ! [[ $tmp =~ $re ]]; then
-            break
+            if [[ $tmp =~ $re ]]; then
+				pnumr="$pnumr$tmp"
             fi
-            pnumr="$pnumr$tmp"
             i=$(( i - 1 ))
         done
-        
+
         copy=${pnumr}
         len=${#copy}
         for((i=$len-1;i>=0;i--)); do 

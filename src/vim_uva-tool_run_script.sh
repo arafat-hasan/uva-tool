@@ -35,31 +35,17 @@
 
 #########################################################################
 
-
 pathlen=${#1}
 i=$(( pathlen - 1 ))
-
-while [ $i -gt 0 ];
-do
-    if [ ${1:i:1} == "." ]
-    then
-        break;
-    fi
-    i=$(( i - 1 ))
-done
-
 re='^[0-9]+$'
-i=$(( i - 1 ))
 pnumr=""
 
-while [ $i -gt 0 ]
+while [ $i -gt -1 ]
 do  
     tmp=${1:i:1}
-    if ! [[ $tmp =~ $re ]]; then
-       break
+    if  [[ $tmp =~ $re ]]; then
+       pnumr="$pnumr$tmp"
     fi
-    #echo $pnum
-    pnumr="$pnumr$tmp"
     i=$(( i - 1 ))
 done
 
@@ -87,6 +73,7 @@ if [ "$lan" == "" ]
 then
    lan=5
 fi
+
 echo
 
 uva-tool -submit $pnum "$1" $lan
