@@ -22,7 +22,7 @@ General installation process is only available for Linux operating system, Windo
 `git clone https://github.com/AHJenin/uva-tool.git`
 - **Install uva-tool:** In the downloaded folder `uva-tool`, look for `install.sh` file and execute it (C++ compiler needed here, GNU g++ used in testing).  
 `chmod +x install.sh`  
-`./install.sh username`    # Here username is login name in your System
+`./install.sh username    # Here username is login name in your System`
 
 
 
