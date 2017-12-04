@@ -26,6 +26,8 @@ General installation process is only available for Linux operating system, Windo
 
 
 
+
+
 ## Usage Example
 Run corresponding commands
 
@@ -41,7 +43,8 @@ This will submit `100.cpp` named file from Desktop directory in C++11 (5 for C++
 > Language codes *1 for ANSI, 2 for JAVA, 3 for C++, 4 for Pascal, 5 for C++11, 6 for Python*.
 
 
-##Integrate with VIM
+
+## Integrate with VIM
 Copy `vim_uva-tool_run_script.sh` file to your .vim directory and add this lines to .vimrc file
 ```
 map <leader>uvw :!clear && uva-tool -hunt -u arafat_hasan -r 10
@@ -57,14 +60,16 @@ Keyboard mappings
 `\uvo` to logout
 
 
-##Integrate with Geany
+
+
+## Integrate with Geany
 
 Copy `geany_uva-tool_run_script.sh` file to `/home/$USER/.config/geany/uva-tool` directory or anywhere else.
 
 Now in geany (open a file i.e a **cpp** file first), go to *Build -> Set Build Commands*, a window opens. In *Execute commands* section at no 2, set this Command, Working directory and Label 
-**Command:** `./geany_uva-tool_run_script.sh  "%f"  "%d"`
-**Working directory:** `/home/$USER/.config/geany/uva-tool`
-**Label:** `uva-tool`
+**Command:** `./geany_uva-tool_run_script.sh  "%f"  "%d"`  
+**Working directory:** `/home/$USER/.config/geany/uva-tool`  
+**Label:** `uva-tool`  
 
 
 Now all set.
