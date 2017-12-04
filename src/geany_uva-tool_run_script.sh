@@ -35,6 +35,7 @@
 
 #########################################################################
 
+
 while true
 do
     echo "1# Submit"
@@ -47,7 +48,7 @@ do
     read var
 	
     if [ "$var" == "1" ]; then
-		cd $2
+		cd "${2}"
         pathlen=${#1}
         i=$(( pathlen - 1 ))
 
@@ -103,6 +104,7 @@ do
         uva-tool -submit $pnum "$1" $lan
         
     elif [ "$var" == "2" ]; then
+		cd /home/$USER/.config/geany/uva-tool
         usr=`cat usr`
         rng=`cat rng`
         echo "Enter username (default '$usr')"
