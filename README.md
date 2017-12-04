@@ -41,11 +41,43 @@ This will submit `100.cpp` named file from Desktop directory in C++11 (5 for C++
 > Language codes *1 for ANSI, 2 for JAVA, 3 for C++, 4 for Pascal, 5 for C++11, 6 for Python*.
 
 
+##Integrate with VIM
+Copy `vim_uva-tool_run_script.sh` file to your .vim directory and add this lines to .vimrc file
+```
+map <leader>uvw :!clear && uva-tool -hunt -u arafat_hasan -r 10
+map <leader>uvs :!clear && ~/.vim/uva-tool-run-script.sh '%:p'<CR>
+map <leader>uvi :!uva-tool -login
+map <leader>uvo :!uva-tool -logout
+```
+
+Keyboard mappings
+`\uvs` to submit
+`\uvw` to hunt
+`\uvi` to login
+`\uvo` to logout
+
+
+##Integrate with Geany
+
+Copy `geany_uva-tool_run_script.sh` file to `/home/$USER/.config/geany/uva-tool` directory or anywhere else.
+
+Now in geany (open a file i.e a **cpp** file first), go to *Build -> Set Build Commands*, a window opens. In *Execute commands* section at no 2, set this Command, Working directory and Label 
+**Command:** `./geany_uva-tool_run_script.sh  "%f"  "%d"`
+**Working directory:** `/home/$USER/.config/geany/uva-tool`
+**Label:** `uva-tool`
+
+
+Now all set.
+Click on *Build -> uva-tool* for submitting, huntting etc.
+
+It's not a good idea to run a script in command execution section of geany for running uva-tool instead of writing a geany plugin, but a easy good hack. And I have no plan to write a geany plugin for that in future. Anyone who interested, warmly welcomed with MIT licenses.
+
+
 
 ## To Do
 
 - Bring Windows version
 - Show user statistics in hunting
-- Use a c++ networking library instead of cURL
+- Use a C++ networking library instead of cURL
 - Make command line options more dynamic
 
