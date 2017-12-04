@@ -62,8 +62,7 @@ map <leader>uvo :!uva-tool -logout
 
 ## Integrate with Geany
 
-Copy `geany_uva-tool_run_script.sh` file to `/home/$USER/.config/geany/uva-tool` directory or anywhere else.  
-Run command `chmod +x geany_uva-tool_run_script.sh`
+Copy `geany_uva-tool_run_script.sh` file to `/home/$USER/.config/geany/uva-tool` directory and run command `chmod +x geany_uva-tool_run_script.sh`.
 
 Now in geany (open a file i.e a **cpp** file first), go to *Build -> Set Build Commands*, a window opens. In *Execute commands* section at no 2, set this Command, Working directory and Label  
 **Command:** `./geany_uva-tool_run_script.sh  '%f'  '%d'`  
