@@ -26,8 +26,6 @@ General installation process is only available for Linux operating system, Windo
 
 
 
-
-
 ## Usage Example
 Run corresponding commands
 
@@ -53,11 +51,11 @@ map <leader>uvi :!uva-tool -login
 map <leader>uvo :!uva-tool -logout
 ```
 
-Keyboard mappings
-`\uvs` to submit
-`\uvw` to hunt
-`\uvi` to login
-`\uvo` to logout
+Keyboard mappings  
+`\uvs` to submit  
+`\uvw` to hunt  
+`\uvi` to login 
+`\uvo` to logout  
 
 
 
@@ -66,14 +64,14 @@ Keyboard mappings
 
 Copy `geany_uva-tool_run_script.sh` file to `/home/$USER/.config/geany/uva-tool` directory or anywhere else.
 
-Now in geany (open a file i.e a **cpp** file first), go to *Build -> Set Build Commands*, a window opens. In *Execute commands* section at no 2, set this Command, Working directory and Label 
+Now in geany (open a file i.e a **cpp** file first), go to *Build -> Set Build Commands*, a window opens. In *Execute commands* section at no 2, set this Command, Working directory and Label  
 **Command:** `./geany_uva-tool_run_script.sh  "%f"  "%d"`  
 **Working directory:** `/home/$USER/.config/geany/uva-tool`  
 **Label:** `uva-tool`  
 
 
-Now all set.
-Click on *Build -> uva-tool* for submitting, huntting etc.
+Now all set.  
+Click on *Build -> uva-tool* for submitting, huntting etc.  
 
 It's not a good idea to run a script in command execution section of geany for running uva-tool instead of writing a geany plugin, but a easy good hack. And I have no plan to write a geany plugin for that in future. Anyone who interested, warmly welcomed with MIT licenses.
 
