@@ -45,7 +45,7 @@ This will submit `100.cpp` named file from Desktop directory in C++11 (5 for C++
 ## Integrate with VIM
 Copy `vim_uva-tool_run_script.sh` file to your .vim directory and add this lines to .vimrc file
 ```
-map <leader>uvw :!clear && uva-tool -hunt -u arafat_hasan -r 10
+map <leader>uvw :!clear && uva-tool -hunt -u felix_halim -r 10
 map <leader>uvs :!clear && ~/.vim/uva-tool-run-script.sh '%:p'<CR>
 map <leader>uvi :!uva-tool -login
 map <leader>uvo :!uva-tool -logout
