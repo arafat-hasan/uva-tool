@@ -51,10 +51,10 @@ map <leader>uvi :!uva-tool -login
 map <leader>uvo :!uva-tool -logout
 ```
 
-Keyboard mappings  
+**Keyboard mappings**  
 `\uvs` to submit  
 `\uvw` to hunt  
-`\uvi` to login 
+`\uvi` to login  
 `\uvo` to logout  
 
 
