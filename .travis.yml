@@ -1,8 +1,9 @@
 os: linux
-dist: trusty
+sudo: required
+dist: precise
 sudo: true
 language: cpp
-compiler: gcc
+compiler: g++
 addons:
   apt:
     sources:
@@ -11,7 +12,7 @@ addons:
     - gcc-7
     - g++-7
 before_install:
-    - sudo apt-get update
+    - sudo apt-get update > /dev/null
     - sudo apt install curl
 script:
     - export CC=gcc-7 ;
