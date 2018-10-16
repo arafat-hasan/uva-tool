@@ -2,7 +2,7 @@ sudo: true
 language: cpp
 os: ubuntu
 compiler:
-    - g++-7
+    - g++
 addons:
   apt:
     packages:
