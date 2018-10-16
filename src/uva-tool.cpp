@@ -35,7 +35,7 @@ using namespace std;
 using json = nlohmann::json;
 
 #ifdef __linux__
-    const string szHome = getlogin();
+    const string szHome = getlogin(); // szHome is loginusername in the system
     const string pid_num_cvs = "/usr/share/uva-tool/pid-to-num.cvs";
     const string cookie_file =
     "/home/" + szHome + "/.cache/uva-tool/uva.onlinejudge.org_cookie.txt";

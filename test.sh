@@ -1,5 +1,6 @@
 #!/bin/bash
 
 chmod +x install.sh
-./install.sh "travis"
+./install.sh
+echo "Installed..."
 uva-tool -hunt -u felix_halim -r 10

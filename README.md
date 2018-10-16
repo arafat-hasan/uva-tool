@@ -37,9 +37,19 @@ git clone https://github.com/AHJenin/uva-tool.git
 
 ```sh
 chmod +x install.sh 
-./install.sh $USERNAME
+./install.sh
 ```
 
+
+## Troubleshooting
+Your system may not able to use `getlogin()` function which is used in `src/uva-tool.cpp` file for `szHome` constant. In that case set `szHome` constant to your operating system's username.
+
+Get you login username using command `whoami` or `echo $USERNAME`.
+
+Now set szHome const
+```cpp
+const string szHome = "username";
+```
 
 
 ## Usage Example
