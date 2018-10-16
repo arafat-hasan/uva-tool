@@ -2,6 +2,7 @@ os: linux
 dist: trusty
 sudo: true
 language: cpp
+compiler: gcc
 addons:
   apt:
     sources:
@@ -15,4 +16,5 @@ before_install:
 script:
     - export CC=gcc-7 ;
     - export CXX=g++-7 ;
+    - g++ --version
     - ./test.sh
