@@ -1,7 +1,5 @@
 #!/bin/bash
 
-whoami
 chmod +x install.sh
-./install.sh $USERNAME
+./install.sh travis
 uva-tool -hunt -u felix_halim -r 10
-echo | whoami
