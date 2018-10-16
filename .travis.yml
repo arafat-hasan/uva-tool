@@ -1,6 +1,6 @@
 os: linux
 sudo: required
-dist: precise
+dist: trusty
 sudo: true
 language: cpp
 compiler: g++
@@ -14,8 +14,10 @@ addons:
 before_install:
     - sudo apt-get update > /dev/null
     - sudo apt install curl
-script:
+install:
+    - sudo apt install -qq g++-7
     - export CC=gcc-7 ;
     - export CXX=g++-7 ;
+script:
     - g++ --version
     - ./test.sh
