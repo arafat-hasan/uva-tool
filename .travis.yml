@@ -6,6 +6,6 @@ before_install:
     - sudo apt-get update
     - sudo apt install curl
 install:
-- "[ $CXX = g++ ] && export CXX=g++ || true"
+- "[ $CXX = g++ ] && export CXX=g++-6 || true"
 script:
 - ./test.sh
