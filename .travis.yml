@@ -17,5 +17,5 @@ before_install:
 script:
     - export CC=gcc-7 ;
     - export CXX=g++-7 ;
-    - update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-7 60
+    - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-7 60
     - g++ --version
