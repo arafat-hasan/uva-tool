@@ -2,6 +2,13 @@ uva-tool
 ===================
 
 
+[![Build Status](https://travis-ci.org/arafat-hasan/uva-tool.svg?branch=master)](https://travis-ci.org/arafat-hasan/uva-tool)
+![GitHub](https://img.shields.io/github/license/arafat-hasan/uva-tool.svg)
+![GitHub issues](https://img.shields.io/github/issues/arafat-hasan/uva-tool.svg)
+![GitHub stars](https://img.shields.io/github/stars/arafat-hasan/uva-tool.svg?style=social&label=Stars)
+
+
+
 Command Line Based Tool for [uva onlinejudge](https://uva.onlinejudge.org/) with features Submitting and uHunting.
 
 
@@ -17,12 +24,21 @@ Command Line Based Tool for [uva onlinejudge](https://uva.onlinejudge.org/) with
 General installation process is only available for Linux operating system, Windows version is coming soon. But now, you can use this tool in windows by changing some lines of source code.
 
 - **Install `curl`:** Download and install [curl](https://github.com/curl/curl) (website: https://curl.haxx.se/). On ubuntu to install curl execute  
-`sudo apt install curl`
+
+```sh
+sudo apt install curl
+```
 - **Download uva-tool:** Execute command
-`git clone https://github.com/AHJenin/uva-tool.git`
+
+```sh
+git clone https://github.com/AHJenin/uva-tool.git
+```
 - **Install uva-tool:** In the downloaded folder `uva-tool`, look for `install.sh` file and execute it (C++ compiler needed here, GNU g++ used in testing).  
-`chmod +x install.sh`  
-`./install.sh username    # Here username is login name in your System`
+
+```sh
+chmod +x install.sh 
+./install.sh $USERNAME
+```
 
 
 
