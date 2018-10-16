@@ -15,10 +15,8 @@ before_install:
     - sudo apt-get update
     - sudo apt install curl
 script:
-    - sudo ln -s /usr/bin/gcc-7 /usr/local/bin/gcc
-    - sudo ln -s /usr/bin/g++-7 /usr/local/bin/g++
     - export CC=gcc-7 ;
     - export CXX=g++-7 ;
     - g++ --version
     - g++-7 --version
-    ./test.sh
+    - ./test.sh
