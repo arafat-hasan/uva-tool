@@ -1,16 +1,18 @@
+os: linux
+dist: trusty
 sudo: true
 language: cpp
-os: ubuntu
-compiler:
-    - g++
 addons:
   apt:
+    sources:
+    - ubuntu-toolchain-r-test
     packages:
+    - gcc-7
     - g++-7
 before_install:
     - sudo apt-get update
     - sudo apt install curl
-install:
-- "[ $CXX = g++ ] && export CXX=g++-7 || true"
 script:
-- ./test.sh
+    - export CC=gcc-7 ;
+    - export CXX=g++-7 ;
+    - ./test.sh
