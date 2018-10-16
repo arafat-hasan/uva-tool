@@ -2,16 +2,15 @@ sudo: true
 language: cpp
 os: ubuntu
 compiler:
-    - g++
-    - gcc
+    - g++-7
 addons:
   apt:
     packages:
-    - g++-6
+    - g++-7
 before_install:
     - sudo apt-get update
     - sudo apt install curl
 install:
-- "[ $CXX = g++ ] && export CXX=g++-6 || true"
+- "[ $CXX = g++ ] && export CXX=g++-7 || true"
 script:
 - ./test.sh
