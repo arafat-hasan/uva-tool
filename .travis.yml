@@ -1,7 +1,13 @@
 sudo: true
 language: cpp
 os: ubuntu
-compiler: g++
+compiler:
+    - g++
+    - gcc
+addons:
+  apt:
+    packages:
+    - g++-6
 before_install:
     - sudo apt-get update
     - sudo apt install curl
