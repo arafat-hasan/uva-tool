@@ -6,7 +6,7 @@ uva-tool
 ![GitHub](https://img.shields.io/github/license/arafat-hasan/uva-tool.svg)
 ![GitHub issues](https://img.shields.io/github/issues/arafat-hasan/uva-tool.svg)
 ![GitHub stars](https://img.shields.io/github/stars/arafat-hasan/uva-tool.svg?style=social&label=Stars)
-
+[![AUR version](https://img.shields.io/aur/version/uva-tool-git?logo=Arch-Linux)](https://aur.archlinux.org/packages/uva-tool-git/)
 
 
 Command Line Based Tool for [uva onlinejudge](https://uva.onlinejudge.org/) with features Submitting and uHunting.
