@@ -257,10 +257,10 @@ void hunt (string name, string range) {
 class submit {
     private:
         string cookie_jar = cookie_file;
-        string submitlink = "https://uva.onlinejudge.org/index.php\
+        string submitlink = "https://onlinejudge.org/index.php\
 ?option=com_onlinejudge&Itemid=25&page=save_submission";
         string formdata() {
-            string cmd = curlfunc + " -f -L -s http://uva.onlinejudge.org |";
+            string cmd = curlfunc + " -f -L -s http://onlinejudge.org |";
             cmd += " grep -B8 'id=\"mod_login_remember\"' | awk '{print $3 \" \" $4}'";
             string str = system_exec (cmd.c_str() );
 
@@ -323,14 +323,14 @@ class submit {
             string data = formdata();
 
             if (data == "") {
-                cout << "Can not connect to www.uva.onlinejudge.org\n";
+                cout << "Can not connect to onlinejudge.org\n";
                 return false;
             }
 
             string cmd = curlfunc + " -X POST -f -L -s --compressed ";
             cmd += "--cookie-jar " + cookie_jar + " --data \"";
             cmd += data;
-            cmd += "\" \"https://uva.onlinejudge.org/index.php\
+            cmd += "\" \"https://onlinejudge.org/index.php\
 ?option=com_comprofiler&task=login\"";
             string str = system_exec (cmd.c_str() );
 
@@ -354,7 +354,7 @@ class submit {
             size_t subid = str.find ("mosmsg=Submission+received+with+ID+");
 
             if (str == submitlink)
-                cout << "Can not connect to www.uva.onlinejudge.org\n";
+                cout << "Can not connect to onlinejudge.org\n";
             else if (notlogin != string::npos) {
                 cout << "Not logged in\n";
 
