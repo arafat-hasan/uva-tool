@@ -237,7 +237,7 @@ class Submission {
 void hunt (string name, string range) {
     string cmd, uid, subs_usr_last, tmp;
     Problem problem;
-    cmd = curlfunc + " http://uhunt.onlinejudge.org/api/uname2uid/" + \
+    cmd = curlfunc + " --http1.1 https://uhunt.onlinejudge.org/api/uname2uid/" + \
           name + err;
     uid = system_exec (cmd.c_str() );
 
@@ -247,7 +247,7 @@ void hunt (string name, string range) {
     }
 
     cmd.clear();
-    cmd = curlfunc + " http://uhunt.onlinejudge.org/api/subs-user-last/" + \
+    cmd = curlfunc + " --http1.1 https://uhunt.onlinejudge.org/api/subs-user-last/" + \
           uid + "/" + range + err;
     subs_usr_last = system_exec (cmd.c_str() );
     Submission usr_last_subs (subs_usr_last);
