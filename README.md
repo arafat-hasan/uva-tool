@@ -31,7 +31,7 @@ sudo apt install curl
 - **Download uva-tool:** Execute command
 
 ```sh
-git clone https://github.com/AHJenin/uva-tool.git
+git clone https://github.com/arafat-hasan/uva-tool.git
 ```
 - **Install uva-tool:** In the downloaded folder `uva-tool`, look for `install.sh` file and execute it (C++ compiler needed here, GNU g++ used in testing).  
 
